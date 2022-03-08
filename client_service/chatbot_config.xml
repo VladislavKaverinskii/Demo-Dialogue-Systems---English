@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<agent_config>
+	<name>sdg_chatbot_client</name>
+	<sparql_converter_name>english_text_to_sparql_converter</sparql_converter_name>
+	<sparql_converter_url>http://localhost:8010/convert_special/</sparql_converter_url>
+	<sparql_converter_ep_url>http://localhost:8010/convert_special_ep/</sparql_converter_ep_url>
+	<sparql_converter_aliev_url>http://localhost:8010/convert_special_aliyev/</sparql_converter_aliev_url>
+	<ontology_agent_name>ontology_agent</ontology_agent_name>
+	<sparql_converter_password>rksor6fj82g2gdj31gj</sparql_converter_password>
+	<ontology_agent_url>http://localhost:8009/ontology/</ontology_agent_url>
+	<ontology_agent_password>rksor6fj82g2gdj31gj</ontology_agent_password>
+	<conversation_limitation>1200</conversation_limitation>
+	<garbage_deleting>1000</garbage_deleting>
+	<wait_time>70</wait_time>
+	<db_clean_time>1000</db_clean_time>
+	
+	<answers_comments>
+		<sure_answer> </sure_answer>
+		<broad_question>I think you will be interested in this.</broad_question>
+		<unsure>I can say the following:</unsure>
+		<probably>Maybe you want to know about this:</probably>
+		<related_info>I think this will interest you.</related_info>
+		<additional_info>You will probably also be interested to know:</additional_info>
+	</answers_comments>
+	<greeting_phrases>
+		<phrase>
+			<case>start</case>
+			<text>Hello! This is online guidance on core SDG indicators. What are you interested in?</text>
+		</phrase>
+		<phrase>
+			<case>success</case>
+			<text>The answer is found!</text>
+		</phrase>
+		<phrase>
+			<case>question</case>
+			<text>Hello! What are you interested in?</text>
+		</phrase>
+		<phrase>
+			<case>wrong_input</case>
+			<text>Do not know what to say ... You may only ask questions in English about SDG.</text>
+		</phrase>
+		<phrase>
+			<case>not_understand</case>
+			<text>Looks like I do not understand you. This system works with English language only. It is designed to answer questions about SDG indicators.</text>
+		</phrase>
+		<phrase>
+			<case>no_answer</case>
+			<text>I do not know what to say ... I might be able to give you advise on SDG. </text>
+		</phrase>
+	</greeting_phrases>
+	
+	<greeting_phrases_aliyev>
+		<phrase>
+			<case>start</case>
+			<text>Hello! This is online guidance on Heydar Aliyev's Life and Struggle.. What are you interested in?</text>
+		</phrase>
+		<phrase>
+			<case>success</case>
+			<text>The answer is found!</text>
+		</phrase>
+		<phrase>
+			<case>question</case>
+			<text>Hello! What are you interested in?</text>
+		</phrase>
+		<phrase>
+			<case>wrong_input</case>
+			<text>Do not know what to say ... You may only ask questions in English about Heydar Aliyev.</text>
+		</phrase>
+		<phrase>
+			<case>not_understand</case>
+			<text>Looks like I do not understand you. This system works with English language only. It is designed to answer questions about Heydar Aliyev.</text>
+		</phrase>
+		<phrase>
+			<case>no_answer</case>
+			<text>I do not know what to say ... I might be able to give you some information about Heydar Aliyev. </text>
+		</phrase>
+	</greeting_phrases_aliyev>
+	
+	
+	<standard_answers>
+		<phrase>
+			<case>no_answer</case>
+			<text>Can not find answers ... I can give advice on SDG and something like this. </text>
+		</phrase>
+		<phrase>
+			<case>not_understand</case>
+			<text>I do not know the answer ... This system works exclusively with English language only.  It is designed to answer questions on core SDG indicators. </text>
+		</phrase>
+		<phrase>
+			<case>query_error</case>
+			<text>I could not wait for an answer... </text>
+		</phrase>
+		<phrase>
+			<case>wrong_input</case>
+			<text>The question is empty. You can ask questions in English only.</text>
+		</phrase>
+	</standard_answers>
+	
+	<standard_answers_aliyev>
+		<phrase>
+			<case>no_answer</case>
+			<text>Can not find answers ... I can give some information about Heydar Aliyev an related. </text>
+		</phrase>
+		<phrase>
+			<case>not_understand</case>
+			<text>I do not know the answer ... This system works exclusively with English language only.  It is designed to answer questions about Heydar Aliyev. </text>
+		</phrase>
+		<phrase>
+			<case>query_error</case>
+			<text>I could not wait for an answer... </text>
+		</phrase>
+		<phrase>
+			<case>wrong_input</case>
+			<text>The question is empty. You can ask questions in English only.</text>
+		</phrase>
+	</standard_answers_aliyev>
+	
+	
+	<explanations>
+		<phrase>
+			<case>refuse</case>
+			<text>Call denied.</text>
+		</phrase>
+		<phrase>
+			<case>error</case>
+			<text>Sorry, something is going wrong ...</text>
+		</phrase>
+		<phrase>
+			<case>validation_failure</case>
+			<text>The form is not valid.</text>
+		</phrase>
+	</explanations>
+	
+	<dialog_answers>
+		<phrase>
+			<type>greeting</type>
+			<markers>
+				<item>hi </item>
+				<item>how do you do</item>
+				<item>hallo</item>
+				<item>hello</item>
+				<item>hallo!</item>
+				<item>hello!</item>
+				<item>hola</item>
+				<item>holla</item>
+				<item>good day</item>
+				<item>goodday</item>
+				<item>good morning</item>
+				<item>goodmorning</item>
+				<item>good afternoon</item>
+				<item>good after noon</item>
+				<item>good evening</item>
+				<item>goodevening</item>
+				<item>nice to meet you</item>
+				<item>здравствуй</item>
+				<item>здравствуйте</item>
+				<item>привет</item>
+				<item>приветствую</item>
+				<item>peace on you</item>
+				<item>piss on you</item>
+				<item>hi friend</item>
+				<item>hi bot</item>
+				<item>hi, friend</item>
+				<item>hi, bot</item>
+				<item>hi robot</item>
+				<item>hi, robot</item>
+				<item>greetings</item>
+				<item>greetings!</item>
+				<item>dia dhuit</item>
+				<item>dia dhuit!</item>
+				<item>dia daoibh</item> 
+				<item>dia daoibh!</item>
+				<item>dia's muire dhuit</item>
+				<item>dia's muire dhuit!</item>
+			</markers>
+			<answer>Greetings. This is a reference system is devoted to core SDG indicators questions. I would like to help you.</answer>
+			<answer_aliyev>Greetings. This is a reference system is devoted to Heydar Aliyev's life and struggle. I would like to help you.</answer_aliyev>
+		</phrase>
+		
+		<phrase>
+			<type>system_essence</type>
+			<markers>
+				<item>who are you</item>
+				<item>what are you</item>
+				<item>what is it</item>
+				<item>what is this system</item>
+				<item>what do you need</item>
+			</markers>
+			<answer>This is a reference system about core SDG indicators.</answer>
+		</phrase>
+		<phrase>
+			<type>system_essence_aliev</type>
+			<markers>
+				<item>who are you</item>
+				<item>what are you</item>
+				<item>what is it</item>
+				<item>what is this system</item>
+				<item>what do you need</item>
+			</markers>
+			<answer>This is a reference system about Heydar Aliyev.</answer>
+		</phrase>
+		
+		<phrase>
+			<type>how_are_you</type>
+			<markers>
+				<item>how are you</item>
+				<item>how you are</item>
+				<item>where are you</item>
+			</markers>
+			<answer>All is well. I work. I can answer your questions.</answer>
+		</phrase>
+		<phrase>
+			<type>weather</type>
+			<markers>
+				<item>good weather</item>
+				<item>bad weather</item>
+				<item>weather is good</item>
+				<item>weather is bad</item>
+			</markers>
+			<answer>Probably so. But I am intended for other topics.</answer>
+		</phrase>
+		<phrase>
+			<type>health</type>
+			<markers>
+				<item>i suck</item>
+				<item>i feel ill</item>
+				<item>i do not want to live</item>
+				<item>i have a headache</item>
+				<item>everything hurts me</item>
+			</markers>
+			<answer>You may need to contact the appropriate specialist. Unfortunately, I can not give you advice on this topic, as I deal with other issues.</answer>
+		</phrase>
+		<phrase>
+			<type>thanks</type>
+			<markers>
+				<item>thank</item>
+				<item>thank you</item>
+				<item>thanks, ok</item>
+				<item>ok</item>
+				<item>I look forward to</item>
+			</markers>
+			<answer>I was happy to help you. Are there any other questions?</answer>
+		</phrase>
+		<phrase>
+			<type>misunderstanding</type>
+			<markers>
+				<item>no</item>
+				<item>I understand nothing</item>
+				<item>I do not understand</item>
+			</markers>
+			<answer>Sorry, I just try to do as much as possible.</answer>
+		</phrase>
+		<phrase>
+			<type>insult</type>
+			<markers>
+				<item>you are a fool</item>
+				<item>you are fool</item>
+				<item>tulling</item>
+				<item>you are an idiot</item>
+				<item>fuck you</item>
+				<item>go to hell</item>
+				<item>fuck</item>
+				<item>you're a freak</item>
+				<item>you're a fucking freak</item>
+				<item>you are a freak</item>
+				<item>you are a fucking freak</item>
+				<item>you're freak</item>
+				<item>you're fucking freak</item>
+				<item>you are freak</item>
+				<item>you are fucking freak</item>
+			</markers>
+			<answer>Sorry if I was wrong. I only can tell you what I know. Please, let's do without insults.</answer>
+		</phrase>
+		<phrase>
+			<type>apology</type>
+			<markers>
+				<item>excuse me</item>
+				<item>pardon</item>
+				<item>forgive me</item>
+				<item>sorry</item>
+				<item>i am sorry</item>
+			</markers>
+			<answer>Do not say sorry. All is going well.</answer>
+		</phrase>
+	</dialog_answers>
+	
+	<goodbye_phrases>
+		<item>good bye</item>
+		<item>goodbye</item>
+		<item>farewell</item>
+		<item>good luck</item>
+		<item>see you again</item>
+		<item>have a good time</item>
+		<item>get out of here</item>
+		<item>go away</item>
+		<item>end the dialog</item>
+		<item>let's end the dialog</item>
+	</goodbye_phrases>
+	
+</agent_config>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

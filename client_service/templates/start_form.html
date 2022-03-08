@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+
+
+{% block chat_form %}
+	<form action="" method="post">
+	  {% csrf_token %}
+	  {{ form.as_p }}
+	  <div class="">
+		<div class="">
+		  <div class="">
+
+			<p class="form_label"><label><strong>Натисніть кнопку, щоб розпочати розмову:</strong></label></p>
+			<p class="button_area">
+				<span>
+					<button type="submit" class="btn btn-primary btn-md"><strong>Почніть розмову</strong></button>
+				</span>
+				
+			</p>
+		  </div>
+		</div>
+	  </div>
+	</form>
+	
+	<!--
+	{% if convresation_id %}
+	<form action="process_question/" method="get">	
+	  {% csrf_token %}
+	  {{ form.as_p }}
+		<div class="">
+			<div class="">
+			  <div class="">
+			  <p class="form_label"><label><strong>Eller klikk her for å fortsette den nåværende samtalen:</strong></label></p>
+			  <p class="button_area">
+				<span>
+					<button type="submit" class="btn btn-primary btn-md"><strong>Fortsette en samtale</strong></button>
+				</span>
+				
+			</p>
+		  </div>
+		</div>
+	  </div>
+	</form>
+	{% endif %}
+	-->			
+	
+	
+{% endblock %}
+<div class="form_area">
+{% block main_answer %}
+
+{% endblock %}
+</div>

@@ -1,0 +1,148 @@
+{% extends "base.html" %}
+
+
+
+
+{% block main_answer %}
+{% for message in history %}
+{% if message.type == "answer" %}
+<div class="tex_area">
+{% if message.local_link %}
+	<p class="person_label" id="{{ message.local_link }}"><i><strong>Bot:</strong></i></p>
+{% else %}
+	<p class="person_label"><i><strong>Bot:</strong></i></p>
+{% endif %}
+
+<hr />
+<div>
+	<p>{{ message.date_time }}</p>
+	{% autoescape off %}
+		{% for answer in message.primary_answers %}
+			{% if answer.comment %}
+				<h4>{{ answer.comment }}</h4>
+			{% endif %}
+			<h3>{{ answer.name }}</h3>
+			<br />
+			<p>{{ answer.content }}</p>
+			<br />
+		{% endfor %}
+	{% endautoescape %}
+	
+	{% if message.additional_answers %}	
+		
+	    <h3>{{ message.additional_info_message }}</h3>
+		{% for answer in message.additional_answers %}
+		  <form action="" method="post">
+		  {% csrf_token %}
+		  {{ form.as_p }}
+			  <div class="">
+				<div class="">
+				  <div class="">
+					<input hidden="true" type="text" name="is_additional" value="True" />
+					<input hidden="true" type="text" name="question" value="{{ answer.key }}" />
+					<input hidden="true" type="text" name="time" value="{{ message.date_time }}" />
+					<button type="submit" class="btn-addition">{{ answer.name }}</button>
+				  </div>
+				</div>
+			  </div>
+		  </form>
+		{% endfor %}
+	{% endif %}
+</div>
+</div>
+{% else %}
+	{% if message.type == "question" %}
+		<div class="tex_area_question">
+		{% if message.local_link %}
+			<p class="person_label" id="{{ message.local_link }}"><i><strong>Користувач:</strong></i></p>
+		{% else %}
+			<p class="person_label"><i><strong>Користувач:</strong></i></p>
+		{% endif %}
+		
+		<hr />
+		<div>
+			<p>{{ message.date_time }}</p>
+			<h3>{{ message.question }}</h3>	
+		</div>
+		</div>
+	{% else %}
+    	{% if message.type == "additional_answer" %}	
+			<div class="tex_area_additional">
+			{% if message.local_link %}
+				<p class="person_label" id="{{ message.local_link }}"><i><strong>Додаткова інформація:</strong></i></p>
+			{% else %}
+				<p class="person_label"><i><strong>Додаткова інформація:</strong></i></p>
+			{% endif %}
+			
+			<p><hr /></p>
+			<div>
+				{% autoescape off %}
+					{% for answer in message.primary_answers %}
+						{% if answer.comment %}
+							<h4>{{ answer.comment }}</h4>
+						{% endif %}
+						<h3>{{ answer.name }}</h3>
+						<br />
+						<p>{{ answer.content }}</p>
+						<br />
+					{% endfor %}
+				{% endautoescape %}
+			</div>
+			</div>		
+		{% endif %}		
+	{% endif %}
+{% endif %}
+
+{% endfor %}
+
+{% endblock %}
+
+{% block chat_form %}
+
+
+	<form action="" method="post">
+	  {% csrf_token %}
+	  {{ form.as_p }}
+	  <div class="">
+		<div class="">
+		  <div class="">
+			<p class="form_label"><label><strong>{{ greeting_phrase }}</strong></label></p>
+			<p class="input_area"><input type="text" name="question" placeholder="Введіть своє запитання"></p>
+			<p class="button_area"><button type="submit" class="btn btn-primary btn-md"><strong>Запитати</strong></button></p>
+		  </div>
+		</div>
+	  </div>
+	</form>
+{% endblock %}
+
+{% block unsubscribe %}
+    <form action="../ask_unsubscribe/" method="get">
+	  {% csrf_token %}
+	  {{ form.as_p }}
+	  <div class="">
+		<div class="">
+		  <div class="">
+
+			<p class="button_area">
+				<span>
+					<button type="submit" class="btn btn-primary btn-md"><strong>Завершити діалог</strong></button>
+				</span>
+				
+			</p>
+		  </div>
+		</div>
+	  </div>
+	</form>
+{% endblock %}
+
+
+
+
+
+
+
+
+
+
+
+

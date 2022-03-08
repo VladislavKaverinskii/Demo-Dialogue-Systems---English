@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+
+{% block chat_form %}
+	<form action="" method="get">
+	  {% csrf_token %}
+	  {{ form.as_p }}
+	  <div class="">
+		<div class="">
+		  <div class="">
+
+			<label><strong>{{ waiting_messege }}</strong></label>
+
+		  </div>
+		</div>
+	  </div>
+	</form>
+{% endblock %}
+
+{% block main_answer %}
+<p><hr /></p>
+
+{% endblock %}

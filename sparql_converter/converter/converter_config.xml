@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<converter_config>
+	<input_variables_names_description>
+		<variable>
+			<name>inputEntity</name>
+			<destination>any</destination>
+		</variable>
+		<variable>
+			<name>inputMarker</name>
+			<destination>marker_word</destination>
+		</variable>
+		<variable>
+			<name>inputAction</name>
+			<destination>action_entity</destination>
+		</variable>
+		<variable>
+			<name>inputObject</name>
+			<destination>object_entity</destination>
+		</variable>
+		<variable>
+			<name>inputNumber</name>
+			<destination>number_entity</destination>
+		</variable>
+		<variable>
+			<name>inputAdj</name>
+			<destination>adjective_entity</destination>
+		</variable>
+		<variable>
+			<name>inputAdv</name>
+			<destination>adverb_entity</destination>
+		</variable>
+	</input_variables_names_description>
+</converter_config>

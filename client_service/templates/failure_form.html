@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+
+{% block chat_form %}
+	<form action="" method="get">
+	  {% csrf_token %}
+	  {{ form.as_p }}
+	  <div class="">
+		<div class="">
+		  <div class="">
+
+			<label><strong>{{ explanation }}</strong></label>
+			<p><button type="submit" class="btn btn-primary btn-md"><strong>Спробуйте розпочати нову розмову.</strong></button></p>
+		  </div>
+		</div>
+	  </div>
+	</form>
+{% endblock %}
+
+{% block main_answer %}
+<p><hr /></p>
+
+{% endblock %}

@@ -1,0 +1,7776 @@
+{
+  "class_names_dict": {
+    "Indirect_contribution": {
+      "words": [
+        {
+          "text": "indirect",
+          "POS": "NN"
+        },
+        {
+          "text": "contribut",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Expenditures_on_employee_health_and_safety_as_a_proportion_of_revenue": {
+      "words": [
+        {
+          "text": "expenditur",
+          "POS": "NNS"
+        },
+        {
+          "text": "on",
+          "POS": "IN"
+        },
+        {
+          "text": "employe",
+          "POS": "NN"
+        },
+        {
+          "text": "health",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "safeti",
+          "POS": "NN"
+        },
+        {
+          "text": "as",
+          "POS": "IN"
+        },
+        {
+          "text": "a",
+          "POS": "DT"
+        },
+        {
+          "text": "proport",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "revenu",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Waste_management_and_waste_of_energy": {
+      "words": [
+        {
+          "text": "wast",
+          "POS": "NN"
+        },
+        {
+          "text": "manag",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "wast",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "energi",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Local_rates": {
+      "words": [
+        {
+          "text": "local",
+          "POS": "JJ"
+        },
+        {
+          "text": "rate",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Payments_to_the_Government": {
+      "words": [
+        {
+          "text": "payment",
+          "POS": "NNS"
+        },
+        {
+          "text": "to",
+          "POS": "TO"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "govern",
+          "POS": "NN"
+        }
+      ]
+    },
+    "The_accrual_accounting_principle": {
+      "words": [
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "accrual",
+          "POS": "JJ"
+        },
+        {
+          "text": "account",
+          "POS": "NN"
+        },
+        {
+          "text": "principl",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Based_on_the_number_of_employees": {
+      "words": [
+        {
+          "text": "base",
+          "POS": "VBN"
+        },
+        {
+          "text": "on",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "number",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "employe",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Checklist_of_elements_that_are_related_to_employee_health_and_safety": {
+      "words": [
+        {
+          "text": "checklist",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "element",
+          "POS": "NNS"
+        },
+        {
+          "text": "that",
+          "POS": "IN"
+        },
+        {
+          "text": "are",
+          "POS": "VBP"
+        },
+        {
+          "text": "relat",
+          "POS": "JJ"
+        },
+        {
+          "text": "to",
+          "POS": "TO"
+        },
+        {
+          "text": "employe",
+          "POS": "NN"
+        },
+        {
+          "text": "health",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "safeti",
+          "POS": "NN"
+        }
+      ]
+    },
+    "The_computation_hours_of_training_related_to_anti__corruption_issues": {
+      "words": [
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "comput",
+          "POS": "NN"
+        },
+        {
+          "text": "hour",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "train",
+          "POS": "NN"
+        },
+        {
+          "text": "relat",
+          "POS": "JJ"
+        },
+        {
+          "text": "to",
+          "POS": "TO"
+        },
+        {
+          "text": "anti",
+          "POS": "NN"
+        },
+        {
+          "text": "corrupt",
+          "POS": "NN"
+        },
+        {
+          "text": "issu",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Categorized_by_size_of_suppliers": {
+      "words": [
+        {
+          "text": "categor",
+          "POS": "VBN"
+        },
+        {
+          "text": "by",
+          "POS": "IN"
+        },
+        {
+          "text": "size",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "supplier",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Environmental_area": {
+      "words": [
+        {
+          "text": "environment",
+          "POS": "JJ"
+        },
+        {
+          "text": "area",
+          "POS": "NN"
+        }
+      ]
+    },
+    "External_training_or_education__lbraket_supported_by_the_entity_rbraket_": {
+      "words": [
+        {
+          "text": "extern",
+          "POS": "JJ"
+        },
+        {
+          "text": "train",
+          "POS": "NN"
+        },
+        {
+          "text": "or",
+          "POS": "CC"
+        },
+        {
+          "text": "educ",
+          "POS": "NN"
+        },
+        {
+          "text": "support",
+          "POS": "VBN"
+        },
+        {
+          "text": "by",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "entiti",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Water_recycling_and_reuse": {
+      "words": [
+        {
+          "text": "water",
+          "POS": "NN"
+        },
+        {
+          "text": "recycl",
+          "POS": "VBG"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "reus",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Value_added_income_statement": {
+      "words": [
+        {
+          "text": "valu",
+          "POS": "NN"
+        },
+        {
+          "text": "ad",
+          "POS": "VBD"
+        },
+        {
+          "text": "incom",
+          "POS": "NN"
+        },
+        {
+          "text": "statement",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Explanation_of_green_investment": {
+      "words": [
+        {
+          "text": "explan",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "green",
+          "POS": "JJ"
+        },
+        {
+          "text": "invest",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Open___and_closed__loop": {
+      "words": [
+        {
+          "text": "open",
+          "POS": "JJ"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "close",
+          "POS": "VBD"
+        },
+        {
+          "text": "loop",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Underlying_accounting_data": {
+      "words": [
+        {
+          "text": "underli",
+          "POS": "VBG"
+        },
+        {
+          "text": "account",
+          "POS": "NN"
+        },
+        {
+          "text": "data",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Rationale_and_objective": {
+      "words": [
+        {
+          "text": "rational",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "object",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Costs_of_local_procurement": {
+      "words": [
+        {
+          "text": "cost",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "local",
+          "POS": "JJ"
+        },
+        {
+          "text": "procur",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Process_emissions": {
+      "words": [
+        {
+          "text": "process",
+          "POS": "NN"
+        },
+        {
+          "text": "emiss",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "The_amounts_of_all_mineral_comma__non__mineral_and_slash_or_hazardous_waste": {
+      "words": [
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "amount",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "all",
+          "POS": "DT"
+        },
+        {
+          "text": "miner",
+          "POS": "NN"
+        },
+        {
+          "text": "non",
+          "POS": "NN"
+        },
+        {
+          "text": "miner",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "or",
+          "POS": "CC"
+        },
+        {
+          "text": "hazard",
+          "POS": "JJ"
+        },
+        {
+          "text": "wast",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Greenhouse_gas_emissions__lbraket_scope__two__rbraket_": {
+      "words": [
+        {
+          "text": "greenhous",
+          "POS": "NN"
+        },
+        {
+          "text": "ga",
+          "POS": "NN"
+        },
+        {
+          "text": "emiss",
+          "POS": "NNS"
+        },
+        {
+          "text": "scope",
+          "POS": "NN"
+        },
+        {
+          "text": "two",
+          "POS": "CD"
+        }
+      ]
+    },
+    "Modification_of_formulas_comma__products_comma__or_processes": {
+      "words": [
+        {
+          "text": "modif",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "formula",
+          "POS": "NNS"
+        },
+        {
+          "text": "product",
+          "POS": "NNS"
+        },
+        {
+          "text": "or",
+          "POS": "CC"
+        },
+        {
+          "text": "process",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Variable_pay__lbraket_including_performance__based_pay_comma__equity__based_pay_comma__bonuses_comma__and_deferred_or_vested_shares_rbraket_": {
+      "words": [
+        {
+          "text": "variabl",
+          "POS": "JJ"
+        },
+        {
+          "text": "pay",
+          "POS": "NN"
+        },
+        {
+          "text": "includ",
+          "POS": "VBG"
+        },
+        {
+          "text": "perform",
+          "POS": "NN"
+        },
+        {
+          "text": "base",
+          "POS": "VBN"
+        },
+        {
+          "text": "pay",
+          "POS": "NN"
+        },
+        {
+          "text": "equiti",
+          "POS": "NN"
+        },
+        {
+          "text": "base",
+          "POS": "VBN"
+        },
+        {
+          "text": "pay",
+          "POS": "NN"
+        },
+        {
+          "text": "bonus",
+          "POS": "NNS"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "defer",
+          "POS": "VBN"
+        },
+        {
+          "text": "or",
+          "POS": "CC"
+        },
+        {
+          "text": "vest",
+          "POS": "JJ"
+        },
+        {
+          "text": "share",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Greenhouse_gas_emissions": {
+      "words": [
+        {
+          "text": "greenhous",
+          "POS": "NN"
+        },
+        {
+          "text": "ga",
+          "POS": "NN"
+        },
+        {
+          "text": "emiss",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Frequency_slash_incident_rates_of_occupational_injuries": {
+      "words": [
+        {
+          "text": "frequenc",
+          "POS": "NN"
+        },
+        {
+          "text": "incid",
+          "POS": "NN"
+        },
+        {
+          "text": "rate",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "occup",
+          "POS": "JJ"
+        },
+        {
+          "text": "injuri",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Retirement_benefits": {
+      "words": [
+        {
+          "text": "retir",
+          "POS": "NN"
+        },
+        {
+          "text": "benefit",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "On__site_or_off__site_through_closed__loop": {
+      "words": [
+        {
+          "text": "On",
+          "POS": "IN"
+        },
+        {
+          "text": "site",
+          "POS": "NN"
+        },
+        {
+          "text": "or",
+          "POS": "CC"
+        },
+        {
+          "text": "off",
+          "POS": "IN"
+        },
+        {
+          "text": "site",
+          "POS": "NN"
+        },
+        {
+          "text": "through",
+          "POS": "IN"
+        },
+        {
+          "text": "close",
+          "POS": "VBD"
+        },
+        {
+          "text": "loop",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Social_area": {
+      "words": [
+        {
+          "text": "social",
+          "POS": "JJ"
+        },
+        {
+          "text": "area",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Termination_payments": {
+      "words": [
+        {
+          "text": "termin",
+          "POS": "NN"
+        },
+        {
+          "text": "payment",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Re__manufactured": {
+      "words": [
+        {
+          "text": "Re",
+          "POS": "NN"
+        },
+        {
+          "text": "manufactur",
+          "POS": "VBD"
+        }
+      ]
+    },
+    "Lost_days": {
+      "words": [
+        {
+          "text": "lost",
+          "POS": "VBN"
+        },
+        {
+          "text": "day",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Greenhouse_gas_emissions__lbraket_scope__one__rbraket_": {
+      "words": [
+        {
+          "text": "greenhous",
+          "POS": "NN"
+        },
+        {
+          "text": "ga",
+          "POS": "NN"
+        },
+        {
+          "text": "emiss",
+          "POS": "NNS"
+        },
+        {
+          "text": "scope",
+          "POS": "NN"
+        },
+        {
+          "text": "one",
+          "POS": "CD"
+        }
+      ]
+    },
+    "Facility": {
+      "words": [
+        {
+          "text": "facil",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Revenue_and_slash_or__lbraket_net_rbraket__value_added": {
+      "words": [
+        {
+          "text": "revenu",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "or",
+          "POS": "CC"
+        },
+        {
+          "text": "net",
+          "POS": "NN"
+        },
+        {
+          "text": "valu",
+          "POS": "NN"
+        },
+        {
+          "text": "ad",
+          "POS": "VBD"
+        }
+      ]
+    },
+    "Economic_area": {
+      "words": [
+        {
+          "text": "econom",
+          "POS": "JJ"
+        },
+        {
+          "text": "area",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Economic_value_distributed": {
+      "words": [
+        {
+          "text": "econom",
+          "POS": "JJ"
+        },
+        {
+          "text": "valu",
+          "POS": "NN"
+        },
+        {
+          "text": "distribut",
+          "POS": "VBN"
+        }
+      ]
+    },
+    "Emissions_of_carbon_dioxide__lbraket_CO_two__rbraket_": {
+      "words": [
+        {
+          "text": "emiss",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "carbon",
+          "POS": "NN"
+        },
+        {
+          "text": "dioxid",
+          "POS": "NN"
+        },
+        {
+          "text": "CO",
+          "POS": "NN"
+        },
+        {
+          "text": "two",
+          "POS": "CD"
+        }
+      ]
+    },
+    "Clarity_of_reporting_boundaries": {
+      "words": [
+        {
+          "text": "clariti",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "report",
+          "POS": "NN"
+        },
+        {
+          "text": "boundari",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Recycled": {
+      "words": [
+        {
+          "text": "recycl",
+          "POS": "VBN"
+        }
+      ]
+    },
+    "Caloric_content": {
+      "words": [
+        {
+          "text": "calor",
+          "POS": "NN"
+        },
+        {
+          "text": "content",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Training_equipment": {
+      "words": [
+        {
+          "text": "train",
+          "POS": "NN"
+        },
+        {
+          "text": "equip",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Additional_ratios_expressing": {
+      "words": [
+        {
+          "text": "addit",
+          "POS": "JJ"
+        },
+        {
+          "text": "ratio",
+          "POS": "NNS"
+        },
+        {
+          "text": "express",
+          "POS": "VBG"
+        }
+      ]
+    },
+    "Pollution_controls": {
+      "words": [
+        {
+          "text": "pollut",
+          "POS": "NN"
+        },
+        {
+          "text": "control",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Example_of_development_expense": {
+      "words": [
+        {
+          "text": "exampl",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "develop",
+          "POS": "NN"
+        },
+        {
+          "text": "expens",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Reporting_on_mental_health_and_stress": {
+      "words": [
+        {
+          "text": "report",
+          "POS": "NN"
+        },
+        {
+          "text": "on",
+          "POS": "IN"
+        },
+        {
+          "text": "mental",
+          "POS": "NN"
+        },
+        {
+          "text": "health",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "stress",
+          "POS": "NN"
+        }
+      ]
+    },
+    "The_calculation_of_the_numerator": {
+      "words": [
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "calcul",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "numer",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Recycling": {
+      "words": [
+        {
+          "text": "recycl",
+          "POS": "VBG"
+        }
+      ]
+    },
+    "Under_IFRS__lbraket_IAS__thre__eight__rbraket_": {
+      "words": [
+        {
+          "text": "under",
+          "POS": "IN"
+        },
+        {
+          "text": "ifr",
+          "POS": "NN"
+        },
+        {
+          "text": "ia",
+          "POS": "NN"
+        },
+        {
+          "text": "thre",
+          "POS": "NN"
+        },
+        {
+          "text": "eight",
+          "POS": "CD"
+        }
+      ]
+    },
+    "Determining_working_conditions_and_terms_of_employment": {
+      "words": [
+        {
+          "text": "determin",
+          "POS": "VBG"
+        },
+        {
+          "text": "work",
+          "POS": "VBG"
+        },
+        {
+          "text": "condit",
+          "POS": "NNS"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "term",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "employ",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Simplicity": {
+      "words": [
+        {
+          "text": "simplic",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Value_added_tax__lbraket_VAT_rbraket_": {
+      "words": [
+        {
+          "text": "valu",
+          "POS": "NN"
+        },
+        {
+          "text": "ad",
+          "POS": "VBD"
+        },
+        {
+          "text": "tax",
+          "POS": "NN"
+        },
+        {
+          "text": "vat",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Global_warming_potentials__lbraket_GWPs_rbraket_": {
+      "words": [
+        {
+          "text": "global",
+          "POS": "JJ"
+        },
+        {
+          "text": "warm",
+          "POS": "VBG"
+        },
+        {
+          "text": "potenti",
+          "POS": "NNS"
+        },
+        {
+          "text": "gwp",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Contributions_to_charities_comma__non__governmental_organizations_and_research_institutes": {
+      "words": [
+        {
+          "text": "contribut",
+          "POS": "NNS"
+        },
+        {
+          "text": "to",
+          "POS": "TO"
+        },
+        {
+          "text": "chariti",
+          "POS": "NNS"
+        },
+        {
+          "text": "non",
+          "POS": "NN"
+        },
+        {
+          "text": "government",
+          "POS": "NN"
+        },
+        {
+          "text": "organ",
+          "POS": "NNS"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "research",
+          "POS": "NN"
+        },
+        {
+          "text": "institut",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Funding_of_community_infrastructures": {
+      "words": [
+        {
+          "text": "fund",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "commun",
+          "POS": "NN"
+        },
+        {
+          "text": "infrastructur",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "The_water_use_per_net_value_added": {
+      "words": [
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "water",
+          "POS": "NN"
+        },
+        {
+          "text": "use",
+          "POS": "NN"
+        },
+        {
+          "text": "per",
+          "POS": "IN"
+        },
+        {
+          "text": "net",
+          "POS": "NN"
+        },
+        {
+          "text": "valu",
+          "POS": "NN"
+        },
+        {
+          "text": "ad",
+          "POS": "VBD"
+        }
+      ]
+    },
+    "Monitoring_the_level_of_progress": {
+      "words": [
+        {
+          "text": "monitor",
+          "POS": "NN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "level",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "progress",
+          "POS": "NN"
+        }
+      ]
+    },
+    "All_the_training_programmes_undertaken_by_an_entity_in_a_reporting_period": {
+      "words": [
+        {
+          "text": "all",
+          "POS": "DT"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "train",
+          "POS": "NN"
+        },
+        {
+          "text": "programm",
+          "POS": "NNS"
+        },
+        {
+          "text": "undertaken",
+          "POS": "JJ"
+        },
+        {
+          "text": "by",
+          "POS": "IN"
+        },
+        {
+          "text": "an",
+          "POS": "DT"
+        },
+        {
+          "text": "entiti",
+          "POS": "NN"
+        },
+        {
+          "text": "in",
+          "POS": "IN"
+        },
+        {
+          "text": "a",
+          "POS": "DT"
+        },
+        {
+          "text": "report",
+          "POS": "NN"
+        },
+        {
+          "text": "period",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Number_of_new_injury_cases": {
+      "words": [
+        {
+          "text": "number",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "new",
+          "POS": "JJ"
+        },
+        {
+          "text": "injuri",
+          "POS": "NN"
+        },
+        {
+          "text": "case",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Ozone__depleting_substances_and_chemicals": {
+      "words": [
+        {
+          "text": "ozon",
+          "POS": "NN"
+        },
+        {
+          "text": "deplet",
+          "POS": "VBG"
+        },
+        {
+          "text": "substanc",
+          "POS": "NNS"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "chemic",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Geothermal_energy": {
+      "words": [
+        {
+          "text": "geotherm",
+          "POS": "NN"
+        },
+        {
+          "text": "energi",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Sign__on_bonuses_or_recruitment_incentive_payments": {
+      "words": [
+        {
+          "text": "sign",
+          "POS": "NN"
+        },
+        {
+          "text": "on",
+          "POS": "IN"
+        },
+        {
+          "text": "bonus",
+          "POS": "NNS"
+        },
+        {
+          "text": "or",
+          "POS": "CC"
+        },
+        {
+          "text": "recruit",
+          "POS": "NN"
+        },
+        {
+          "text": "incent",
+          "POS": "NN"
+        },
+        {
+          "text": "payment",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Example_of_the_calculation_of_indicator": {
+      "words": [
+        {
+          "text": "exampl",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "calcul",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "indic",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Excel_file": {
+      "words": [
+        {
+          "text": "excel",
+          "POS": "NN"
+        },
+        {
+          "text": "file",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Course_fees": {
+      "words": [
+        {
+          "text": "cours",
+          "POS": "NN"
+        },
+        {
+          "text": "fee",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Capital_formation_and_the_purchase_of_land_for_environmental_protection_activities": {
+      "words": [
+        {
+          "text": "capit",
+          "POS": "NN"
+        },
+        {
+          "text": "format",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "purchas",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "land",
+          "POS": "NN"
+        },
+        {
+          "text": "for",
+          "POS": "IN"
+        },
+        {
+          "text": "environment",
+          "POS": "JJ"
+        },
+        {
+          "text": "protect",
+          "POS": "NN"
+        },
+        {
+          "text": "activ",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Direct_costs_of_social_programmes": {
+      "words": [
+        {
+          "text": "direct",
+          "POS": "JJ"
+        },
+        {
+          "text": "cost",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "social",
+          "POS": "JJ"
+        },
+        {
+          "text": "programm",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Direct_economic_value": {
+      "words": [
+        {
+          "text": "direct",
+          "POS": "JJ"
+        },
+        {
+          "text": "econom",
+          "POS": "JJ"
+        },
+        {
+          "text": "valu",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Human_capital": {
+      "words": [
+        {
+          "text": "human",
+          "POS": "NN"
+        },
+        {
+          "text": "capit",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Biomass": {
+      "words": [
+        {
+          "text": "biomass",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Normalizing_data_on_energy_consumption": {
+      "words": [
+        {
+          "text": "normal",
+          "POS": "VBG"
+        },
+        {
+          "text": "data",
+          "POS": "NNS"
+        },
+        {
+          "text": "on",
+          "POS": "IN"
+        },
+        {
+          "text": "energi",
+          "POS": "NN"
+        },
+        {
+          "text": "consumpt",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Presented_in_absolute_amounts": {
+      "words": [
+        {
+          "text": "present",
+          "POS": "VBN"
+        },
+        {
+          "text": "in",
+          "POS": "IN"
+        },
+        {
+          "text": "absolut",
+          "POS": "NN"
+        },
+        {
+          "text": "amount",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Number_of_meetings_of_audit_committee_and_attendance_rate": {
+      "words": [
+        {
+          "text": "number",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "meet",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "audit",
+          "POS": "NN"
+        },
+        {
+          "text": "committe",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "attend",
+          "POS": "NN"
+        },
+        {
+          "text": "rate",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Identify_all_convictions_and_other_settlements_for_violations_of_corruption_related_laws_or_regulations": {
+      "words": [
+        {
+          "text": "identifi",
+          "POS": "VB"
+        },
+        {
+          "text": "all",
+          "POS": "DT"
+        },
+        {
+          "text": "convict",
+          "POS": "NNS"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "other",
+          "POS": "JJ"
+        },
+        {
+          "text": "settlement",
+          "POS": "NNS"
+        },
+        {
+          "text": "for",
+          "POS": "IN"
+        },
+        {
+          "text": "violat",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "corrupt",
+          "POS": "NN"
+        },
+        {
+          "text": "relat",
+          "POS": "JJ"
+        },
+        {
+          "text": "law",
+          "POS": "NNS"
+        },
+        {
+          "text": "or",
+          "POS": "CC"
+        },
+        {
+          "text": "regul",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Guidance_on_core_SDG_indicators": {
+      "words": [
+        {
+          "text": "guidanc",
+          "POS": "NN"
+        },
+        {
+          "text": "on",
+          "POS": "IN"
+        },
+        {
+          "text": "core",
+          "POS": "NN"
+        },
+        {
+          "text": "sdg",
+          "POS": "NN"
+        },
+        {
+          "text": "indic",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Operating_costs": {
+      "words": [
+        {
+          "text": "oper",
+          "POS": "NN"
+        },
+        {
+          "text": "cost",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Sum_up_all_the_amounts_identified_with_reference_to_the_reporting_period": {
+      "words": [
+        {
+          "text": "sum",
+          "POS": "NN"
+        },
+        {
+          "text": "up",
+          "POS": "RB"
+        },
+        {
+          "text": "all",
+          "POS": "DT"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "amount",
+          "POS": "NNS"
+        },
+        {
+          "text": "identifi",
+          "POS": "VBN"
+        },
+        {
+          "text": "with",
+          "POS": "IN"
+        },
+        {
+          "text": "refer",
+          "POS": "NN"
+        },
+        {
+          "text": "to",
+          "POS": "TO"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "report",
+          "POS": "NN"
+        },
+        {
+          "text": "period",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Broader_measures_of_diversity": {
+      "words": [
+        {
+          "text": "broader",
+          "POS": "NN"
+        },
+        {
+          "text": "measur",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "divers",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Region": {
+      "words": [
+        {
+          "text": "region",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Combustion_technologies_for_improved_efficiency": {
+      "words": [
+        {
+          "text": "combust",
+          "POS": "NN"
+        },
+        {
+          "text": "technolog",
+          "POS": "NNS"
+        },
+        {
+          "text": "for",
+          "POS": "IN"
+        },
+        {
+          "text": "improv",
+          "POS": "VBN"
+        },
+        {
+          "text": "effici",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Design_of_tools_that_involve_new_technology": {
+      "words": [
+        {
+          "text": "design",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "tool",
+          "POS": "NNS"
+        },
+        {
+          "text": "that",
+          "POS": "IN"
+        },
+        {
+          "text": "involv",
+          "POS": "NN"
+        },
+        {
+          "text": "new",
+          "POS": "JJ"
+        },
+        {
+          "text": "technolog",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Same_geographical_market": {
+      "words": [
+        {
+          "text": "same",
+          "POS": "JJ"
+        },
+        {
+          "text": "geograph",
+          "POS": "JJ"
+        },
+        {
+          "text": "market",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Calculation_the_indicator_at_facility_level_slash_business_site_level": {
+      "words": [
+        {
+          "text": "calcul",
+          "POS": "NN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "indic",
+          "POS": "NN"
+        },
+        {
+          "text": "at",
+          "POS": "IN"
+        },
+        {
+          "text": "facil",
+          "POS": "NN"
+        },
+        {
+          "text": "level",
+          "POS": "NN"
+        },
+        {
+          "text": "busi",
+          "POS": "NN"
+        },
+        {
+          "text": "site",
+          "POS": "NN"
+        },
+        {
+          "text": "level",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Normalized": {
+      "words": [
+        {
+          "text": "normal",
+          "POS": "VBN"
+        }
+      ]
+    },
+    "Basel_Convention": {
+      "words": [
+        {
+          "text": "basel",
+          "POS": "NN"
+        },
+        {
+          "text": "convent",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Ratio_of_total_R_and_D_expenditures_over_total_revenues_and_slash_or_assets": {
+      "words": [
+        {
+          "text": "ratio",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "total",
+          "POS": "JJ"
+        },
+        {
+          "text": "R",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "D",
+          "POS": "NN"
+        },
+        {
+          "text": "expenditur",
+          "POS": "NNS"
+        },
+        {
+          "text": "over",
+          "POS": "IN"
+        },
+        {
+          "text": "total",
+          "POS": "JJ"
+        },
+        {
+          "text": "revenu",
+          "POS": "NNS"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "or",
+          "POS": "CC"
+        },
+        {
+          "text": "asset",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Cover_the_issue_of_codes_of_conduct_used_to_remedy_convictions": {
+      "words": [
+        {
+          "text": "cover",
+          "POS": "NN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "issu",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "code",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "conduct",
+          "POS": "NN"
+        },
+        {
+          "text": "use",
+          "POS": "VBN"
+        },
+        {
+          "text": "to",
+          "POS": "TO"
+        },
+        {
+          "text": "remedi",
+          "POS": "NN"
+        },
+        {
+          "text": "convict",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Ground_water": {
+      "words": [
+        {
+          "text": "ground",
+          "POS": "NN"
+        },
+        {
+          "text": "water",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Full_time_equivalent__lbraket_FTE_rbraket_": {
+      "words": [
+        {
+          "text": "full",
+          "POS": "JJ"
+        },
+        {
+          "text": "time",
+          "POS": "NN"
+        },
+        {
+          "text": "equival",
+          "POS": "NN"
+        },
+        {
+          "text": "fte",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Produced_slash_process_water": {
+      "words": [
+        {
+          "text": "produc",
+          "POS": "VBN"
+        },
+        {
+          "text": "process",
+          "POS": "NN"
+        },
+        {
+          "text": "water",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Reporting_principles": {
+      "words": [
+        {
+          "text": "report",
+          "POS": "NN"
+        },
+        {
+          "text": "principl",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Undermining_the_rule_of_law": {
+      "words": [
+        {
+          "text": "undermin",
+          "POS": "VBG"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "rule",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "law",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Support_of_social_programmes": {
+      "words": [
+        {
+          "text": "support",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "social",
+          "POS": "JJ"
+        },
+        {
+          "text": "programm",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Operations_and_water_resource_context": {
+      "words": [
+        {
+          "text": "oper",
+          "POS": "NNS"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "water",
+          "POS": "NN"
+        },
+        {
+          "text": "resourc",
+          "POS": "NN"
+        },
+        {
+          "text": "context",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Breakdown_of_the_direct__lbraket_scope__one__rbraket_": {
+      "words": [
+        {
+          "text": "breakdown",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "direct",
+          "POS": "JJ"
+        },
+        {
+          "text": "scope",
+          "POS": "NN"
+        },
+        {
+          "text": "one",
+          "POS": "CD"
+        }
+      ]
+    },
+    "Stationary_combustion": {
+      "words": [
+        {
+          "text": "stationari",
+          "POS": "JJ"
+        },
+        {
+          "text": "combust",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Percentage_of_employees_covered_by_collective_agreements": {
+      "words": [
+        {
+          "text": "percentag",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "employe",
+          "POS": "NNS"
+        },
+        {
+          "text": "cover",
+          "POS": "VBN"
+        },
+        {
+          "text": "by",
+          "POS": "IN"
+        },
+        {
+          "text": "collect",
+          "POS": "NN"
+        },
+        {
+          "text": "agreement",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "The_inclusion_of_people_with_disabilities_into_the_workplace": {
+      "words": [
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "inclus",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "peopl",
+          "POS": "NNS"
+        },
+        {
+          "text": "with",
+          "POS": "IN"
+        },
+        {
+          "text": "disabl",
+          "POS": "NNS"
+        },
+        {
+          "text": "into",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "workplac",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Internal_training_courses": {
+      "words": [
+        {
+          "text": "intern",
+          "POS": "JJ"
+        },
+        {
+          "text": "train",
+          "POS": "NN"
+        },
+        {
+          "text": "cours",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "European_Union_Classification_of_Environmental_Protection_Activities__lbraket_CEPA_rbraket_": {
+      "words": [
+        {
+          "text": "european",
+          "POS": "JJ"
+        },
+        {
+          "text": "union",
+          "POS": "NN"
+        },
+        {
+          "text": "classif",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "environment",
+          "POS": "JJ"
+        },
+        {
+          "text": "protect",
+          "POS": "NN"
+        },
+        {
+          "text": "activ",
+          "POS": "NNS"
+        },
+        {
+          "text": "cepa",
+          "POS": "NN"
+        }
+      ]
+    },
+    "The_generation_of_electricity_and_heat": {
+      "words": [
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "gener",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "electr",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "heat",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Different_caloric_content": {
+      "words": [
+        {
+          "text": "differ",
+          "POS": "JJ"
+        },
+        {
+          "text": "calor",
+          "POS": "NN"
+        },
+        {
+          "text": "content",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Data_consolidation": {
+      "words": [
+        {
+          "text": "data",
+          "POS": "NNS"
+        },
+        {
+          "text": "consolid",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Corporate_responsibility": {
+      "words": [
+        {
+          "text": "corpor",
+          "POS": "JJ"
+        },
+        {
+          "text": "respons",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Related_travel_costs": {
+      "words": [
+        {
+          "text": "relat",
+          "POS": "JJ"
+        },
+        {
+          "text": "travel",
+          "POS": "NN"
+        },
+        {
+          "text": "cost",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "The_incident_rate": {
+      "words": [
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "incid",
+          "POS": "NN"
+        },
+        {
+          "text": "rate",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Total_expenditures_on_research_and_development": {
+      "words": [
+        {
+          "text": "total",
+          "POS": "JJ"
+        },
+        {
+          "text": "expenditur",
+          "POS": "NNS"
+        },
+        {
+          "text": "on",
+          "POS": "IN"
+        },
+        {
+          "text": "research",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "develop",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Radioactive": {
+      "words": [
+        {
+          "text": "radioact",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Consistency_in_measurement_methodology_and_data_comparability": {
+      "words": [
+        {
+          "text": "consist",
+          "POS": "NN"
+        },
+        {
+          "text": "in",
+          "POS": "IN"
+        },
+        {
+          "text": "measur",
+          "POS": "NN"
+        },
+        {
+          "text": "methodolog",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "data",
+          "POS": "NNS"
+        },
+        {
+          "text": "compar",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Local_supplier_slash_purchasing_programmes": {
+      "words": [
+        {
+          "text": "local",
+          "POS": "JJ"
+        },
+        {
+          "text": "supplier",
+          "POS": "NN"
+        },
+        {
+          "text": "purchas",
+          "POS": "NN"
+        },
+        {
+          "text": "programm",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Indirect_GHG": {
+      "words": [
+        {
+          "text": "indirect",
+          "POS": "NN"
+        },
+        {
+          "text": "ghg",
+          "POS": "NN"
+        }
+      ]
+    },
+    "The_provision_of_sabbatical_periods_with_guaranteed_return_to_employment": {
+      "words": [
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "provis",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "sabbat",
+          "POS": "JJ"
+        },
+        {
+          "text": "period",
+          "POS": "NNS"
+        },
+        {
+          "text": "with",
+          "POS": "IN"
+        },
+        {
+          "text": "guarante",
+          "POS": "NN"
+        },
+        {
+          "text": "return",
+          "POS": "NN"
+        },
+        {
+          "text": "to",
+          "POS": "TO"
+        },
+        {
+          "text": "employ",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Anti__corruption_practices": {
+      "words": [
+        {
+          "text": "anti",
+          "POS": "NN"
+        },
+        {
+          "text": "corrupt",
+          "POS": "NN"
+        },
+        {
+          "text": "practic",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Framework_for_a_full_sustainability_taxonomy": {
+      "words": [
+        {
+          "text": "framework",
+          "POS": "NN"
+        },
+        {
+          "text": "for",
+          "POS": "IN"
+        },
+        {
+          "text": "a",
+          "POS": "DT"
+        },
+        {
+          "text": "full",
+          "POS": "JJ"
+        },
+        {
+          "text": "sustain",
+          "POS": "NN"
+        },
+        {
+          "text": "taxonomi",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Measurement_methodology": {
+      "words": [
+        {
+          "text": "measur",
+          "POS": "NN"
+        },
+        {
+          "text": "methodolog",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Coverage_by_collective_agreements": {
+      "words": [
+        {
+          "text": "coverag",
+          "POS": "NN"
+        },
+        {
+          "text": "by",
+          "POS": "IN"
+        },
+        {
+          "text": "collect",
+          "POS": "NN"
+        },
+        {
+          "text": "agreement",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Amounts_paid_to_government_institutions_on_behalf_of_employees": {
+      "words": [
+        {
+          "text": "amount",
+          "POS": "NNS"
+        },
+        {
+          "text": "paid",
+          "POS": "NN"
+        },
+        {
+          "text": "to",
+          "POS": "TO"
+        },
+        {
+          "text": "govern",
+          "POS": "NN"
+        },
+        {
+          "text": "institut",
+          "POS": "NNS"
+        },
+        {
+          "text": "on",
+          "POS": "IN"
+        },
+        {
+          "text": "behalf",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "employe",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Agegroup_colon__under__thre__zero__years_of_age_comma___thre__zero____five__zero__yearsof_age_comma__over__five__zero__years_of_age": {
+      "words": [
+        {
+          "text": "agegroup",
+          "POS": "NN"
+        },
+        {
+          "text": "under",
+          "POS": "IN"
+        },
+        {
+          "text": "thre",
+          "POS": "NN"
+        },
+        {
+          "text": "zero",
+          "POS": "NN"
+        },
+        {
+          "text": "year",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "age",
+          "POS": "NN"
+        },
+        {
+          "text": "thre",
+          "POS": "NN"
+        },
+        {
+          "text": "zero",
+          "POS": "NN"
+        },
+        {
+          "text": "five",
+          "POS": "CD"
+        },
+        {
+          "text": "zero",
+          "POS": "NN"
+        },
+        {
+          "text": "yearsof",
+          "POS": "NN"
+        },
+        {
+          "text": "age",
+          "POS": "NN"
+        },
+        {
+          "text": "over",
+          "POS": "IN"
+        },
+        {
+          "text": "five",
+          "POS": "CD"
+        },
+        {
+          "text": "zero",
+          "POS": "NN"
+        },
+        {
+          "text": "year",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "age",
+          "POS": "NN"
+        }
+      ]
+    },
+    "The_purchase_of_environmental_protection_products": {
+      "words": [
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "purchas",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "environment",
+          "POS": "JJ"
+        },
+        {
+          "text": "protect",
+          "POS": "NN"
+        },
+        {
+          "text": "product",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Average_hours_of_training_per_year_per_employee": {
+      "words": [
+        {
+          "text": "averag",
+          "POS": "JJ"
+        },
+        {
+          "text": "hour",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "train",
+          "POS": "NN"
+        },
+        {
+          "text": "per",
+          "POS": "IN"
+        },
+        {
+          "text": "year",
+          "POS": "NN"
+        },
+        {
+          "text": "per",
+          "POS": "IN"
+        },
+        {
+          "text": "employe",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Headcount_or_FTE": {
+      "words": [
+        {
+          "text": "headcount",
+          "POS": "NN"
+        },
+        {
+          "text": "or",
+          "POS": "CC"
+        },
+        {
+          "text": "fte",
+          "POS": "NN"
+        }
+      ]
+    },
+    "The_denominator_of_the_indicator": {
+      "words": [
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "denomin",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "indic",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Direct_GHG": {
+      "words": [
+        {
+          "text": "direct",
+          "POS": "JJ"
+        },
+        {
+          "text": "ghg",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Baseline_approach": {
+      "words": [
+        {
+          "text": "baselin",
+          "POS": "NN"
+        },
+        {
+          "text": "approach",
+          "POS": "NN"
+        }
+      ]
+    },
+    "IPCC__lbraket_Intergovernmental_Panel_on_Climate_Change_rbraket__protocol": {
+      "words": [
+        {
+          "text": "ipcc",
+          "POS": "NN"
+        },
+        {
+          "text": "intergovernment",
+          "POS": "NN"
+        },
+        {
+          "text": "panel",
+          "POS": "NN"
+        },
+        {
+          "text": "on",
+          "POS": "IN"
+        },
+        {
+          "text": "climat",
+          "POS": "NN"
+        },
+        {
+          "text": "chang",
+          "POS": "NN"
+        },
+        {
+          "text": "protocol",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Reused": {
+      "words": [
+        {
+          "text": "reus",
+          "POS": "VBN"
+        }
+      ]
+    },
+    "Underlying_principles_of_core_SDG_indicators_selection_and_reporting": {
+      "words": [
+        {
+          "text": "underli",
+          "POS": "VBG"
+        },
+        {
+          "text": "principl",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "core",
+          "POS": "NN"
+        },
+        {
+          "text": "sdg",
+          "POS": "NN"
+        },
+        {
+          "text": "indic",
+          "POS": "NNS"
+        },
+        {
+          "text": "select",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "report",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Average_hours_of_training_on_anti__corruption_issues_per_year_per_employee": {
+      "words": [
+        {
+          "text": "averag",
+          "POS": "JJ"
+        },
+        {
+          "text": "hour",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "train",
+          "POS": "NN"
+        },
+        {
+          "text": "on",
+          "POS": "IN"
+        },
+        {
+          "text": "anti",
+          "POS": "NN"
+        },
+        {
+          "text": "corrupt",
+          "POS": "NN"
+        },
+        {
+          "text": "issu",
+          "POS": "NNS"
+        },
+        {
+          "text": "per",
+          "POS": "IN"
+        },
+        {
+          "text": "year",
+          "POS": "NN"
+        },
+        {
+          "text": "per",
+          "POS": "IN"
+        },
+        {
+          "text": "employe",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Transportation": {
+      "words": [
+        {
+          "text": "transport",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Those_employees_who_are_covered_by_collective_agreements": {
+      "words": [
+        {
+          "text": "those",
+          "POS": "DT"
+        },
+        {
+          "text": "employe",
+          "POS": "NNS"
+        },
+        {
+          "text": "who",
+          "POS": "WP"
+        },
+        {
+          "text": "are",
+          "POS": "VBP"
+        },
+        {
+          "text": "cover",
+          "POS": "VBN"
+        },
+        {
+          "text": "by",
+          "POS": "IN"
+        },
+        {
+          "text": "collect",
+          "POS": "NN"
+        },
+        {
+          "text": "agreement",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Taxonomies_that_are_consistent_with_the_Evidence_and_Data_for_Gender_Equality__lbraket_EDGE_rbraket__project": {
+      "words": [
+        {
+          "text": "taxonomi",
+          "POS": "NNS"
+        },
+        {
+          "text": "that",
+          "POS": "IN"
+        },
+        {
+          "text": "are",
+          "POS": "VBP"
+        },
+        {
+          "text": "consist",
+          "POS": "NN"
+        },
+        {
+          "text": "with",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "evid",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "data",
+          "POS": "NNS"
+        },
+        {
+          "text": "for",
+          "POS": "IN"
+        },
+        {
+          "text": "gender",
+          "POS": "NN"
+        },
+        {
+          "text": "equal",
+          "POS": "NN"
+        },
+        {
+          "text": "edg",
+          "POS": "NN"
+        },
+        {
+          "text": "project",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Value_added": {
+      "words": [
+        {
+          "text": "valu",
+          "POS": "NN"
+        },
+        {
+          "text": "ad",
+          "POS": "VBD"
+        }
+      ]
+    },
+    "Definition_of_the_unit_for_collecting_information_on_the_core_indicators": {
+      "words": [
+        {
+          "text": "definit",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "unit",
+          "POS": "NN"
+        },
+        {
+          "text": "for",
+          "POS": "IN"
+        },
+        {
+          "text": "collect",
+          "POS": "VBG"
+        },
+        {
+          "text": "inform",
+          "POS": "NN"
+        },
+        {
+          "text": "on",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "core",
+          "POS": "NN"
+        },
+        {
+          "text": "indic",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Calculation_the_indicator_at_facility_level_slash_individual_business_site_level": {
+      "words": [
+        {
+          "text": "calcul",
+          "POS": "NN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "indic",
+          "POS": "NN"
+        },
+        {
+          "text": "at",
+          "POS": "IN"
+        },
+        {
+          "text": "facil",
+          "POS": "NN"
+        },
+        {
+          "text": "level",
+          "POS": "NN"
+        },
+        {
+          "text": "individu",
+          "POS": "JJ"
+        },
+        {
+          "text": "busi",
+          "POS": "NN"
+        },
+        {
+          "text": "site",
+          "POS": "NN"
+        },
+        {
+          "text": "level",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Montreal_Protocol": {
+      "words": [
+        {
+          "text": "montreal",
+          "POS": "NN"
+        },
+        {
+          "text": "protocol",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Hazardous_waste": {
+      "words": [
+        {
+          "text": "hazard",
+          "POS": "JJ"
+        },
+        {
+          "text": "wast",
+          "POS": "NN"
+        }
+      ]
+    },
+    "General_environmental_management": {
+      "words": [
+        {
+          "text": "gener",
+          "POS": "JJ"
+        },
+        {
+          "text": "environment",
+          "POS": "JJ"
+        },
+        {
+          "text": "manag",
+          "POS": "NN"
+        }
+      ]
+    },
+    "The_dependency_of_an_entity_on_ozone__depleting_substances": {
+      "words": [
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "depend",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "an",
+          "POS": "DT"
+        },
+        {
+          "text": "entiti",
+          "POS": "NN"
+        },
+        {
+          "text": "on",
+          "POS": "IN"
+        },
+        {
+          "text": "ozon",
+          "POS": "NN"
+        },
+        {
+          "text": "deplet",
+          "POS": "VBG"
+        },
+        {
+          "text": "substanc",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Fixed_pay__lbraket_base_salary_rbraket_": {
+      "words": [
+        {
+          "text": "fix",
+          "POS": "VBN"
+        },
+        {
+          "text": "pay",
+          "POS": "NN"
+        },
+        {
+          "text": "base",
+          "POS": "NN"
+        },
+        {
+          "text": "salari",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Calculation_of_community_investment": {
+      "words": [
+        {
+          "text": "calcul",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "commun",
+          "POS": "NN"
+        },
+        {
+          "text": "invest",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Gender_equality": {
+      "words": [
+        {
+          "text": "gender",
+          "POS": "NN"
+        },
+        {
+          "text": "equal",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Type_of_activity": {
+      "words": [
+        {
+          "text": "type",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "activ",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Water_stress": {
+      "words": [
+        {
+          "text": "water",
+          "POS": "NN"
+        },
+        {
+          "text": "stress",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Expenditure_on_employee_training_per_year_per_employee": {
+      "words": [
+        {
+          "text": "expenditur",
+          "POS": "NN"
+        },
+        {
+          "text": "on",
+          "POS": "IN"
+        },
+        {
+          "text": "employe",
+          "POS": "NN"
+        },
+        {
+          "text": "train",
+          "POS": "NN"
+        },
+        {
+          "text": "per",
+          "POS": "IN"
+        },
+        {
+          "text": "year",
+          "POS": "NN"
+        },
+        {
+          "text": "per",
+          "POS": "IN"
+        },
+        {
+          "text": "employe",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Identify_the_amount_of_fines_paid_slash_payable_for_each_of_the_convictions": {
+      "words": [
+        {
+          "text": "identifi",
+          "POS": "VB"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "amount",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "fine",
+          "POS": "NNS"
+        },
+        {
+          "text": "paid",
+          "POS": "NN"
+        },
+        {
+          "text": "payabl",
+          "POS": "JJ"
+        },
+        {
+          "text": "for",
+          "POS": "IN"
+        },
+        {
+          "text": "each",
+          "POS": "DT"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "convict",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "IFRS_for_SMEs": {
+      "words": [
+        {
+          "text": "ifr",
+          "POS": "NN"
+        },
+        {
+          "text": "for",
+          "POS": "IN"
+        },
+        {
+          "text": "sme",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Key_methodological_points": {
+      "words": [
+        {
+          "text": "key",
+          "POS": "NN"
+        },
+        {
+          "text": "methodolog",
+          "POS": "JJ"
+        },
+        {
+          "text": "point",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Taxes_and_other_payments_to_the_Government": {
+      "words": [
+        {
+          "text": "tax",
+          "POS": "NNS"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "other",
+          "POS": "JJ"
+        },
+        {
+          "text": "payment",
+          "POS": "NNS"
+        },
+        {
+          "text": "to",
+          "POS": "TO"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "govern",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Green_investment": {
+      "words": [
+        {
+          "text": "green",
+          "POS": "JJ"
+        },
+        {
+          "text": "invest",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Clawbacks": {
+      "words": [
+        {
+          "text": "clawback",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Compensation_colon__total_compensation_per_board_member__lbraket_both_executive_and_non__executive_directors_rbraket_": {
+      "words": [
+        {
+          "text": "compens",
+          "POS": "NN"
+        },
+        {
+          "text": "total",
+          "POS": "JJ"
+        },
+        {
+          "text": "compens",
+          "POS": "NN"
+        },
+        {
+          "text": "per",
+          "POS": "IN"
+        },
+        {
+          "text": "board",
+          "POS": "NN"
+        },
+        {
+          "text": "member",
+          "POS": "NN"
+        },
+        {
+          "text": "both",
+          "POS": "DT"
+        },
+        {
+          "text": "execut",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "non",
+          "POS": "NN"
+        },
+        {
+          "text": "execut",
+          "POS": "NN"
+        },
+        {
+          "text": "director",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Community_investments": {
+      "words": [
+        {
+          "text": "commun",
+          "POS": "NN"
+        },
+        {
+          "text": "invest",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Disposal_methods": {
+      "words": [
+        {
+          "text": "dispos",
+          "POS": "NN"
+        },
+        {
+          "text": "method",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Number_of_board_meetings_and_attendance_rate": {
+      "words": [
+        {
+          "text": "number",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "board",
+          "POS": "NN"
+        },
+        {
+          "text": "meet",
+          "POS": "NNS"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "attend",
+          "POS": "NN"
+        },
+        {
+          "text": "rate",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Payments_to_the_government": {
+      "words": [
+        {
+          "text": "payment",
+          "POS": "NNS"
+        },
+        {
+          "text": "to",
+          "POS": "TO"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "govern",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Direct_and_indirect_costs_of_training": {
+      "words": [
+        {
+          "text": "direct",
+          "POS": "JJ"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "indirect",
+          "POS": "NN"
+        },
+        {
+          "text": "cost",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "train",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Percentage_of_local_procurement": {
+      "words": [
+        {
+          "text": "percentag",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "local",
+          "POS": "JJ"
+        },
+        {
+          "text": "procur",
+          "POS": "NN"
+        }
+      ]
+    },
+    "The_example_of_the_reference_substance": {
+      "words": [
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "exampl",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "refer",
+          "POS": "NN"
+        },
+        {
+          "text": "substanc",
+          "POS": "NN"
+        }
+      ]
+    },
+    "List_of_hazardous_characteristics": {
+      "words": [
+        {
+          "text": "list",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "hazard",
+          "POS": "JJ"
+        },
+        {
+          "text": "characterist",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Energy_consumption": {
+      "words": [
+        {
+          "text": "energi",
+          "POS": "NN"
+        },
+        {
+          "text": "consumpt",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Number_and_percentage_of_women_board_members": {
+      "words": [
+        {
+          "text": "number",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "percentag",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "women",
+          "POS": "NNS"
+        },
+        {
+          "text": "board",
+          "POS": "NN"
+        },
+        {
+          "text": "member",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "The_total_costs_of_the_employee_workforce_for_the_entity": {
+      "words": [
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "total",
+          "POS": "JJ"
+        },
+        {
+          "text": "cost",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "employe",
+          "POS": "NN"
+        },
+        {
+          "text": "workforc",
+          "POS": "NN"
+        },
+        {
+          "text": "for",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "entiti",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Example_of_calculation_the_indicator": {
+      "words": [
+        {
+          "text": "exampl",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "calcul",
+          "POS": "NN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "indic",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Alignment_between_the_micro___and_macro__level_indicators": {
+      "words": [
+        {
+          "text": "align",
+          "POS": "NN"
+        },
+        {
+          "text": "between",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "micro",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "macro",
+          "POS": "NN"
+        },
+        {
+          "text": "level",
+          "POS": "NN"
+        },
+        {
+          "text": "indic",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Waste_water_from_another_organization": {
+      "words": [
+        {
+          "text": "wast",
+          "POS": "NN"
+        },
+        {
+          "text": "water",
+          "POS": "NN"
+        },
+        {
+          "text": "from",
+          "POS": "IN"
+        },
+        {
+          "text": "anoth",
+          "POS": "DT"
+        },
+        {
+          "text": "organ",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Calculated_based_on_legal_entity_reporting": {
+      "words": [
+        {
+          "text": "calcul",
+          "POS": "VBN"
+        },
+        {
+          "text": "base",
+          "POS": "VBN"
+        },
+        {
+          "text": "on",
+          "POS": "IN"
+        },
+        {
+          "text": "legal",
+          "POS": "JJ"
+        },
+        {
+          "text": "entiti",
+          "POS": "NN"
+        },
+        {
+          "text": "report",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Buildings": {
+      "words": [
+        {
+          "text": "build",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Investment_in_adapted_goods": {
+      "words": [
+        {
+          "text": "invest",
+          "POS": "NN"
+        },
+        {
+          "text": "in",
+          "POS": "IN"
+        },
+        {
+          "text": "adapt",
+          "POS": "VBN"
+        },
+        {
+          "text": "good",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Number_of_women_in_managerial_positions": {
+      "words": [
+        {
+          "text": "number",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "women",
+          "POS": "NNS"
+        },
+        {
+          "text": "in",
+          "POS": "IN"
+        },
+        {
+          "text": "manageri",
+          "POS": "NN"
+        },
+        {
+          "text": "posit",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Breakdown_by_employment_category": {
+      "words": [
+        {
+          "text": "breakdown",
+          "POS": "NN"
+        },
+        {
+          "text": "by",
+          "POS": "IN"
+        },
+        {
+          "text": "employ",
+          "POS": "NN"
+        },
+        {
+          "text": "categori",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Regulating_relations_between_employers_and_workers": {
+      "words": [
+        {
+          "text": "regul",
+          "POS": "VBG"
+        },
+        {
+          "text": "relat",
+          "POS": "NNS"
+        },
+        {
+          "text": "between",
+          "POS": "IN"
+        },
+        {
+          "text": "employ",
+          "POS": "NNS"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "worker",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Legal_entity_data_of_the_multiple_entities": {
+      "words": [
+        {
+          "text": "legal",
+          "POS": "JJ"
+        },
+        {
+          "text": "entiti",
+          "POS": "NN"
+        },
+        {
+          "text": "data",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "multipl",
+          "POS": "NN"
+        },
+        {
+          "text": "entiti",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Hydropower": {
+      "words": [
+        {
+          "text": "hydropow",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Total_payroll": {
+      "words": [
+        {
+          "text": "total",
+          "POS": "JJ"
+        },
+        {
+          "text": "payrol",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Community_investment": {
+      "words": [
+        {
+          "text": "commun",
+          "POS": "NN"
+        },
+        {
+          "text": "invest",
+          "POS": "NN"
+        }
+      ]
+    },
+    "G_two__zero__slash_OECD_Principles_of_Corporate_Governance": {
+      "words": [
+        {
+          "text": "G",
+          "POS": "NN"
+        },
+        {
+          "text": "two",
+          "POS": "CD"
+        },
+        {
+          "text": "zero",
+          "POS": "NN"
+        },
+        {
+          "text": "oecd",
+          "POS": "NN"
+        },
+        {
+          "text": "principl",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "corpor",
+          "POS": "JJ"
+        },
+        {
+          "text": "govern",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Employee_wages_and_benefits_as_a_proportion_of_revenue_comma__with_breakdown_by_employment_type_and_gender": {
+      "words": [
+        {
+          "text": "employe",
+          "POS": "NN"
+        },
+        {
+          "text": "wage",
+          "POS": "NNS"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "benefit",
+          "POS": "NNS"
+        },
+        {
+          "text": "as",
+          "POS": "IN"
+        },
+        {
+          "text": "a",
+          "POS": "DT"
+        },
+        {
+          "text": "proport",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "revenu",
+          "POS": "NN"
+        },
+        {
+          "text": "with",
+          "POS": "IN"
+        },
+        {
+          "text": "breakdown",
+          "POS": "NN"
+        },
+        {
+          "text": "by",
+          "POS": "IN"
+        },
+        {
+          "text": "employ",
+          "POS": "NN"
+        },
+        {
+          "text": "type",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "gender",
+          "POS": "NN"
+        }
+      ]
+    },
+    "The_Guidance_on_Good_Practices_in_Corporate_Governance_Disclosure": {
+      "words": [
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "guidanc",
+          "POS": "NN"
+        },
+        {
+          "text": "on",
+          "POS": "IN"
+        },
+        {
+          "text": "good",
+          "POS": "JJ"
+        },
+        {
+          "text": "practic",
+          "POS": "NNS"
+        },
+        {
+          "text": "in",
+          "POS": "IN"
+        },
+        {
+          "text": "corpor",
+          "POS": "JJ"
+        },
+        {
+          "text": "govern",
+          "POS": "NN"
+        },
+        {
+          "text": "disclosur",
+          "POS": "NN"
+        }
+      ]
+    },
+    "The_breakdown_of_total_workforce": {
+      "words": [
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "breakdown",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "total",
+          "POS": "JJ"
+        },
+        {
+          "text": "workforc",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Misallocation_of_investments": {
+      "words": [
+        {
+          "text": "misalloc",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "invest",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Methodology_for_indicator_C_dot__two__dot__one__on_the_average_hours_of_training_per_employee": {
+      "words": [
+        {
+          "text": "methodolog",
+          "POS": "NN"
+        },
+        {
+          "text": "for",
+          "POS": "IN"
+        },
+        {
+          "text": "indic",
+          "POS": "NN"
+        },
+        {
+          "text": "C",
+          "POS": "NNS"
+        },
+        {
+          "text": "two",
+          "POS": "CD"
+        },
+        {
+          "text": "one",
+          "POS": "CD"
+        },
+        {
+          "text": "on",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "averag",
+          "POS": "JJ"
+        },
+        {
+          "text": "hour",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "train",
+          "POS": "NN"
+        },
+        {
+          "text": "per",
+          "POS": "IN"
+        },
+        {
+          "text": "employe",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Quality_and_reliability_of_information_on_SDG_reporting": {
+      "words": [
+        {
+          "text": "qualiti",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "reliabl",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "inform",
+          "POS": "NN"
+        },
+        {
+          "text": "on",
+          "POS": "IN"
+        },
+        {
+          "text": "sdg",
+          "POS": "NN"
+        },
+        {
+          "text": "report",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Revised_entity_policies_comma__training_and_initiatives_to_prevent_such_incidents": {
+      "words": [
+        {
+          "text": "revis",
+          "POS": "VBN"
+        },
+        {
+          "text": "entiti",
+          "POS": "NN"
+        },
+        {
+          "text": "polici",
+          "POS": "NNS"
+        },
+        {
+          "text": "train",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "initi",
+          "POS": "NNS"
+        },
+        {
+          "text": "to",
+          "POS": "TO"
+        },
+        {
+          "text": "prevent",
+          "POS": "NN"
+        },
+        {
+          "text": "such",
+          "POS": "JJ"
+        },
+        {
+          "text": "incid",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Absolute_volumes": {
+      "words": [
+        {
+          "text": "absolut",
+          "POS": "NN"
+        },
+        {
+          "text": "volum",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Design_and_test_of_prototypes_comma__new_products_and_processes": {
+      "words": [
+        {
+          "text": "design",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "test",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "prototyp",
+          "POS": "NNS"
+        },
+        {
+          "text": "new",
+          "POS": "JJ"
+        },
+        {
+          "text": "product",
+          "POS": "NNS"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "process",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Difference_between_the_revenues_and_the_costs_of_bought__in_materials_comma__goods_and_services": {
+      "words": [
+        {
+          "text": "differ",
+          "POS": "NN"
+        },
+        {
+          "text": "between",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "revenu",
+          "POS": "NNS"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "cost",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "bought",
+          "POS": "NN"
+        },
+        {
+          "text": "in",
+          "POS": "IN"
+        },
+        {
+          "text": "materi",
+          "POS": "NNS"
+        },
+        {
+          "text": "good",
+          "POS": "NNS"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "servic",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Payments_to_providers_of_capital_comma__i_dot_e_dot__dividends_to_all_shareholders": {
+      "words": [
+        {
+          "text": "payment",
+          "POS": "NNS"
+        },
+        {
+          "text": "to",
+          "POS": "TO"
+        },
+        {
+          "text": "provid",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "capit",
+          "POS": "NN"
+        },
+        {
+          "text": "i",
+          "POS": "NN"
+        },
+        {
+          "text": "e",
+          "POS": "NN"
+        },
+        {
+          "text": "dividend",
+          "POS": "NNS"
+        },
+        {
+          "text": "to",
+          "POS": "TO"
+        },
+        {
+          "text": "all",
+          "POS": "DT"
+        },
+        {
+          "text": "sharehold",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "The_calculation_of_GHG__lbraket_scope__one__rbraket_": {
+      "words": [
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "calcul",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "ghg",
+          "POS": "NN"
+        },
+        {
+          "text": "scope",
+          "POS": "NN"
+        },
+        {
+          "text": "one",
+          "POS": "CD"
+        }
+      ]
+    },
+    "Materiality": {
+      "words": [
+        {
+          "text": "materi",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Based_on_the_amount_of_annual_revenue": {
+      "words": [
+        {
+          "text": "base",
+          "POS": "VBN"
+        },
+        {
+          "text": "on",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "amount",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "annual",
+          "POS": "JJ"
+        },
+        {
+          "text": "revenu",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Energy_efficiency": {
+      "words": [
+        {
+          "text": "energi",
+          "POS": "NN"
+        },
+        {
+          "text": "effici",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Abuse_of_human_rights": {
+      "words": [
+        {
+          "text": "abus",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "human",
+          "POS": "NN"
+        },
+        {
+          "text": "right",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Total_water_withdrawn_with_a_breakdown_by_sources": {
+      "words": [
+        {
+          "text": "total",
+          "POS": "JJ"
+        },
+        {
+          "text": "water",
+          "POS": "NN"
+        },
+        {
+          "text": "withdrawn",
+          "POS": "NN"
+        },
+        {
+          "text": "with",
+          "POS": "IN"
+        },
+        {
+          "text": "a",
+          "POS": "DT"
+        },
+        {
+          "text": "breakdown",
+          "POS": "NN"
+        },
+        {
+          "text": "by",
+          "POS": "IN"
+        },
+        {
+          "text": "sourc",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Smart_grids": {
+      "words": [
+        {
+          "text": "smart",
+          "POS": "NN"
+        },
+        {
+          "text": "grid",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Corporate_governance_disclosure": {
+      "words": [
+        {
+          "text": "corpor",
+          "POS": "JJ"
+        },
+        {
+          "text": "govern",
+          "POS": "NN"
+        },
+        {
+          "text": "disclosur",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Example_of_research_expense": {
+      "words": [
+        {
+          "text": "exampl",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "research",
+          "POS": "NN"
+        },
+        {
+          "text": "expens",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Incremental_approach": {
+      "words": [
+        {
+          "text": "increment",
+          "POS": "NN"
+        },
+        {
+          "text": "approach",
+          "POS": "NN"
+        }
+      ]
+    },
+    "The_calculation_of_GHG__lbraket_scope__two__rbraket_": {
+      "words": [
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "calcul",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "ghg",
+          "POS": "NN"
+        },
+        {
+          "text": "scope",
+          "POS": "NN"
+        },
+        {
+          "text": "two",
+          "POS": "CD"
+        }
+      ]
+    },
+    "Gender": {
+      "words": [
+        {
+          "text": "gender",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Disclose_R_and_D_expenditures_by_country": {
+      "words": [
+        {
+          "text": "disclos",
+          "POS": "VB"
+        },
+        {
+          "text": "R",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "D",
+          "POS": "NN"
+        },
+        {
+          "text": "expenditur",
+          "POS": "NNS"
+        },
+        {
+          "text": "by",
+          "POS": "IN"
+        },
+        {
+          "text": "countri",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Reporting_period": {
+      "words": [
+        {
+          "text": "report",
+          "POS": "NN"
+        },
+        {
+          "text": "period",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Trainers_apostrof__fees": {
+      "words": [
+        {
+          "text": "trainers'",
+          "POS": "NN"
+        },
+        {
+          "text": "fee",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Market__based_method": {
+      "words": [
+        {
+          "text": "market",
+          "POS": "NN"
+        },
+        {
+          "text": "base",
+          "POS": "VBN"
+        },
+        {
+          "text": "method",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Emphasis_on_quantitative_indicators": {
+      "words": [
+        {
+          "text": "emphasi",
+          "POS": "NN"
+        },
+        {
+          "text": "on",
+          "POS": "IN"
+        },
+        {
+          "text": "quantit",
+          "POS": "NN"
+        },
+        {
+          "text": "indic",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Net_value_added": {
+      "words": [
+        {
+          "text": "net",
+          "POS": "NN"
+        },
+        {
+          "text": "valu",
+          "POS": "NN"
+        },
+        {
+          "text": "ad",
+          "POS": "VBD"
+        }
+      ]
+    },
+    "Distinguish_among_the_three_options": {
+      "words": [
+        {
+          "text": "distinguish",
+          "POS": "NN"
+        },
+        {
+          "text": "among",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "three",
+          "POS": "CD"
+        },
+        {
+          "text": "option",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Calculation_of_reduction_of_waste_generation": {
+      "words": [
+        {
+          "text": "calcul",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "reduct",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "wast",
+          "POS": "NN"
+        },
+        {
+          "text": "gener",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Total_number_of_lost_days_expressed_in_terms_of_number_of_hours": {
+      "words": [
+        {
+          "text": "total",
+          "POS": "JJ"
+        },
+        {
+          "text": "number",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "lost",
+          "POS": "VBN"
+        },
+        {
+          "text": "day",
+          "POS": "NNS"
+        },
+        {
+          "text": "express",
+          "POS": "VBN"
+        },
+        {
+          "text": "in",
+          "POS": "IN"
+        },
+        {
+          "text": "term",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "number",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "hour",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Potential_sources_of_information": {
+      "words": [
+        {
+          "text": "potenti",
+          "POS": "JJ"
+        },
+        {
+          "text": "sourc",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "inform",
+          "POS": "NN"
+        }
+      ]
+    },
+    "The_change_of_water_use_per_net_value_added": {
+      "words": [
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "chang",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "water",
+          "POS": "NN"
+        },
+        {
+          "text": "use",
+          "POS": "NN"
+        },
+        {
+          "text": "per",
+          "POS": "IN"
+        },
+        {
+          "text": "net",
+          "POS": "NN"
+        },
+        {
+          "text": "valu",
+          "POS": "NN"
+        },
+        {
+          "text": "ad",
+          "POS": "VBD"
+        }
+      ]
+    },
+    "Rainwater_collected_directly_and_stored_by_the_organization": {
+      "words": [
+        {
+          "text": "rainwat",
+          "POS": "NN"
+        },
+        {
+          "text": "collect",
+          "POS": "VBN"
+        },
+        {
+          "text": "directli",
+          "POS": "RB"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "store",
+          "POS": "VBN"
+        },
+        {
+          "text": "by",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "organ",
+          "POS": "NN"
+        }
+      ]
+    },
+    "The_total_volume_of_water_recycled_and_reused__lbraket_total_cubic_metres_rbraket_": {
+      "words": [
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "total",
+          "POS": "JJ"
+        },
+        {
+          "text": "volum",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "water",
+          "POS": "NN"
+        },
+        {
+          "text": "recycl",
+          "POS": "VBN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "reus",
+          "POS": "VBN"
+        },
+        {
+          "text": "total",
+          "POS": "JJ"
+        },
+        {
+          "text": "cubic",
+          "POS": "NN"
+        },
+        {
+          "text": "metr",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Low__carbon_power_generation_and_vehicles": {
+      "words": [
+        {
+          "text": "low",
+          "POS": "JJ"
+        },
+        {
+          "text": "carbon",
+          "POS": "NN"
+        },
+        {
+          "text": "power",
+          "POS": "NN"
+        },
+        {
+          "text": "gener",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "vehicl",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "International_Standard_Classification_of_Occupations": {
+      "words": [
+        {
+          "text": "intern",
+          "POS": "JJ"
+        },
+        {
+          "text": "standard",
+          "POS": "NN"
+        },
+        {
+          "text": "classif",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "occup",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Recording_occupational_accidents": {
+      "words": [
+        {
+          "text": "record",
+          "POS": "VBG"
+        },
+        {
+          "text": "occup",
+          "POS": "JJ"
+        },
+        {
+          "text": "accid",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Fugitive_emissions": {
+      "words": [
+        {
+          "text": "fugit",
+          "POS": "JJ"
+        },
+        {
+          "text": "emiss",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Purchases_of_ODS": {
+      "words": [
+        {
+          "text": "purchas",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "od",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Calculation_of_indicator": {
+      "words": [
+        {
+          "text": "calcul",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "indic",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Amount_of_fines_paid_or_payable_due_to_settlements": {
+      "words": [
+        {
+          "text": "amount",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "fine",
+          "POS": "NNS"
+        },
+        {
+          "text": "paid",
+          "POS": "NN"
+        },
+        {
+          "text": "or",
+          "POS": "CC"
+        },
+        {
+          "text": "payabl",
+          "POS": "JJ"
+        },
+        {
+          "text": "due",
+          "POS": "JJ"
+        },
+        {
+          "text": "to",
+          "POS": "TO"
+        },
+        {
+          "text": "settlement",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Striving_to_improve_the_amount_of_water_recycling_and_reuse": {
+      "words": [
+        {
+          "text": "strive",
+          "POS": "VBG"
+        },
+        {
+          "text": "to",
+          "POS": "TO"
+        },
+        {
+          "text": "improv",
+          "POS": "VB"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "amount",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "water",
+          "POS": "NN"
+        },
+        {
+          "text": "recycl",
+          "POS": "VBG"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "reus",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Depreciation_of_tangible_assets": {
+      "words": [
+        {
+          "text": "depreci",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "tangibl",
+          "POS": "JJ"
+        },
+        {
+          "text": "asset",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "ODS": {
+      "words": [
+        {
+          "text": "od",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Training_on_specific_topics_such_as_health_and_safety": {
+      "words": [
+        {
+          "text": "train",
+          "POS": "NN"
+        },
+        {
+          "text": "on",
+          "POS": "IN"
+        },
+        {
+          "text": "specif",
+          "POS": "JJ"
+        },
+        {
+          "text": "topic",
+          "POS": "NNS"
+        },
+        {
+          "text": "such",
+          "POS": "JJ"
+        },
+        {
+          "text": "as",
+          "POS": "IN"
+        },
+        {
+          "text": "health",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "safeti",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Technical_feasibility_of_completing_the_intangible_asset": {
+      "words": [
+        {
+          "text": "technic",
+          "POS": "JJ"
+        },
+        {
+          "text": "feasibl",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "complet",
+          "POS": "VBG"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "intang",
+          "POS": "JJ"
+        },
+        {
+          "text": "asset",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Waste_management": {
+      "words": [
+        {
+          "text": "wast",
+          "POS": "NN"
+        },
+        {
+          "text": "manag",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Type_of_employment__lbraket_full__time_or_part__time_rbraket_": {
+      "words": [
+        {
+          "text": "type",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "employ",
+          "POS": "NN"
+        },
+        {
+          "text": "full",
+          "POS": "JJ"
+        },
+        {
+          "text": "time",
+          "POS": "NN"
+        },
+        {
+          "text": "or",
+          "POS": "CC"
+        },
+        {
+          "text": "part",
+          "POS": "NN"
+        },
+        {
+          "text": "time",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Examples_of_expenditure_that_could_be_included_in_the_calculation": {
+      "words": [
+        {
+          "text": "exampl",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "expenditur",
+          "POS": "NN"
+        },
+        {
+          "text": "that",
+          "POS": "IN"
+        },
+        {
+          "text": "could",
+          "POS": "MD"
+        },
+        {
+          "text": "be",
+          "POS": "VB"
+        },
+        {
+          "text": "includ",
+          "POS": "VBD"
+        },
+        {
+          "text": "in",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "calcul",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Income": {
+      "words": [
+        {
+          "text": "incom",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Property": {
+      "words": [
+        {
+          "text": "properti",
+          "POS": "NN"
+        }
+      ]
+    },
+    "The_total_volume_of_water_recycled_and_reused_as_a_percentage_of_the_total_water_withdrawal": {
+      "words": [
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "total",
+          "POS": "JJ"
+        },
+        {
+          "text": "volum",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "water",
+          "POS": "NN"
+        },
+        {
+          "text": "recycl",
+          "POS": "VBN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "reus",
+          "POS": "VBN"
+        },
+        {
+          "text": "as",
+          "POS": "IN"
+        },
+        {
+          "text": "a",
+          "POS": "DT"
+        },
+        {
+          "text": "percentag",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "total",
+          "POS": "JJ"
+        },
+        {
+          "text": "water",
+          "POS": "NN"
+        },
+        {
+          "text": "withdraw",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Revenue": {
+      "words": [
+        {
+          "text": "revenu",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Core_SDG_indicators_for_entities": {
+      "words": [
+        {
+          "text": "core",
+          "POS": "NN"
+        },
+        {
+          "text": "sdg",
+          "POS": "NN"
+        },
+        {
+          "text": "indic",
+          "POS": "NNS"
+        },
+        {
+          "text": "for",
+          "POS": "IN"
+        },
+        {
+          "text": "entiti",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Renewable_energy": {
+      "words": [
+        {
+          "text": "renew",
+          "POS": "JJ"
+        },
+        {
+          "text": "energi",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Total_water_received_from_a_third_party": {
+      "words": [
+        {
+          "text": "total",
+          "POS": "JJ"
+        },
+        {
+          "text": "water",
+          "POS": "NN"
+        },
+        {
+          "text": "receiv",
+          "POS": "VBN"
+        },
+        {
+          "text": "from",
+          "POS": "IN"
+        },
+        {
+          "text": "a",
+          "POS": "DT"
+        },
+        {
+          "text": "third",
+          "POS": "JJ"
+        },
+        {
+          "text": "parti",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Under_US_GAAP": {
+      "words": [
+        {
+          "text": "under",
+          "POS": "IN"
+        },
+        {
+          "text": "US",
+          "POS": "PRP"
+        },
+        {
+          "text": "gaap",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Mobile_combustion": {
+      "words": [
+        {
+          "text": "mobil",
+          "POS": "NN"
+        },
+        {
+          "text": "combust",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Proportion_of_women_in_managerial_positions": {
+      "words": [
+        {
+          "text": "proport",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "women",
+          "POS": "NNS"
+        },
+        {
+          "text": "in",
+          "POS": "IN"
+        },
+        {
+          "text": "manageri",
+          "POS": "NN"
+        },
+        {
+          "text": "posit",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Breakdown_by_employment_category_and_possibly_by_gender": {
+      "words": [
+        {
+          "text": "breakdown",
+          "POS": "NN"
+        },
+        {
+          "text": "by",
+          "POS": "IN"
+        },
+        {
+          "text": "employ",
+          "POS": "NN"
+        },
+        {
+          "text": "categori",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "possibl",
+          "POS": "RB"
+        },
+        {
+          "text": "by",
+          "POS": "IN"
+        },
+        {
+          "text": "gender",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Capital_expenditures": {
+      "words": [
+        {
+          "text": "capit",
+          "POS": "NN"
+        },
+        {
+          "text": "expenditur",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Damage_to_the_environment": {
+      "words": [
+        {
+          "text": "damag",
+          "POS": "NN"
+        },
+        {
+          "text": "to",
+          "POS": "TO"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "environ",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Examples_of_total_expenditures_on_research_and_development": {
+      "words": [
+        {
+          "text": "exampl",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "total",
+          "POS": "JJ"
+        },
+        {
+          "text": "expenditur",
+          "POS": "NNS"
+        },
+        {
+          "text": "on",
+          "POS": "IN"
+        },
+        {
+          "text": "research",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "develop",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Type_of_employment_contract__lbraket_permanent_or_temporary_rbraket_": {
+      "words": [
+        {
+          "text": "type",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "employ",
+          "POS": "NN"
+        },
+        {
+          "text": "contract",
+          "POS": "NN"
+        },
+        {
+          "text": "perman",
+          "POS": "NN"
+        },
+        {
+          "text": "or",
+          "POS": "CC"
+        },
+        {
+          "text": "temporari",
+          "POS": "JJ"
+        }
+      ]
+    },
+    "Research_to_discover_new_knowledge": {
+      "words": [
+        {
+          "text": "research",
+          "POS": "NN"
+        },
+        {
+          "text": "to",
+          "POS": "TO"
+        },
+        {
+          "text": "discov",
+          "POS": "NN"
+        },
+        {
+          "text": "new",
+          "POS": "JJ"
+        },
+        {
+          "text": "knowledg",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Country": {
+      "words": [
+        {
+          "text": "countri",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Conversion_tools": {
+      "words": [
+        {
+          "text": "convers",
+          "POS": "NN"
+        },
+        {
+          "text": "tool",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Solar_energy": {
+      "words": [
+        {
+          "text": "solar",
+          "POS": "NN"
+        },
+        {
+          "text": "energi",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Excise_duties": {
+      "words": [
+        {
+          "text": "excis",
+          "POS": "NN"
+        },
+        {
+          "text": "duti",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Corruption": {
+      "words": [
+        {
+          "text": "corrupt",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Type_of_source": {
+      "words": [
+        {
+          "text": "type",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "sourc",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Types_of_underlying_technologies": {
+      "words": [
+        {
+          "text": "type",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "underli",
+          "POS": "VBG"
+        },
+        {
+          "text": "technolog",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Other_technologies": {
+      "words": [
+        {
+          "text": "other",
+          "POS": "JJ"
+        },
+        {
+          "text": "technolog",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "New_investment_slash_expenditures": {
+      "words": [
+        {
+          "text": "new",
+          "POS": "JJ"
+        },
+        {
+          "text": "invest",
+          "POS": "NN"
+        },
+        {
+          "text": "expenditur",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Selection_criteria": {
+      "words": [
+        {
+          "text": "select",
+          "POS": "NN"
+        },
+        {
+          "text": "criteria",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Ocean_energy": {
+      "words": [
+        {
+          "text": "ocean",
+          "POS": "NN"
+        },
+        {
+          "text": "energi",
+          "POS": "NN"
+        }
+      ]
+    },
+    "The_frequency_rate": {
+      "words": [
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "frequenc",
+          "POS": "NN"
+        },
+        {
+          "text": "rate",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Normaling_data_on_renewable_energy": {
+      "words": [
+        {
+          "text": "normal",
+          "POS": "VBG"
+        },
+        {
+          "text": "data",
+          "POS": "NNS"
+        },
+        {
+          "text": "on",
+          "POS": "IN"
+        },
+        {
+          "text": "renew",
+          "POS": "JJ"
+        },
+        {
+          "text": "energi",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Examples_of_expence": {
+      "words": [
+        {
+          "text": "exampl",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "expenc",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Training_facilities": {
+      "words": [
+        {
+          "text": "train",
+          "POS": "NN"
+        },
+        {
+          "text": "facil",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Location__based_method": {
+      "words": [
+        {
+          "text": "locat",
+          "POS": "NN"
+        },
+        {
+          "text": "base",
+          "POS": "VBN"
+        },
+        {
+          "text": "method",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Employee_salaries": {
+      "words": [
+        {
+          "text": "employe",
+          "POS": "NN"
+        },
+        {
+          "text": "salari",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "IFRS__one__five__comma__Revenue_from_Contracts_with_Customers": {
+      "words": [
+        {
+          "text": "ifr",
+          "POS": "NN"
+        },
+        {
+          "text": "one",
+          "POS": "CD"
+        },
+        {
+          "text": "five",
+          "POS": "CD"
+        },
+        {
+          "text": "revenu",
+          "POS": "NN"
+        },
+        {
+          "text": "from",
+          "POS": "IN"
+        },
+        {
+          "text": "contract",
+          "POS": "NNS"
+        },
+        {
+          "text": "with",
+          "POS": "IN"
+        },
+        {
+          "text": "custom",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Surface_water_comma__including_comma__for_example_water_from_wetlands_comma__rivers_and_lakes_dot_": {
+      "words": [
+        {
+          "text": "surfac",
+          "POS": "NN"
+        },
+        {
+          "text": "water",
+          "POS": "NN"
+        },
+        {
+          "text": "includ",
+          "POS": "VBG"
+        },
+        {
+          "text": "for",
+          "POS": "IN"
+        },
+        {
+          "text": "exampl",
+          "POS": "NN"
+        },
+        {
+          "text": "water",
+          "POS": "NN"
+        },
+        {
+          "text": "from",
+          "POS": "IN"
+        },
+        {
+          "text": "wetland",
+          "POS": "NNS"
+        },
+        {
+          "text": "river",
+          "POS": "NNS"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "lake",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Institutional_area": {
+      "words": [
+        {
+          "text": "institut",
+          "POS": "JJ"
+        },
+        {
+          "text": "area",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Waste_reused_comma__re__manufactured_and_recycled": {
+      "words": [
+        {
+          "text": "wast",
+          "POS": "NN"
+        },
+        {
+          "text": "reus",
+          "POS": "VBN"
+        },
+        {
+          "text": "re",
+          "POS": "NN"
+        },
+        {
+          "text": "manufactur",
+          "POS": "VBD"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "recycl",
+          "POS": "VBN"
+        }
+      ]
+    },
+    "Reduction_of_waste_generation": {
+      "words": [
+        {
+          "text": "reduct",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "wast",
+          "POS": "NN"
+        },
+        {
+          "text": "gener",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Support_of_community_infrastructures": {
+      "words": [
+        {
+          "text": "support",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "commun",
+          "POS": "NN"
+        },
+        {
+          "text": "infrastructur",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Total_number_of_hours_worked_by_workers_in_the_reporting_period": {
+      "words": [
+        {
+          "text": "total",
+          "POS": "JJ"
+        },
+        {
+          "text": "number",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "hour",
+          "POS": "NNS"
+        },
+        {
+          "text": "work",
+          "POS": "VBN"
+        },
+        {
+          "text": "by",
+          "POS": "IN"
+        },
+        {
+          "text": "worker",
+          "POS": "NNS"
+        },
+        {
+          "text": "in",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "report",
+          "POS": "NN"
+        },
+        {
+          "text": "period",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Business_unit": {
+      "words": [
+        {
+          "text": "busi",
+          "POS": "NN"
+        },
+        {
+          "text": "unit",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Employee_health_and_safety": {
+      "words": [
+        {
+          "text": "employe",
+          "POS": "NN"
+        },
+        {
+          "text": "health",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "safeti",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Employees_and_supervised_workers": {
+      "words": [
+        {
+          "text": "employe",
+          "POS": "NNS"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "supervis",
+          "POS": "VBN"
+        },
+        {
+          "text": "worker",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Board_members_by_age_range": {
+      "words": [
+        {
+          "text": "board",
+          "POS": "NN"
+        },
+        {
+          "text": "member",
+          "POS": "NNS"
+        },
+        {
+          "text": "by",
+          "POS": "IN"
+        },
+        {
+          "text": "age",
+          "POS": "NN"
+        },
+        {
+          "text": "rang",
+          "POS": "NN"
+        }
+      ]
+    },
+    "SMEs": {
+      "words": [
+        {
+          "text": "sme",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Climate_change_mitigation": {
+      "words": [
+        {
+          "text": "climat",
+          "POS": "NN"
+        },
+        {
+          "text": "chang",
+          "POS": "NN"
+        },
+        {
+          "text": "mitig",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Employee_wages_and_benefits": {
+      "words": [
+        {
+          "text": "employe",
+          "POS": "NN"
+        },
+        {
+          "text": "wage",
+          "POS": "NNS"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "benefit",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Sustainable_use_of_water": {
+      "words": [
+        {
+          "text": "sustain",
+          "POS": "JJ"
+        },
+        {
+          "text": "use",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "water",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Invoices_or_commitments": {
+      "words": [
+        {
+          "text": "invoic",
+          "POS": "NNS"
+        },
+        {
+          "text": "or",
+          "POS": "CC"
+        },
+        {
+          "text": "commit",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Water_use_efficiency": {
+      "words": [
+        {
+          "text": "water",
+          "POS": "NN"
+        },
+        {
+          "text": "use",
+          "POS": "NN"
+        },
+        {
+          "text": "effici",
+          "POS": "NN"
+        }
+      ]
+    },
+    "The_total_amount_of_employee_wages_and_benefits": {
+      "words": [
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "total",
+          "POS": "JJ"
+        },
+        {
+          "text": "amount",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "employe",
+          "POS": "NN"
+        },
+        {
+          "text": "wage",
+          "POS": "NNS"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "benefit",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Licence_fees_comma__and_other_payments_to_Government": {
+      "words": [
+        {
+          "text": "licenc",
+          "POS": "NN"
+        },
+        {
+          "text": "fee",
+          "POS": "NNS"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "other",
+          "POS": "JJ"
+        },
+        {
+          "text": "payment",
+          "POS": "NNS"
+        },
+        {
+          "text": "to",
+          "POS": "TO"
+        },
+        {
+          "text": "govern",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Age_group": {
+      "words": [
+        {
+          "text": "age",
+          "POS": "NN"
+        },
+        {
+          "text": "group",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Information_about_any_actions_taken_in_response_to_incidents_of_corruption": {
+      "words": [
+        {
+          "text": "inform",
+          "POS": "NN"
+        },
+        {
+          "text": "about",
+          "POS": "IN"
+        },
+        {
+          "text": "ani",
+          "POS": "DT"
+        },
+        {
+          "text": "action",
+          "POS": "NNS"
+        },
+        {
+          "text": "taken",
+          "POS": "VBN"
+        },
+        {
+          "text": "in",
+          "POS": "IN"
+        },
+        {
+          "text": "respons",
+          "POS": "NN"
+        },
+        {
+          "text": "to",
+          "POS": "TO"
+        },
+        {
+          "text": "incid",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "corrupt",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Total_benefits": {
+      "words": [
+        {
+          "text": "total",
+          "POS": "JJ"
+        },
+        {
+          "text": "benefit",
+          "POS": "NNS"
+        }
+      ]
+    }
+  },
+  "individual_names_dict": {},
+  "pradicates": {
+    "_less_Image_more_": {
+      "words": [
+        {
+          "text": "less",
+          "POS": "RBR"
+        },
+        {
+          "text": "imag",
+          "POS": "NN"
+        },
+        {
+          "text": "more",
+          "POS": "RBR"
+        }
+      ],
+      "in_class": [
+        "Rationale_and_objective",
+        "Total_expenditures_on_research_and_development",
+        "Green_investment",
+        "Net_value_added",
+        "Reduction_of_waste_generation"
+      ]
+    },
+    "Revenue": {
+      "words": [
+        {
+          "text": "revenu",
+          "POS": "NN"
+        }
+      ],
+      "in_class": [
+        "Measurement_methodology",
+        "Potential_sources_of_information"
+      ]
+    },
+    "Value_added": {
+      "words": [
+        {
+          "text": "valu",
+          "POS": "NN"
+        },
+        {
+          "text": "ad",
+          "POS": "VBD"
+        }
+      ],
+      "in_class": [
+        "Measurement_methodology",
+        "Potential_sources_of_information"
+      ]
+    },
+    "Net_value_added": {
+      "words": [
+        {
+          "text": "net",
+          "POS": "NN"
+        },
+        {
+          "text": "valu",
+          "POS": "NN"
+        },
+        {
+          "text": "ad",
+          "POS": "VBD"
+        }
+      ],
+      "in_class": [
+        "Measurement_methodology",
+        "Potential_sources_of_information"
+      ]
+    },
+    "Taxes_and_other_payments_to_the_Government": {
+      "words": [
+        {
+          "text": "tax",
+          "POS": "NNS"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "other",
+          "POS": "JJ"
+        },
+        {
+          "text": "payment",
+          "POS": "NNS"
+        },
+        {
+          "text": "to",
+          "POS": "TO"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "govern",
+          "POS": "NN"
+        }
+      ],
+      "in_class": [
+        "Measurement_methodology",
+        "Potential_sources_of_information"
+      ]
+    },
+    "Green_investment": {
+      "words": [
+        {
+          "text": "green",
+          "POS": "JJ"
+        },
+        {
+          "text": "invest",
+          "POS": "NN"
+        }
+      ],
+      "in_class": [
+        "Measurement_methodology",
+        "Potential_sources_of_information"
+      ]
+    },
+    "Community_investment": {
+      "words": [
+        {
+          "text": "commun",
+          "POS": "NN"
+        },
+        {
+          "text": "invest",
+          "POS": "NN"
+        }
+      ],
+      "in_class": [
+        "Measurement_methodology",
+        "Potential_sources_of_information"
+      ]
+    },
+    "Total_expenditures_on_research_and_development": {
+      "words": [
+        {
+          "text": "total",
+          "POS": "JJ"
+        },
+        {
+          "text": "expenditur",
+          "POS": "NNS"
+        },
+        {
+          "text": "on",
+          "POS": "IN"
+        },
+        {
+          "text": "research",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "develop",
+          "POS": "NN"
+        }
+      ],
+      "in_class": [
+        "Measurement_methodology",
+        "Potential_sources_of_information"
+      ]
+    },
+    "Percentage_of_local_procurement": {
+      "words": [
+        {
+          "text": "percentag",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "local",
+          "POS": "JJ"
+        },
+        {
+          "text": "procur",
+          "POS": "NN"
+        }
+      ],
+      "in_class": [
+        "Measurement_methodology",
+        "Potential_sources_of_information"
+      ]
+    },
+    "Water_recycling_and_reuse": {
+      "words": [
+        {
+          "text": "water",
+          "POS": "NN"
+        },
+        {
+          "text": "recycl",
+          "POS": "VBG"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "reus",
+          "POS": "NN"
+        }
+      ],
+      "in_class": [
+        "Measurement_methodology",
+        "Potential_sources_of_information"
+      ]
+    },
+    "Water_use_efficiency": {
+      "words": [
+        {
+          "text": "water",
+          "POS": "NN"
+        },
+        {
+          "text": "use",
+          "POS": "NN"
+        },
+        {
+          "text": "effici",
+          "POS": "NN"
+        }
+      ],
+      "in_class": [
+        "Measurement_methodology",
+        "Potential_sources_of_information"
+      ]
+    },
+    "Water_stress": {
+      "words": [
+        {
+          "text": "water",
+          "POS": "NN"
+        },
+        {
+          "text": "stress",
+          "POS": "NN"
+        }
+      ],
+      "in_class": [
+        "Measurement_methodology",
+        "Potential_sources_of_information"
+      ]
+    },
+    "Reduction_of_waste_generation": {
+      "words": [
+        {
+          "text": "reduct",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "wast",
+          "POS": "NN"
+        },
+        {
+          "text": "gener",
+          "POS": "NN"
+        }
+      ],
+      "in_class": [
+        "Measurement_methodology",
+        "Potential_sources_of_information"
+      ]
+    },
+    "Waste_reused_comma__re__manufactured_and_recycled": {
+      "words": [
+        {
+          "text": "wast",
+          "POS": "NN"
+        },
+        {
+          "text": "reus",
+          "POS": "VBN"
+        },
+        {
+          "text": "re",
+          "POS": "NN"
+        },
+        {
+          "text": "manufactur",
+          "POS": "VBD"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "recycl",
+          "POS": "VBN"
+        }
+      ],
+      "in_class": [
+        "Measurement_methodology",
+        "Potential_sources_of_information"
+      ]
+    },
+    "Hazardous_waste": {
+      "words": [
+        {
+          "text": "hazard",
+          "POS": "JJ"
+        },
+        {
+          "text": "wast",
+          "POS": "NN"
+        }
+      ],
+      "in_class": [
+        "Measurement_methodology",
+        "Potential_sources_of_information"
+      ]
+    },
+    "Greenhouse_gas_emissions__lbraket_scope__one__rbraket_": {
+      "words": [
+        {
+          "text": "greenhous",
+          "POS": "NN"
+        },
+        {
+          "text": "ga",
+          "POS": "NN"
+        },
+        {
+          "text": "emiss",
+          "POS": "NNS"
+        },
+        {
+          "text": "scope",
+          "POS": "NN"
+        },
+        {
+          "text": "one",
+          "POS": "CD"
+        }
+      ],
+      "in_class": [
+        "Measurement_methodology",
+        "Potential_sources_of_information"
+      ]
+    },
+    "Greenhouse_gas_emissions__lbraket_scope__two__rbraket_": {
+      "words": [
+        {
+          "text": "greenhous",
+          "POS": "NN"
+        },
+        {
+          "text": "ga",
+          "POS": "NN"
+        },
+        {
+          "text": "emiss",
+          "POS": "NNS"
+        },
+        {
+          "text": "scope",
+          "POS": "NN"
+        },
+        {
+          "text": "two",
+          "POS": "CD"
+        }
+      ],
+      "in_class": [
+        "Measurement_methodology",
+        "Potential_sources_of_information"
+      ]
+    },
+    "Ozone__depleting_substances_and_chemicals": {
+      "words": [
+        {
+          "text": "ozon",
+          "POS": "NN"
+        },
+        {
+          "text": "deplet",
+          "POS": "VBG"
+        },
+        {
+          "text": "substanc",
+          "POS": "NNS"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "chemic",
+          "POS": "NNS"
+        }
+      ],
+      "in_class": [
+        "Measurement_methodology",
+        "Potential_sources_of_information"
+      ]
+    },
+    "Renewable_energy": {
+      "words": [
+        {
+          "text": "renew",
+          "POS": "JJ"
+        },
+        {
+          "text": "energi",
+          "POS": "NN"
+        }
+      ],
+      "in_class": [
+        "Measurement_methodology",
+        "Potential_sources_of_information"
+      ]
+    },
+    "Energy_efficiency": {
+      "words": [
+        {
+          "text": "energi",
+          "POS": "NN"
+        },
+        {
+          "text": "effici",
+          "POS": "NN"
+        }
+      ],
+      "in_class": [
+        "Measurement_methodology",
+        "Potential_sources_of_information"
+      ]
+    },
+    "Proportion_of_women_in_managerial_positions": {
+      "words": [
+        {
+          "text": "proport",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "women",
+          "POS": "NNS"
+        },
+        {
+          "text": "in",
+          "POS": "IN"
+        },
+        {
+          "text": "manageri",
+          "POS": "NN"
+        },
+        {
+          "text": "posit",
+          "POS": "NNS"
+        }
+      ],
+      "in_class": [
+        "Measurement_methodology",
+        "Potential_sources_of_information"
+      ]
+    },
+    "Average_hours_of_training_per_year_per_employee": {
+      "words": [
+        {
+          "text": "averag",
+          "POS": "JJ"
+        },
+        {
+          "text": "hour",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "train",
+          "POS": "NN"
+        },
+        {
+          "text": "per",
+          "POS": "IN"
+        },
+        {
+          "text": "year",
+          "POS": "NN"
+        },
+        {
+          "text": "per",
+          "POS": "IN"
+        },
+        {
+          "text": "employe",
+          "POS": "NN"
+        }
+      ],
+      "in_class": [
+        "Measurement_methodology",
+        "Potential_sources_of_information"
+      ]
+    },
+    "Expenditure_on_employee_training_per_year_per_employee": {
+      "words": [
+        {
+          "text": "expenditur",
+          "POS": "NN"
+        },
+        {
+          "text": "on",
+          "POS": "IN"
+        },
+        {
+          "text": "employe",
+          "POS": "NN"
+        },
+        {
+          "text": "train",
+          "POS": "NN"
+        },
+        {
+          "text": "per",
+          "POS": "IN"
+        },
+        {
+          "text": "year",
+          "POS": "NN"
+        },
+        {
+          "text": "per",
+          "POS": "IN"
+        },
+        {
+          "text": "employe",
+          "POS": "NN"
+        }
+      ],
+      "in_class": [
+        "Measurement_methodology",
+        "Potential_sources_of_information"
+      ]
+    },
+    "Employee_wages_and_benefits_as_a_proportion_of_revenue_comma__with_breakdown_by_employment_type_and_gender": {
+      "words": [
+        {
+          "text": "employe",
+          "POS": "NN"
+        },
+        {
+          "text": "wage",
+          "POS": "NNS"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "benefit",
+          "POS": "NNS"
+        },
+        {
+          "text": "as",
+          "POS": "IN"
+        },
+        {
+          "text": "a",
+          "POS": "DT"
+        },
+        {
+          "text": "proport",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "revenu",
+          "POS": "NN"
+        },
+        {
+          "text": "with",
+          "POS": "IN"
+        },
+        {
+          "text": "breakdown",
+          "POS": "NN"
+        },
+        {
+          "text": "by",
+          "POS": "IN"
+        },
+        {
+          "text": "employ",
+          "POS": "NN"
+        },
+        {
+          "text": "type",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "gender",
+          "POS": "NN"
+        }
+      ],
+      "in_class": [
+        "Measurement_methodology",
+        "Potential_sources_of_information"
+      ]
+    },
+    "Expenditures_on_employee_health_and_safety_as_a_proportion_of_revenue": {
+      "words": [
+        {
+          "text": "expenditur",
+          "POS": "NNS"
+        },
+        {
+          "text": "on",
+          "POS": "IN"
+        },
+        {
+          "text": "employe",
+          "POS": "NN"
+        },
+        {
+          "text": "health",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "safeti",
+          "POS": "NN"
+        },
+        {
+          "text": "as",
+          "POS": "IN"
+        },
+        {
+          "text": "a",
+          "POS": "DT"
+        },
+        {
+          "text": "proport",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "revenu",
+          "POS": "NN"
+        }
+      ],
+      "in_class": [
+        "Measurement_methodology",
+        "Potential_sources_of_information"
+      ]
+    },
+    "Frequency_slash_incident_rates_of_occupational_injuries": {
+      "words": [
+        {
+          "text": "frequenc",
+          "POS": "NN"
+        },
+        {
+          "text": "incid",
+          "POS": "NN"
+        },
+        {
+          "text": "rate",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "occup",
+          "POS": "JJ"
+        },
+        {
+          "text": "injuri",
+          "POS": "NNS"
+        }
+      ],
+      "in_class": [
+        "Measurement_methodology",
+        "Potential_sources_of_information"
+      ]
+    },
+    "Percentage_of_employees_covered_by_collective_agreements": {
+      "words": [
+        {
+          "text": "percentag",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "employe",
+          "POS": "NNS"
+        },
+        {
+          "text": "cover",
+          "POS": "VBN"
+        },
+        {
+          "text": "by",
+          "POS": "IN"
+        },
+        {
+          "text": "collect",
+          "POS": "NN"
+        },
+        {
+          "text": "agreement",
+          "POS": "NNS"
+        }
+      ],
+      "in_class": [
+        "Measurement_methodology",
+        "Potential_sources_of_information"
+      ]
+    },
+    "Compensation_colon__Total_compensation_per_board_member__lbraket_both_executive_and_non__executive_directors_rbraket_": {
+      "words": [
+        {
+          "text": "compens",
+          "POS": "NN"
+        },
+        {
+          "text": "total",
+          "POS": "JJ"
+        },
+        {
+          "text": "compens",
+          "POS": "NN"
+        },
+        {
+          "text": "per",
+          "POS": "IN"
+        },
+        {
+          "text": "board",
+          "POS": "NN"
+        },
+        {
+          "text": "member",
+          "POS": "NN"
+        },
+        {
+          "text": "both",
+          "POS": "DT"
+        },
+        {
+          "text": "execut",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "non",
+          "POS": "NN"
+        },
+        {
+          "text": "execut",
+          "POS": "NN"
+        },
+        {
+          "text": "director",
+          "POS": "NNS"
+        }
+      ],
+      "in_class": [
+        "Measurement_methodology",
+        "Potential_sources_of_information"
+      ]
+    },
+    "Amount_of_fines_paid_or_payable_due_to_settlements": {
+      "words": [
+        {
+          "text": "amount",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "fine",
+          "POS": "NNS"
+        },
+        {
+          "text": "paid",
+          "POS": "NN"
+        },
+        {
+          "text": "or",
+          "POS": "CC"
+        },
+        {
+          "text": "payabl",
+          "POS": "JJ"
+        },
+        {
+          "text": "due",
+          "POS": "JJ"
+        },
+        {
+          "text": "to",
+          "POS": "TO"
+        },
+        {
+          "text": "settlement",
+          "POS": "NNS"
+        }
+      ],
+      "in_class": [
+        "Measurement_methodology",
+        "Potential_sources_of_information"
+      ]
+    },
+    "Table_of_selected_core_SDG_indicators": {
+      "words": [
+        {
+          "text": "tabl",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "select",
+          "POS": "VBN"
+        },
+        {
+          "text": "core",
+          "POS": "NN"
+        },
+        {
+          "text": "sdg",
+          "POS": "NN"
+        },
+        {
+          "text": "indic",
+          "POS": "NNS"
+        }
+      ],
+      "in_class": [
+        "Core_SDG_indicators_for_entities"
+      ]
+    },
+    "Type_of_area": {
+      "words": [
+        {
+          "text": "type",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "area",
+          "POS": "NN"
+        }
+      ],
+      "in_class": [
+        "Core_SDG_indicators_for_entities"
+      ]
+    },
+    "SDG_indicators": {
+      "words": [
+        {
+          "text": "sdg",
+          "POS": "NN"
+        },
+        {
+          "text": "indic",
+          "POS": "NNS"
+        }
+      ],
+      "in_class": [
+        "Core_SDG_indicators_for_entities"
+      ]
+    },
+    "Indicators": {
+      "words": [
+        {
+          "text": "indic",
+          "POS": "NNS"
+        }
+      ],
+      "in_class": [
+        "Core_SDG_indicators_for_entities"
+      ]
+    },
+    "Measurement": {
+      "words": [
+        {
+          "text": "measur",
+          "POS": "NN"
+        }
+      ],
+      "in_class": [
+        "Core_SDG_indicators_for_entities"
+      ]
+    },
+    "Relevant_SDGindicator": {
+      "words": [
+        {
+          "text": "relev",
+          "POS": "NN"
+        },
+        {
+          "text": "sdgindic",
+          "POS": "NN"
+        }
+      ],
+      "in_class": [
+        "Core_SDG_indicators_for_entities"
+      ]
+    },
+    "RELEVANCE_TO_THE_SDGs": {
+      "words": [
+        {
+          "text": "relev",
+          "POS": "NN"
+        },
+        {
+          "text": "TO",
+          "POS": "TO"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "sdg",
+          "POS": "NN"
+        }
+      ],
+      "in_class": [
+        "Core_SDG_indicators_for_entities"
+      ]
+    }
+  },
+  "defined_classes": []
+}

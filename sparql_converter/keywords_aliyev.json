@@ -1,0 +1,1295 @@
+{
+  "class_names_dict": {
+    "Act_of_terrorism_in__one__nine__seven__thre_": {
+      "words": [
+        {
+          "text": "act",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "terror",
+          "POS": "NN"
+        },
+        {
+          "text": "in",
+          "POS": "IN"
+        },
+        {
+          "text": "one",
+          "POS": "CD"
+        },
+        {
+          "text": "nine",
+          "POS": "CD"
+        },
+        {
+          "text": "seven",
+          "POS": "CD"
+        },
+        {
+          "text": "thre",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Armenian_Separatism": {
+      "words": [
+        {
+          "text": "armenian",
+          "POS": "JJ"
+        },
+        {
+          "text": "separat",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Heydar_Aliyev_apostrof_s_bilingual": {
+      "words": [
+        {
+          "text": "heydar",
+          "POS": "NN"
+        },
+        {
+          "text": "aliyev'",
+          "POS": "NN"
+        },
+        {
+          "text": "bilingu",
+          "POS": "JJ"
+        }
+      ]
+    },
+    "Nerve_centre_of_Heydar_Aliyev": {
+      "words": [
+        {
+          "text": "nerv",
+          "POS": "NN"
+        },
+        {
+          "text": "centr",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "heydar",
+          "POS": "NN"
+        },
+        {
+          "text": "aliyev",
+          "POS": "NN"
+        }
+      ]
+    },
+    "The_case_of_rewriting_the_report_by_Heydar_Aliyev": {
+      "words": [
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "case",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "rewrit",
+          "POS": "VBG"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "report",
+          "POS": "NN"
+        },
+        {
+          "text": "by",
+          "POS": "IN"
+        },
+        {
+          "text": "heydar",
+          "POS": "NN"
+        },
+        {
+          "text": "aliyev",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Intensifying_of_nationalist_atmosphere": {
+      "words": [
+        {
+          "text": "intensifi",
+          "POS": "VBG"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "nationalist",
+          "POS": "NN"
+        },
+        {
+          "text": "atmospher",
+          "POS": "RB"
+        }
+      ]
+    },
+    "Conversation_with_the_former_chairman_of_the_Azerbaijan_Supreme_Court_Ibrahim_Ismayilov": {
+      "words": [
+        {
+          "text": "convers",
+          "POS": "NN"
+        },
+        {
+          "text": "with",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "former",
+          "POS": "JJ"
+        },
+        {
+          "text": "chairman",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "azerbaijan",
+          "POS": "NN"
+        },
+        {
+          "text": "suprem",
+          "POS": "NN"
+        },
+        {
+          "text": "court",
+          "POS": "NN"
+        },
+        {
+          "text": "ibrahim",
+          "POS": "NN"
+        },
+        {
+          "text": "ismayilov",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Recognition": {
+      "words": [
+        {
+          "text": "recognit",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Memories_of_the_poet_Gabil": {
+      "words": [
+        {
+          "text": "memori",
+          "POS": "NNS"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "poet",
+          "POS": "NN"
+        },
+        {
+          "text": "gabil",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Some_land_on_the_Azerbaijani_border_to_be__lquote_Armenian_since_time_immemorial_dquote_": {
+      "words": [
+        {
+          "text": "some",
+          "POS": "DT"
+        },
+        {
+          "text": "land",
+          "POS": "NN"
+        },
+        {
+          "text": "on",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "azerbaijani",
+          "POS": "NN"
+        },
+        {
+          "text": "border",
+          "POS": "NN"
+        },
+        {
+          "text": "to",
+          "POS": "TO"
+        },
+        {
+          "text": "be",
+          "POS": "VB"
+        },
+        {
+          "text": "armenian",
+          "POS": "JJ"
+        },
+        {
+          "text": "sinc",
+          "POS": "IN"
+        },
+        {
+          "text": "time",
+          "POS": "NN"
+        },
+        {
+          "text": "immemori",
+          "POS": "JJ"
+        }
+      ]
+    },
+    "National_recognition_of_Heydar_Aliyev": {
+      "words": [
+        {
+          "text": "nation",
+          "POS": "JJ"
+        },
+        {
+          "text": "recognit",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "heydar",
+          "POS": "NN"
+        },
+        {
+          "text": "aliyev",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Citation_in_interview_with_Andrei_Karaulov": {
+      "words": [
+        {
+          "text": "citat",
+          "POS": "NN"
+        },
+        {
+          "text": "in",
+          "POS": "IN"
+        },
+        {
+          "text": "interview",
+          "POS": "NN"
+        },
+        {
+          "text": "with",
+          "POS": "IN"
+        },
+        {
+          "text": "andrei",
+          "POS": "NN"
+        },
+        {
+          "text": "karaulov",
+          "POS": "NN"
+        }
+      ]
+    },
+    "_lquote_Kurdish_problem_rquote_": {
+      "words": [
+        {
+          "text": "kurdish",
+          "POS": "VB"
+        },
+        {
+          "text": "problem",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Citation": {
+      "words": [
+        {
+          "text": "citat",
+          "POS": "NN"
+        }
+      ]
+    },
+    "A_Gifted_Orator": {
+      "words": [
+        {
+          "text": "A",
+          "POS": "DT"
+        },
+        {
+          "text": "gift",
+          "POS": "VBN"
+        },
+        {
+          "text": "orat",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Armenians_squote__failed_attempt_to_seize_Nagorno__Karabakh_in_the_mid___one__nine__six__zero_s": {
+      "words": [
+        {
+          "text": "armenians'",
+          "POS": "NN"
+        },
+        {
+          "text": "fail",
+          "POS": "VBD"
+        },
+        {
+          "text": "attempt",
+          "POS": "NN"
+        },
+        {
+          "text": "to",
+          "POS": "TO"
+        },
+        {
+          "text": "seiz",
+          "POS": "NN"
+        },
+        {
+          "text": "nagorno",
+          "POS": "NN"
+        },
+        {
+          "text": "karabakh",
+          "POS": "NN"
+        },
+        {
+          "text": "in",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "mid",
+          "POS": "NN"
+        },
+        {
+          "text": "one",
+          "POS": "CD"
+        },
+        {
+          "text": "nine",
+          "POS": "CD"
+        },
+        {
+          "text": "six",
+          "POS": "CD"
+        },
+        {
+          "text": "zero",
+          "POS": "NN"
+        },
+        {
+          "text": "s",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Die_image_of_the_eagle_on_the_sculpture": {
+      "words": [
+        {
+          "text": "die",
+          "POS": "NN"
+        },
+        {
+          "text": "imag",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "eagl",
+          "POS": "NN"
+        },
+        {
+          "text": "on",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "sculptur",
+          "POS": "NN"
+        }
+      ]
+    },
+    "An_ethnic_cleansing_of_Kurds": {
+      "words": [
+        {
+          "text": "An",
+          "POS": "DT"
+        },
+        {
+          "text": "ethnic",
+          "POS": "JJ"
+        },
+        {
+          "text": "cleans",
+          "POS": "VBG"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "kurd",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Heydar_Aliyev_apostrof_s_brilliant_and_sharp_speaking": {
+      "words": [
+        {
+          "text": "heydar",
+          "POS": "NN"
+        },
+        {
+          "text": "aliyev'",
+          "POS": "NN"
+        },
+        {
+          "text": "brilliant",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "sharp",
+          "POS": "JJ"
+        },
+        {
+          "text": "speak",
+          "POS": "VBG"
+        }
+      ]
+    },
+    "The_change_of_the_leadership_of_the_autonomous_region": {
+      "words": [
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "chang",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "leadership",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "autonom",
+          "POS": "JJ"
+        },
+        {
+          "text": "region",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Petition_asking_for_the_settlement_of_the_following_issues": {
+      "words": [
+        {
+          "text": "petit",
+          "POS": "NN"
+        },
+        {
+          "text": "ask",
+          "POS": "VBG"
+        },
+        {
+          "text": "for",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "settlement",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "follow",
+          "POS": "VBG"
+        },
+        {
+          "text": "issu",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "A_host_of_unpleasant_incidents_in__one__nine__seven__zero_s": {
+      "words": [
+        {
+          "text": "A",
+          "POS": "DT"
+        },
+        {
+          "text": "host",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "unpleas",
+          "POS": "JJ"
+        },
+        {
+          "text": "incid",
+          "POS": "NNS"
+        },
+        {
+          "text": "in",
+          "POS": "IN"
+        },
+        {
+          "text": "one",
+          "POS": "CD"
+        },
+        {
+          "text": "nine",
+          "POS": "CD"
+        },
+        {
+          "text": "seven",
+          "POS": "CD"
+        },
+        {
+          "text": "zero",
+          "POS": "NN"
+        },
+        {
+          "text": "s",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Deep_understanding_of_the_psychology_and_mentality_squote__of_intellectuals": {
+      "words": [
+        {
+          "text": "deep",
+          "POS": "NN"
+        },
+        {
+          "text": "understand",
+          "POS": "VBG"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "psycholog",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "mentality'",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "intellectu",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "The_later_statements_made_by_the_Heydar_Aliyev_regarding_the__lquote_Armenian_issue_rquote_": {
+      "words": [
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "later",
+          "POS": "RB"
+        },
+        {
+          "text": "statement",
+          "POS": "NNS"
+        },
+        {
+          "text": "made",
+          "POS": "VBN"
+        },
+        {
+          "text": "by",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "heydar",
+          "POS": "NN"
+        },
+        {
+          "text": "aliyev",
+          "POS": "NN"
+        },
+        {
+          "text": "regard",
+          "POS": "VBG"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "armenian",
+          "POS": "JJ"
+        },
+        {
+          "text": "issu",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Akram_Selimzadeh_apostrof_s_story": {
+      "words": [
+        {
+          "text": "akram",
+          "POS": "NN"
+        },
+        {
+          "text": "selimzadeh'",
+          "POS": "NN"
+        },
+        {
+          "text": "stori",
+          "POS": "NN"
+        }
+      ]
+    },
+    "The_more_candid_we_were_about_our_shortcomings_comma__the_fewer_there_would_be_in_future": {
+      "words": [
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "more",
+          "POS": "RBR"
+        },
+        {
+          "text": "candid",
+          "POS": "NN"
+        },
+        {
+          "text": "we",
+          "POS": "PRP"
+        },
+        {
+          "text": "were",
+          "POS": "VBD"
+        },
+        {
+          "text": "about",
+          "POS": "IN"
+        },
+        {
+          "text": "our",
+          "POS": "PRP$"
+        },
+        {
+          "text": "shortcom",
+          "POS": "NNS"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "fewer",
+          "POS": "JJR"
+        },
+        {
+          "text": "there",
+          "POS": "RB"
+        },
+        {
+          "text": "would",
+          "POS": "MD"
+        },
+        {
+          "text": "be",
+          "POS": "VB"
+        },
+        {
+          "text": "in",
+          "POS": "IN"
+        },
+        {
+          "text": "futur",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Heydar_Aliyev_apostrof_s_conversation_with_Aleksandr_Ivanov": {
+      "words": [
+        {
+          "text": "heydar",
+          "POS": "NN"
+        },
+        {
+          "text": "aliyev'",
+          "POS": "NN"
+        },
+        {
+          "text": "convers",
+          "POS": "NN"
+        },
+        {
+          "text": "with",
+          "POS": "IN"
+        },
+        {
+          "text": "aleksandr",
+          "POS": "NN"
+        },
+        {
+          "text": "ivanov",
+          "POS": "NN"
+        }
+      ]
+    },
+    "If_you_do_not_recognise_your_shortcomings_comma__you_will_become_self__satisfied_and_think_that_you_have_nothing_to_improve": {
+      "words": [
+        {
+          "text": "If",
+          "POS": "IN"
+        },
+        {
+          "text": "you",
+          "POS": "PRP"
+        },
+        {
+          "text": "do",
+          "POS": "VB"
+        },
+        {
+          "text": "not",
+          "POS": "RB"
+        },
+        {
+          "text": "recognis",
+          "POS": "NN"
+        },
+        {
+          "text": "your",
+          "POS": "PRP$"
+        },
+        {
+          "text": "shortcom",
+          "POS": "NNS"
+        },
+        {
+          "text": "you",
+          "POS": "PRP"
+        },
+        {
+          "text": "will",
+          "POS": "MD"
+        },
+        {
+          "text": "becom",
+          "POS": "NN"
+        },
+        {
+          "text": "self",
+          "POS": "NN"
+        },
+        {
+          "text": "satisfi",
+          "POS": "JJ"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "think",
+          "POS": "NN"
+        },
+        {
+          "text": "that",
+          "POS": "IN"
+        },
+        {
+          "text": "you",
+          "POS": "PRP"
+        },
+        {
+          "text": "have",
+          "POS": "VB"
+        },
+        {
+          "text": "noth",
+          "POS": "NN"
+        },
+        {
+          "text": "to",
+          "POS": "TO"
+        },
+        {
+          "text": "improv",
+          "POS": "VB"
+        }
+      ]
+    },
+    "The_key_to_success_and_development_begins_with_critical_analysis_and_exposing_shortcomings": {
+      "words": [
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "key",
+          "POS": "NN"
+        },
+        {
+          "text": "to",
+          "POS": "TO"
+        },
+        {
+          "text": "success",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "develop",
+          "POS": "NN"
+        },
+        {
+          "text": "begin",
+          "POS": "NNS"
+        },
+        {
+          "text": "with",
+          "POS": "IN"
+        },
+        {
+          "text": "critic",
+          "POS": "JJ"
+        },
+        {
+          "text": "analysi",
+          "POS": "NN"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "expos",
+          "POS": "VBG"
+        },
+        {
+          "text": "shortcom",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Excerpt_from_the__one__nine__seven__two__report_of_the_KGB_Division_of_the_Nagorno___Karabakh_Autonomous_Regio": {
+      "words": [
+        {
+          "text": "excerpt",
+          "POS": "NN"
+        },
+        {
+          "text": "from",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "one",
+          "POS": "CD"
+        },
+        {
+          "text": "nine",
+          "POS": "CD"
+        },
+        {
+          "text": "seven",
+          "POS": "CD"
+        },
+        {
+          "text": "two",
+          "POS": "CD"
+        },
+        {
+          "text": "report",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "kgb",
+          "POS": "NN"
+        },
+        {
+          "text": "divis",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "nagorno",
+          "POS": "NN"
+        },
+        {
+          "text": "karabakh",
+          "POS": "NN"
+        },
+        {
+          "text": "autonom",
+          "POS": "JJ"
+        },
+        {
+          "text": "regio",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Improvisation_in_Azerbaijani": {
+      "words": [
+        {
+          "text": "improvis",
+          "POS": "NN"
+        },
+        {
+          "text": "in",
+          "POS": "IN"
+        },
+        {
+          "text": "azerbaijani",
+          "POS": "NN"
+        }
+      ]
+    },
+    "As_always_he_spoke_simply_and_was_easy_to_understand_squote_": {
+      "words": [
+        {
+          "text": "As",
+          "POS": "IN"
+        },
+        {
+          "text": "alway",
+          "POS": "RB"
+        },
+        {
+          "text": "he",
+          "POS": "PRP"
+        },
+        {
+          "text": "spoke",
+          "POS": "NN"
+        },
+        {
+          "text": "simpli",
+          "POS": "RB"
+        },
+        {
+          "text": "and",
+          "POS": "CC"
+        },
+        {
+          "text": "wa",
+          "POS": "VBD"
+        },
+        {
+          "text": "easi",
+          "POS": "JJ"
+        },
+        {
+          "text": "to",
+          "POS": "TO"
+        },
+        {
+          "text": "understand'",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Impeccable_mother_tongue_skills": {
+      "words": [
+        {
+          "text": "impecc",
+          "POS": "JJ"
+        },
+        {
+          "text": "mother",
+          "POS": "NN"
+        },
+        {
+          "text": "tongu",
+          "POS": "NN"
+        },
+        {
+          "text": "skill",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "An_Interview_with_a_general_from_the_intelligence_services": {
+      "words": [
+        {
+          "text": "An",
+          "POS": "DT"
+        },
+        {
+          "text": "interview",
+          "POS": "NN"
+        },
+        {
+          "text": "with",
+          "POS": "IN"
+        },
+        {
+          "text": "a",
+          "POS": "DT"
+        },
+        {
+          "text": "gener",
+          "POS": "JJ"
+        },
+        {
+          "text": "from",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "intellig",
+          "POS": "NN"
+        },
+        {
+          "text": "servic",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "First_speech_to_the_academic_community": {
+      "words": [
+        {
+          "text": "first",
+          "POS": "RB"
+        },
+        {
+          "text": "speech",
+          "POS": "NN"
+        },
+        {
+          "text": "to",
+          "POS": "TO"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "academ",
+          "POS": "JJ"
+        },
+        {
+          "text": "commun",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Rechecking_personally_by_Aliyev_his_speeches": {
+      "words": [
+        {
+          "text": "recheck",
+          "POS": "VBG"
+        },
+        {
+          "text": "person",
+          "POS": "RB"
+        },
+        {
+          "text": "by",
+          "POS": "IN"
+        },
+        {
+          "text": "aliyev",
+          "POS": "NN"
+        },
+        {
+          "text": "hi",
+          "POS": "PRP$"
+        },
+        {
+          "text": "speech",
+          "POS": "NNS"
+        }
+      ]
+    },
+    "Non__use_of_the_pre__prepared_text": {
+      "words": [
+        {
+          "text": "non",
+          "POS": "NN"
+        },
+        {
+          "text": "use",
+          "POS": "NN"
+        },
+        {
+          "text": "of",
+          "POS": "IN"
+        },
+        {
+          "text": "the",
+          "POS": "DT"
+        },
+        {
+          "text": "pre",
+          "POS": "NN"
+        },
+        {
+          "text": "prepar",
+          "POS": "JJ"
+        },
+        {
+          "text": "text",
+          "POS": "NN"
+        }
+      ]
+    },
+    "Spontaneous_demonstration": {
+      "words": [
+        {
+          "text": "spontan",
+          "POS": "JJ"
+        },
+        {
+          "text": "demonstr",
+          "POS": "NN"
+        }
+      ]
+    }
+  },
+  "individual_names_dict": {},
+  "pradicates": {},
+  "defined_classes": []
+}

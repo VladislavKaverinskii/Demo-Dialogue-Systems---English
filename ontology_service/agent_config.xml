@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<agent_config>
+	<name>ontology_agent</name>
+	<queue_timout>100</queue_timout>
+	<ttl>20</ttl>
+	<result_ttl>30</result_ttl>
+	<failure_ttl>10</failure_ttl>
+	<check_ids_interval>5</check_ids_interval>
+	<limitation>1000</limitation>
+	<garbage_deleting>100</garbage_deleting>
+	<host>0.0.0.0</host>
+	<port>8009</port>
+	<responding_url>http://localhost:8008/process_answers/</responding_url>
+	<ansver_attempts>10</ansver_attempts>
+</agent_config>

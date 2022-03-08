@@ -1,0 +1,21 @@
+ {'results':
+	 {'bindings':
+		 [
+			{'result':
+				 {'type': 'literal',
+				  'value': 'In the social area, the following core indicators are selected:\n• Proportion of women in managerial positions.\n• Average hours of training per year per employee.\n• Expenditure on employee training per year per employee.\n•  Employee wages and benefits as a proportion of revenue, by employment type and gender.\n• Expenditures on employee health and safety as a proportion of revenue.\n• Frequency/incident rates of occupational injuries.\n• Percentage of employees covered by collective agreements.',
+				   'datatype': 'string'},
+			'title':
+				 {'type': 'literal',
+				  'value': 'Social area',
+				  'xml:lang': 'en'}
+			}
+		]
+	},
+ 'head':
+	 {'vars':
+		 ['title',
+		  'result'
+                  ]
+	 }
+}

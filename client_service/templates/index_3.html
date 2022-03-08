@@ -1,0 +1,49 @@
+
+<html>
+<head>
+	{% load static %}
+	<title>HEYDAR ALIYEV</title>
+	<link rel="shortcut icon" href="{% static '/img/favicon.ico' %}" type="image/x-icon">
+	<script type="text/javascript" src="{% static 'js/jquery-1.12.3.min.js' %}"></script>
+	<script type="text/javascript" src="{% static 'js/bot-popup_3.js' %}"></script>
+
+	<link href="{% static 'css/style.css' %}" rel="stylesheet">
+	<meta name="viewport" content="height=device-height,width=600,user-scalable=yes">
+</head>
+<body>
+	<div class="wrapper">
+		<header>
+			<h1>HEYDAR ALIYEV - A LIVING HISTORY</h1>
+			<h2><i>by Elmira Akhundova</i></h2>
+			<p class="download-button"><a class="download-link" target="blank" href="{% static '/Heydar_AliyevA_Living_History.pdf' %}">Download the book</a></p>
+		</header>		
+	
+		<div class="chat-box">
+			<div class="chat-head">
+				<h2>Virtual consultant</h2>				
+				<img src="https://maxcdn.icons8.com/windows10/PNG/16/Arrows/angle_down-16.png" title="Expand Arrow" width="16">
+			</div>
+			<div class="chat-body">
+				<div class="msg-insert">
+				  <div class="msg-receive start-dialog_replic"> Are you to start a conversation? </div>
+				  <div class='msg-receive start-dialog_replic'><button class="dialog-button dialog-start_button">Start a new conversation</button></div>
+				</div>
+				<div class="chat-text">
+					<textarea class="chat-text_input" disabled="disabled" placeholder="Click the button above to start the dialog"></textarea>
+					
+				</div>
+			</div>
+			
+		</div>
+		
+		<div class="main-block">
+			<iframe
+			src="{% static '/Heydar_AliyevA_Living_History.pdf' %}"
+			style="border: none;" />
+		</div>
+		
+	</div>
+</body>
+</html>
+
+

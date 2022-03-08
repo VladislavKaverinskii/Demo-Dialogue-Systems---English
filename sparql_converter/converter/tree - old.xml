@@ -1,0 +1,2526 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<data>
+<specific_words>
+	<beginning>
+		<item>please</item>
+		<item>my dear</item>
+		<item>my darling</item>
+		<item>my sweet</item>
+		<item>dear</item>
+	
+		
+		<item>can you provide</item>
+		<item>can you name the answer to the question</item>
+		<item>can you answer the question</item>
+		<item>can you give an answer</item>
+		<item>can you give</item>
+		<item>can you name the answer</item>
+		<item>can you recall</item>
+		<item>can you provide</item>
+		<item>can you name</item>
+		<item>can you answer</item>
+		<item>can you tell me about</item>
+		<item>can you tell us about</item>
+		<item>can you tell me</item>
+		<item>can you tell us</item>
+		<item>can you tell about</item>
+		<item>can you tell</item>
+		<item>can you say us about that</item>
+		<item>can you say me about that</item>
+		<item>can you say about that</item>
+		<item>can you say us about</item>
+		<item>can you say me about</item>
+		<item>can you say about</item>
+		<item>can you say</item>
+		<item>can you</item>
+		
+		
+		
+		<item>could you provide</item>
+		<item>could you name the answer to the question</item>
+		<item>could you answer the question</item>
+		<item>could you give an answer</item>
+		<item>could you give</item>
+		<item>could you name the answer</item>
+		<item>could you recall</item>
+		<item>could you provide</item>
+		<item>could you name</item>
+		<item>could you answer</item>
+		<item>could you tell me</item>
+		<item>could you tell us</item>
+		<item>could you tell</item>
+		<item>could you</item>
+		
+		<item>would you like to provide</item>
+		<item>would you like to name the answer to the question</item>
+		<item>would you like to answer the question</item>
+		<item>would you like to give an answer</item>
+		<item>would you like to give</item>
+		<item>would you like to name the answer</item>
+		<item>would you like to recall</item>
+		<item>would you like to provide</item>
+		<item>would you like to name</item>
+		<item>would you like to answer</item>
+		<item>would you like to tell me</item>
+		<item>would you like to tell us</item>
+		<item>would you like to tell</item>		
+		<item>would you like to</item>
+		
+		<item>may you provide</item>
+		<item>may you name the answer to the question</item>
+		<item>may you answer the question</item>
+		<item>may you give an answer</item>
+		<item>may you give</item>
+		<item>may you name the answer</item>
+		<item>may you recall</item>
+		<item>may you provide</item>
+		<item>may you name</item>
+		<item>may you answer</item>
+		<item>may you tell me</item>
+		<item>may you tell us</item>
+		<item>may you tell</item>
+		<item>may you</item>		
+		
+		
+		<item>would you like to know</item>	
+		<item>would you like to answer</item>
+
+		
+		<item>what is known about that</item>
+		<item>what is known about</item>
+		<item>what is known on</item>
+		<item>what is known of</item>	
+		<item>what's known about that</item>
+		<item>what's known about</item>
+		<item>what's known on</item>
+		<item>what's known of</item>
+		
+
+		
+		<item>what do you know about that</item>
+		<item>what do you know about</item>
+		<item>what do you know of</item>
+		<item>what do you know</item>
+
+		<item>what do we know about that</item>
+		<item>what do we know about</item>
+		<item>what do we know of</item>
+		<item>what do we know</item>
+		
+		<item>what you know about that</item>
+		<item>what you know about</item>
+		<item>what you know of</item>
+		<item>what you know</item>
+
+		<item>what we know about that</item>
+		<item>what we know about</item>
+		<item>what we know of</item>
+		<item>what we know</item>
+		
+		<item>what do you think about that</item>
+		<item>what do you think of that</item>
+		<item>what do you think about</item>
+		<item>what do you think of</item>				
+		<item>what do you think</item>
+		
+		<item>what do we think about that</item>
+		<item>what do we think of that</item>
+		<item>what do we think about</item>
+		<item>what do we think of</item>				
+		<item>what do we think</item>
+		
+		<item>what can you tell us about that</item>
+		<item>what can you tell me about that</item>
+		<item>what can you tell about that</item>
+		<item>what can you tell us about</item>
+		<item>what can you tell me about</item>
+		<item>what can you tell about</item>
+		<item>what can you tell</item>
+		
+		<item>what can you say us about that</item>
+		<item>what can you say me about that</item>
+		<item>what can you say about that</item>
+		<item>what can you say us about</item>
+		<item>what can you say me about</item>
+		<item>what can you say about</item>
+		<item>what can you say</item>
+		
+		<item>what can we tell us about that</item>
+		<item>what can we tell me about that</item>
+		<item>what can we tell about that</item>
+		<item>what can we tell us about</item>
+		<item>what can we tell me about</item>
+		<item>what can we tell about</item>
+		<item>what can we tell</item>
+		
+		<item>what can we say us about that</item>
+		<item>what can we say me about that</item>
+		<item>what can we say about that</item>
+		<item>what can we say us about</item>
+		<item>what can we say me about</item>
+		<item>what can we say about</item>
+		<item>what can we say</item>
+		
+		<item>what could you tell us about that</item>
+		<item>what could you tell me about that</item>
+		<item>what could you tell about that</item>
+		<item>what could you tell us about</item>
+		<item>what could you tell me about</item>
+		<item>what could you tell about</item>
+		<item>what could you tell</item>
+		
+		<item>what could you say us about that</item>
+		<item>what could you say me about that</item>
+		<item>what could you say about that</item>
+		<item>what could you say us about</item>
+		<item>what could you say me about</item>
+		<item>what could you say about</item>
+		<item>what could you say</item>
+		
+		<item>what could we tell us about that</item>
+		<item>what could we tell me about that</item>
+		<item>what could we tell about that</item>
+		<item>what could we tell us about</item>
+		<item>what could we tell me about</item>
+		<item>what could we tell about</item>
+		<item>what could we tell</item>
+		
+		<item>what could we say us about that</item>
+		<item>what could we say me about that</item>
+		<item>what could we say about that</item>
+		<item>what could we say us about</item>
+		<item>what could we say me about</item>
+		<item>what could we say about</item>
+		<item>what could we say</item>
+		
+		
+				
+		
+		<item>what is the answer for</item>
+		<item>what is the answer</item>		
+		
+		<item>what could you tell us about that</item>
+		<item>what could you tell about</item>
+		<item>what could you say about that</item>
+		<item>what could you say about</item>
+		
+		<item>do you know about</item>
+		<item>do you know about</item>
+		<item>do you know that</item>
+		<item>do you know</item>		
+		<item>do you know about that</item>
+		<item>do you know about something</item>
+		<item>dost thou know that</item>
+		<item>dost thou know</item>
+		
+		<item>you know that</item>
+		
+		<item>tell me about that</item>
+		
+		<item>tell us about that</item>
+		<item>tell us about</item>
+		<item>tell on</item>		
+		<item>tell me about it</item>
+		<item>tell us about</item>
+		<item>tell me of it</item>
+		<item>tell about</item>
+		<item>tell</item>
+		
+		<item>and now</item>
+		<item>now</item>
+		
+        		
+		<item>i want to know that</item>
+		<item>i want to know</item>
+		<item>i would like to know that</item>
+		
+		<item>i would like to ask that</item>
+		<item>i would like to ask</item>
+		<item>i want to see</item>
+		<item>i would like to review</item>
+		<item>i would like to see</item>
+		<item>i would like to learn about</item>
+		<item>i would like to learn</item>
+		<item>i want to watch</item>
+		<item>i would like to know about</item>
+		<item>i would like to know</item>
+		<item>i want to know</item>
+		<item>i want to learn</item>		
+		<item>i want to get an answer about that</item>
+		<item>i want to get an answer about</item>
+		<item>i want to get an answer for</item>
+		<item>i want to get an answer</item>
+		<item>i would like to get an answer about the</item>
+		<item>i would like to get an answer about </item>
+		<item>i would like to get an answer for</item>
+		<item>want to know about</item>
+		<item>want to know of</item>
+		
+		<item>would would like to review</item>
+		
+		<item>answer the question</item>
+		<item>answer that</item>
+		
+		<item>give an answer about that</item>
+		<item>give an answer about </item>				
+		<item>give an answer to that</item>	
+		<item>give an answer to the question</item>		
+		<item>give an answer to</item>
+		<item>give an answer</item>		
+		
+		
+		<item>give me an answer about that</item>
+		<item>give me an answer about</item>
+		<item>give me an answer to the question</item>	
+		<item>give me an answer</item>
+			
+		
+		<item>provide an answer to</item>
+		
+		
+		<item>bend over</item>
+		<item>bring upon</item>
+		<item>bring</item>
+		<item>hover</item>
+		
+		<item>answer me</item>
+		<item>answer</item>
+		
+
+		<item>you can answer the question</item>
+		<item>you can name the answer to the question</item>			
+		<item>you can provide an answer</item>
+		<item>you can name the answer</item>
+		<item>you can provide</item>
+		<item>you can recall</item>		
+		<item>you can answer</item>		
+				
+		
+		<item>would like to know</item>	
+		<item>would like to answer</item>	
+				
+			
+		<item>name that</item>
+		<item>name</item>
+		<item>name it</item>
+		<item>please name</item>
+		
+		
+		
+		<item>show me</item>
+		<item>show</item>
+		<item>show that</item>
+		<item>please show</item>
+		
+		<item>let's talk about this</item>
+		<item>let's talk about</item>
+		<item>let's speak about</item>
+		
+		<item>will talk about</item>
+		
+		<item>will talk about</item>
+		
+		<item>this</item>
+		<item>thar</item>
+		<item>if</item>
+		<item>i </item>
+	</beginning>
+	
+	<everywhere>
+	
+		<item>and now</item>
+		<item>now</item>
+		<item>year</item>	
+		<item>sometime</item>
+		<item>ever</item>
+		<item>wherever</item>
+		<item>somewhere</item>
+		<item>almost</item>
+		<item>nearly</item>
+		<item>can</item>
+		<item>could</item>
+		<item>might</item>
+		<item>once</item>
+		<item>let us</item>		
+		<item>let</item>
+		<item>lets</item>
+		<item>let's</item>		
+		<item>as if</item>
+		<item>supposedly</item>
+		<item>to you</item>	
+		<item>for you</item>			
+		<item>you</item>
+		<item>to me</item>	
+		<item>for me</item>			
+		<item>me</item>
+		<item>to us</item>	
+		<item>for us</item>			
+		<item>us</item>	
+		<item>all</item>
+		<item>thou</item>
+		<item>a </item>
+		<item>an </item>
+		<item>the </item>
+		
+	</everywhere>
+</specific_words>
+
+<tree>
+	<condition_level id="1">
+		<position id="1.1">
+			<condition id="1.1.1">
+				<words_list>
+					<item>what is definition of</item>
+					<item>what is definition for</item>
+					<item>what is definition</item>
+					<item>what is essence of</item>
+					<item>what is essence</item>
+					<item>what is it</item>
+					<item>what is that</item>
+					<item>what is this</item>
+					<item>which</item>
+		
+					<item>give detailed description of concept</item>
+					<item>give detailed description for concept</item>
+					<item>give detailed description concept</item>
+					<item>describe in details concept</item>
+					
+					<item>give meaningful description of concept</item>
+					<item>give meaningful description for concept</item>
+					<item>give meaningful description concept</item>
+					
+					<item>give comprehensive description of concept</item>
+					<item>give comprehensive description for concept</item>
+					<item>give comprehensive description concept</item>
+						
+		            <item>give description of concept</item>
+					<item>give description for concept</item>
+					<item>give description concept</item>
+					<item>describe concept</item>
+					
+					<item>give definition of concept</item>
+					<item>give definition for concept</item>
+					<item>give definition concept</item>
+					<item>give definition</item>
+					<item>define</item>
+					
+					<item>description</item>
+					<item>definition</item>
+					
+					
+					<item>describe what the essence is</item>
+					<item>describe what it is</item>					
+					<item>what does it mean</item>					
+				</words_list>
+				<possible_types>
+					<item>label_definition</item>
+					<item>sub_class</item>
+					<item>super_class</item>
+				</possible_types>
+				<next_position>2.1</next_position>
+			</condition>
+			<condition id="1.1.2">
+				<words_list>
+					<item>what is</item>
+					<item>what are</item>					
+					<item>what</item>					
+
+					<item>give detailed description of</item>
+					<item>give detailed description for</item>
+					<item>give detailed description</item>
+					<item>describe in details</item>
+					
+					<item>give meaningful description of</item>
+					<item>give meaningful description for</item>
+					<item>give meaningful description</item>
+					
+					<item>give comprehensive description of</item>
+					<item>give comprehensive description for</item>
+					<item>give comprehensive description</item>
+					
+					<item>give description of</item>
+					<item>give description for</item>
+					<item>give description</item>								
+					
+					<item>describe in detail</item>					
+					
+					<item>describe meaningfully</item>
+					<item>meaningfully describe</item>
+					
+					<item>describe essence</item>
+					<item>essence</item>					
+													
+					<item>describe</item>
+					
+				</words_list>
+				<possible_types>
+					<item>label_definition</item>
+					<item>sub_class</item>
+					<item>super_class</item>
+					<item>measurement</item>
+					<item>source</item>
+				</possible_types>
+				<next_position>2.2</next_position>
+			</condition>
+			<condition id="1.1.3">
+				<words_list>
+					<item>what includes</item>
+					<item>what does include</item>
+					<item>what does it include</item>
+					<item>what includes</item>
+					<item>what do includes</item>
+					<item>what do it includes</item>
+					<item>what do it includes</item>
+					<item>from what concepts</item>
+					<item>from what parts</item>
+					<item>what concepts form</item>
+					<item>what parts form</item>
+					<item>what concepts are forming</item>
+					<item>what parts are forming</item>
+					<item>what does</item> 
+					<item>what do</item>
+					<item>parts of</item>
+					<item>parts</item>
+					<item>part of</item>
+					<item>part</item>
+					<item>main parts of</item>
+					<item>main parts</item>
+					<item>main part of</item>
+					<item>main part</item>
+					<item>components of</item>
+					<item>components</item>	
+					<item>main components of</item>
+					<item>main components</item>										
+					<item>composition of</item>
+					<item>composition</item>
+					<item>subclasses</item>
+					<item>subclass</item>
+					<item>sub-classes</item>
+					<item>sub-class</item>
+					<item>main chapters</item>
+					<item>chapters</item>
+					<item>what belongs to</item>
+					<item>what does belong to</item>
+					<item>what is belonging to</item>
+					<item>what did belong to</item>
+					<item>what belongs</item>
+					<item>what does belong</item>
+					<item>what is belonging</item>
+					<item>what did belong</item>
+				</words_list>
+				<possible_types>
+					<item>sub_class</item>
+					<item>label_definition</item>
+				</possible_types>
+				<next_position>2.3</next_position>
+			</condition>
+			<condition id="1.1.4">
+				<words_list>
+					<item>measurement methodology of</item>
+					<item>methodology of measurement of</item>	
+					<item>measurement methodologies of</item>
+					<item>methodologies of measurement of</item>
+					<item>measurements methodology of</item>
+					<item>methodology of measurements of</item>	
+					<item>measurements methodologies of</item>
+					<item>methodologies of measurements of</item>					
+					
+					
+					<item>measurement methodology for</item>
+					<item>methodology of measurement for</item>	
+					<item>measurement methodologies for</item>
+					<item>methodologies of measurement for</item>
+					<item>measurements methodology for</item>
+					<item>methodology of measurements for</item>	
+					<item>measurements methodologies for</item>
+					<item>methodologies of measurements for</item>					
+					
+				
+					<item>measurement methodology</item>
+					<item>methodology of measurement</item>	
+					<item>measurement methodologies</item>
+					<item>methodologies of measurement</item>
+					<item>measurements methodology</item>
+					<item>methodology of measurements</item>	
+					<item>measurements methodologies</item>
+					<item>methodologies of measurements</item>
+
+                    <item>measurement for</item>
+					<item>measurements for</item>
+					<item>measurement of</item>
+					<item>measurements of</item>
+					<item>measurement</item>
+					<item>measurements</item>
+					
+					<item>estimation methodology of</item>
+					<item>methodology of estimation of</item>	
+					<item>estimation methodologies of</item>
+					<item>methodologies of estimation of</item>
+					<item>estimations methodology of</item>
+					<item>methodology of estimations of</item>	
+					<item>estimations methodologies of</item>
+					<item>methodologies of estimations of</item>					
+					
+					
+					<item>estimation methodology for</item>
+					<item>methodology of estimation for</item>	
+					<item>estimation methodologies for</item>
+					<item>methodologies of estimation for</item>
+					<item>estimations methodology for</item>
+					<item>methodology of estimations for</item>	
+					<item>estimations methodologies for</item>
+					<item>methodologies of estimations for</item>					
+					
+				
+					<item>estimation methodology</item>
+					<item>methodology of estimation</item>	
+					<item>estimation methodologies</item>
+					<item>methodologies of estimation</item>
+					<item>estimations methodology</item>
+					<item>methodology of estimations</item>	
+					<item>estimations methodologies</item>
+					<item>methodologies of estimations</item>
+
+                    <item>estimation for</item>
+					<item>estimations for</item>
+					<item>estimation of</item>
+					<item>estimations of</item>
+					<item>estimation</item>
+					<item>estimations</item>
+					
+					
+					<item>how to estimate</item>
+					<item>how can we estimate</item>
+					<item>how can i estimate</item>
+					<item>how can you estimate</item>
+					<item>how is to estimate</item>
+					<item>how could we estimate</item>
+					<item>how could i estimate</item>
+					<item>how could you estimate</item>
+					<item>how may we estimate</item>
+					<item>how may i estimate</item>
+					<item>how may you estimate</item>
+					<item>how will we estimate</item>
+					<item>how will i estimate</item>
+					<item>how will you estimate</item>
+					<item>how sall we estimate</item>
+					<item>how sall i estimate</item>
+					<item>how sall you estimate</item>
+					<item>how is it estimated</item>
+					<item>how do they estimate</item>
+					<item>how it can be estimated</item>
+					<item>how it could be estimated</item>
+					<item>how can be estimated</item>
+					<item>how could be estimated</item>
+								
+					
+					<item>how to measure</item>
+					<item>how can we measure</item>
+					<item>how can i measure</item>
+					<item>how can you measure</item>
+					<item>how is to measure</item>
+					<item>how could we measure</item>
+					<item>how could i measure</item>
+					<item>how could you measure</item>
+					<item>how may we measure</item>
+					<item>how may i measure</item>
+					<item>how may you measure</item>
+					<item>how will we measure</item>
+					<item>how will i measure</item>
+					<item>how will you measure</item>
+					<item>how sall we measure</item>
+					<item>how sall i measure</item>
+					<item>how sall you measure</item>
+					<item>how is it measured</item>
+					<item>how do they measure</item>
+					<item>how it can be measured</item>
+					<item>how it could be measured</item>
+					<item>how can be measured</item>
+					<item>how could be measured</item>
+					<item>how it is measured</item>
+					<item>how is measured</item>
+					<item>how could be</item>
+					<item>how it</item>
+					<item>how is</item>
+					<item>how can</item>
+					<item>how could</item>
+				</words_list>
+				<possible_types>
+					<item>measurement</item>
+				</possible_types>
+				<next_position>2.4</next_position>
+			</condition>
+			<condition id="1.1.5">
+				<words_list>
+					<item>sources of</item>
+					<item>sources for</item>
+					<item>sources</item>
+					<item>main sources of</item>
+					<item>main sources for</item>
+					<item>main sources</item>
+					
+					<item>references for</item>
+					<item>reference for</item>
+					<item>references of</item>
+					<item>reference of</item>
+					<item>references</item>
+					<item>reference</item>
+					
+					<item>where are sources of information of</item>
+					<item>where are sources of information for</item>
+					<item>where are sources of information on</item>
+					<item>where are sources of information about</item>
+					<item>where are sources of information</item>
+
+					<item>where are information sources of</item>
+					<item>where are information sources for</item>
+					<item>where are information sources on</item>
+					<item>where are information sources about</item>
+					<item>where are information sources</item> 
+					
+					<item>where are sources of</item>
+					<item>where are sources for</item>
+					<item>where are sources on</item>
+					<item>where are sources about</item>
+					<item>where are sources</item> 
+					
+					<item>where is source of information of</item>
+					<item>where is source of information for</item>
+					<item>where is source of information on</item>
+					<item>where is source of information about</item>
+					<item>where is sources of information</item>
+
+					<item>where is information source of</item>
+					<item>where is information source for</item>
+					<item>where is information source on</item>
+					<item>where is information source about</item>
+					<item>where is information source</item> 
+					
+					<item>where is source of</item>
+					<item>where is source for</item>
+					<item>where is source on</item>
+					<item>where is source about</item>
+					<item>where is source</item>
+					
+					<item>where can i find more information about</item>
+					<item>where can i find more information on</item>
+					<item>where can i find more information for</item>
+					<item>where can we find more information about</item>
+					<item>where can we find more information on</item>
+					<item>where can we find more information for</item>
+					<item>where can you find more information about</item>
+					<item>where can you find more information on</item>
+					<item>where can you find more information for</item>
+					
+					<item>where could i find more information about</item>
+					<item>where could i find more information on</item>
+					<item>where could i find more information for</item>
+					<item>where could we find more information about</item>
+					<item>where could we find more information on</item>
+					<item>where could we find more information for</item>
+					<item>where could you find more information about</item>
+					<item>where could you find more information on</item>
+					<item>where could you find more information for</item>
+					
+					<item>where may i find more information about</item>
+					<item>where may i find more information on</item>
+					<item>where may i find more information for</item>
+					<item>where may we find more information about</item>
+					<item>where may we find more information on</item>
+					<item>where may we find more information for</item>
+					<item>where may you find more information about</item>
+					<item>where may you find more information on</item>
+					<item>where may you find more information for</item>
+					
+					<item>where will i find more information about</item>
+					<item>where will i find more information on</item>
+					<item>where will i find more information for</item>
+					<item>where will we find more information about</item>
+					<item>where will we find more information on</item>
+					<item>where will we find more information for</item>
+					<item>where will you find more information about</item>
+					<item>where will you find more information on</item>
+					<item>where will you find more information for</item>
+					
+					<item>where shall i find more information about</item>
+					<item>where shall i find more information on</item>
+					<item>where shall i find more information for</item>
+					<item>where shall we find more information about</item>
+					<item>where shall we find more information on</item>
+					<item>where shall we find more information for</item>
+					<item>where shall you find more information about</item>
+					<item>where shall you find more information on</item>
+					<item>where shall you find more information for</item>
+					
+					<item>where do i find more information about</item>
+					<item>where do i find more information on</item>
+					<item>where do i find more information for</item>
+					<item>where do we find more information about</item>
+					<item>where do we find more information on</item>
+					<item>where do we find more information for</item>
+					<item>where do you find more information about</item>
+					<item>where do you find more information on</item>
+					<item>where do you find more information for</item>
+					
+					
+					<item>where can i find more details about</item>
+					<item>where can i find more details on</item>
+					<item>where can i find more details for</item>
+					<item>where can we find more details about</item>
+					<item>where can we find more details on</item>
+					<item>where can we find more details for</item>
+					<item>where can you find more details about</item>
+					<item>where can you find more details on</item>
+					<item>where can you find more details for</item>
+					
+					<item>where could i find more details about</item>
+					<item>where could i find more details on</item>
+					<item>where could i find more details for</item>
+					<item>where could we find more details about</item>
+					<item>where could we find more details on</item>
+					<item>where could we find more details for</item>
+					<item>where could you find more details about</item>
+					<item>where could you find more details on</item>
+					<item>where could you find more details for</item>
+					
+					<item>where may i find more details about</item>
+					<item>where may i find more details on</item>
+					<item>where may i find more details for</item>
+					<item>where may we find more details about</item>
+					<item>where may we find more details on</item>
+					<item>where may we find more details for</item>
+					<item>where may you find more details about</item>
+					<item>where may you find more details on</item>
+					<item>where may you find more details for</item>
+					
+					<item>where will i find more details about</item>
+					<item>where will i find more details on</item>
+					<item>where will i find more details for</item>
+					<item>where will we find more details about</item>
+					<item>where will we find more details on</item>
+					<item>where will we find more details for</item>
+					<item>where will you find more details about</item>
+					<item>where will you find more details on</item>
+					<item>where will you find more details for</item>
+					
+					<item>where shall i find more details about</item>
+					<item>where shall i find more details on</item>
+					<item>where shall i find more details for</item>
+					<item>where shall we find more details about</item>
+					<item>where shall we find more details on</item>
+					<item>where shall we find more details for</item>
+					<item>where shall you find more details about</item>
+					<item>where shall you find more details on</item>
+					<item>where shall you find more details for</item>
+					
+					<item>where do i find more details about</item>
+					<item>where do i find more details on</item>
+					<item>where do i find more details for</item>
+					<item>where do we find more details about</item>
+					<item>where do we find more details on</item>
+					<item>where do we find more details for</item>
+					<item>where do you find more details about</item>
+					<item>where do you find more details on</item>
+					<item>where do you find more details for</item>
+					
+					<item>where can i find more about</item>
+					<item>where can i find more on</item>
+					<item>where can i find more for</item>
+					<item>where can we find more about</item>
+					<item>where can we find more on</item>
+					<item>where can we find more for</item>
+					<item>where can you find more about</item>
+					<item>where can you find more on</item>
+					<item>where can you find more for</item>
+					
+					<item>where could i find more about</item>
+					<item>where could i find more on</item>
+					<item>where could i find more for</item>
+					<item>where could we find more about</item>
+					<item>where could we find more on</item>
+					<item>where could we find more for</item>
+					<item>where could you find more about</item>
+					<item>where could you find more on</item>
+					<item>where could you find more for</item>
+					
+					<item>where may i find more about</item>
+					<item>where may i find more on</item>
+					<item>where may i find more for</item>
+					<item>where may we find more about</item>
+					<item>where may we find more on</item>
+					<item>where may we find more for</item>
+					<item>where may you find more about</item>
+					<item>where may you find more on</item>
+					<item>where may you find more for</item>
+					
+					<item>where will i find more about</item>
+					<item>where will i find more on</item>
+					<item>where will i find more for</item>
+					<item>where will we find more about</item>
+					<item>where will we find more on</item>
+					<item>where will we find more for</item>
+					<item>where will you find more about</item>
+					<item>where will you find more on</item>
+					<item>where will you find more for</item>
+					
+					<item>where shall i find more about</item>
+					<item>where shall i find more on</item>
+					<item>where shall i find more for</item>
+					<item>where shall we find more about</item>
+					<item>where shall we find more on</item>
+					<item>where shall we find more for</item>
+					<item>where shall you find more about</item>
+					<item>where shall you find more on</item>
+					<item>where shall you find more for</item>
+					
+					<item>where do i find more about</item>
+					<item>where do i find more on</item>
+					<item>where do i find more for</item>
+					<item>where do we find more about</item>
+					<item>where do we find more on</item>
+					<item>where do we find more for</item>
+					<item>where do you find more about</item>
+					<item>where do you find more on</item>
+					<item>where do you find more for</item>
+					
+					<item>where can i find more </item>
+					<item>where can we find more </item>
+					<item>where can you find more </item>
+					
+					<item>where could i find more </item>
+					<item>where could we find more </item>
+					<item>where could you find more </item>
+					
+					<item>where may i find more </item>
+					<item>where may we find more </item>
+					<item>where may you find more </item>
+					
+					<item>where will i find more </item>
+					<item>where will we find more </item>
+					<item>where will you find more </item>
+					
+					<item>where shall i find more </item>
+					<item>where shall we find more </item>
+					<item>where shall you find more </item>
+					
+					<item>where do i find more </item>
+					<item>where do we find more </item>
+					<item>where do you find more </item>
+					
+					<item>where can i find information about</item>
+					<item>where can i find information on</item>
+					<item>where can i find information for</item>
+					<item>where can we find information about</item>
+					<item>where can we find information on</item>
+					<item>where can we find information for</item>
+					<item>where can you find information about</item>
+					<item>where can you find information on</item>
+					<item>where can you find information for</item>
+					
+					<item>where could i find information about</item>
+					<item>where could i find information on</item>
+					<item>where could i find information for</item>
+					<item>where could we find information about</item>
+					<item>where could we find information on</item>
+					<item>where could we find information for</item>
+					<item>where could you find information about</item>
+					<item>where could you find information on</item>
+					<item>where could you find information for</item>
+					
+					<item>where may i find information about</item>
+					<item>where may i find information on</item>
+					<item>where may i find information for</item>
+					<item>where may we find information about</item>
+					<item>where may we find information on</item>
+					<item>where may we find information for</item>
+					<item>where may you find information about</item>
+					<item>where may you find information on</item>
+					<item>where may you find information for</item>
+					
+					<item>where will i find information about</item>
+					<item>where will i find information on</item>
+					<item>where will i find information for</item>
+					<item>where will we find information about</item>
+					<item>where will we find information on</item>
+					<item>where will we find information for</item>
+					<item>where will you find information about</item>
+					<item>where will you find information on</item>
+					<item>where will you find information for</item>
+					
+					<item>where shall i find information about</item>
+					<item>where shall i find information on</item>
+					<item>where shall i find information for</item>
+					<item>where shall we find information about</item>
+					<item>where shall we find information on</item>
+					<item>where shall we find information for</item>
+					<item>where shall you find information about</item>
+					<item>where shall you find information on</item>
+					<item>where shall you find information for</item>
+					
+					<item>where do i find information about</item>
+					<item>where do i find information on</item>
+					<item>where do i find information for</item>
+					<item>where do we find information about</item>
+					<item>where do we find information on</item>
+					<item>where do we find information for</item>
+					<item>where do you find information about</item>
+					<item>where do you find information on</item>
+					<item>where do you find information for</item>
+					
+					
+					<item>where can i find about</item>
+					<item>where can i find on</item>
+					<item>where can i find for</item>
+					<item>where can we find about</item>
+					<item>where can we find on</item>
+					<item>where can we find for</item>
+					<item>where can you find about</item>
+					<item>where can you find on</item>
+					<item>where can you find for</item>
+					
+					<item>where could i find about</item>
+					<item>where could i find on</item>
+					<item>where could i find for</item>
+					<item>where could we find about</item>
+					<item>where could we find on</item>
+					<item>where could we find for</item>
+					<item>where could you find about</item>
+					<item>where could you find on</item>
+					<item>where could you find for</item>
+					
+					<item>where may i find about</item>
+					<item>where may i find on</item>
+					<item>where may i find for</item>
+					<item>where may we find about</item>
+					<item>where may we find on</item>
+					<item>where may we find for</item>
+					<item>where may you find about</item>
+					<item>where may you find on</item>
+					<item>where may you find for</item>
+					
+					<item>where will i find about</item>
+					<item>where will i find on</item>
+					<item>where will i find for</item>
+					<item>where will we find about</item>
+					<item>where will we find on</item>
+					<item>where will we find for</item>
+					<item>where will you find about</item>
+					<item>where will you find on</item>
+					<item>where will you find for</item>
+					
+					<item>where shall i find about</item>
+					<item>where shall i find on</item>
+					<item>where shall i find for</item>
+					<item>where shall we find about</item>
+					<item>where shall we find on</item>
+					<item>where shall we find for</item>
+					<item>where shall you find about</item>
+					<item>where shall you find on</item>
+					<item>where shall you find for</item>
+					
+					<item>where do i find about</item>
+					<item>where do i find on</item>
+					<item>where do i find for</item>
+					<item>where do we find about</item>
+					<item>where do we find on</item>
+					<item>where do we find for</item>
+					<item>where do you find about</item>
+					<item>where do you find on</item>
+					<item>where do you find for</item>
+					
+					<item>where can i find</item>
+					<item>where can we find</item>
+					<item>where can you find</item>
+					
+					<item>where could i find</item>
+					<item>where could we find</item>
+					<item>where could you find</item>
+					
+					<item>where may i find</item>
+					<item>where may we find</item>
+					<item>where may you find</item>
+					
+					<item>where will i find</item>
+					<item>where will we find</item>
+					<item>where will you find</item>
+					
+					<item>where shall i find</item>
+					<item>where shall we find</item>
+					<item>where shall you find</item>
+					
+					<item>where do i find</item>
+					<item>where do we find</item>
+					<item>where do you find</item>
+					
+					<item>from where are sources</item>
+					<item>from where is sources</item>
+					
+					
+					
+					
+					<item>where can i get more information about</item>
+					<item>where can i get more information on</item>
+					<item>where can i get more information for</item>
+					<item>where can we get more information about</item>
+					<item>where can we get more information on</item>
+					<item>where can we get more information for</item>
+					<item>where can you get more information about</item>
+					<item>where can you get more information on</item>
+					<item>where can you get more information for</item>
+					
+					<item>where could i get more information about</item>
+					<item>where could i get more information on</item>
+					<item>where could i get more information for</item>
+					<item>where could we get more information about</item>
+					<item>where could we get more information on</item>
+					<item>where could we get more information for</item>
+					<item>where could you get more information about</item>
+					<item>where could you get more information on</item>
+					<item>where could you get more information for</item>
+					
+					<item>where may i get more information about</item>
+					<item>where may i get more information on</item>
+					<item>where may i get more information for</item>
+					<item>where may we get more information about</item>
+					<item>where may we get more information on</item>
+					<item>where may we get more information for</item>
+					<item>where may you get more information about</item>
+					<item>where may you get more information on</item>
+					<item>where may you get more information for</item>
+					
+					<item>where will i get more information about</item>
+					<item>where will i get more information on</item>
+					<item>where will i get more information for</item>
+					<item>where will we get more information about</item>
+					<item>where will we get more information on</item>
+					<item>where will we get more information for</item>
+					<item>where will you get more information about</item>
+					<item>where will you get more information on</item>
+					<item>where will you get more information for</item>
+					
+					<item>where shall i get more information about</item>
+					<item>where shall i get more information on</item>
+					<item>where shall i get more information for</item>
+					<item>where shall we get more information about</item>
+					<item>where shall we get more information on</item>
+					<item>where shall we get more information for</item>
+					<item>where shall you get more information about</item>
+					<item>where shall you get more information on</item>
+					<item>where shall you get more information for</item>
+					
+					<item>where do i get more information about</item>
+					<item>where do i get more information on</item>
+					<item>where do i get more information for</item>
+					<item>where do we get more information about</item>
+					<item>where do we get more information on</item>
+					<item>where do we get more information for</item>
+					<item>where do you get more information about</item>
+					<item>where do you get more information on</item>
+					<item>where do you get more information for</item>
+					
+					
+					<item>where can i get more details about</item>
+					<item>where can i get more details on</item>
+					<item>where can i get more details for</item>
+					<item>where can we get more details about</item>
+					<item>where can we get more details on</item>
+					<item>where can we get more details for</item>
+					<item>where can you get more details about</item>
+					<item>where can you get more details on</item>
+					<item>where can you get more details for</item>
+					
+					<item>where could i get more details about</item>
+					<item>where could i get more details on</item>
+					<item>where could i get more details for</item>
+					<item>where could we get more details about</item>
+					<item>where could we get more details on</item>
+					<item>where could we get more details for</item>
+					<item>where could you get more details about</item>
+					<item>where could you get more details on</item>
+					<item>where could you get more details for</item>
+					
+					<item>where may i get more details about</item>
+					<item>where may i get more details on</item>
+					<item>where may i get more details for</item>
+					<item>where may we get more details about</item>
+					<item>where may we get more details on</item>
+					<item>where may we get more details for</item>
+					<item>where may you get more details about</item>
+					<item>where may you get more details on</item>
+					<item>where may you get more details for</item>
+					
+					<item>where will i get more details about</item>
+					<item>where will i get more details on</item>
+					<item>where will i get more details for</item>
+					<item>where will we get more details about</item>
+					<item>where will we get more details on</item>
+					<item>where will we get more details for</item>
+					<item>where will you get more details about</item>
+					<item>where will you get more details on</item>
+					<item>where will you get more details for</item>
+					
+					<item>where shall i get more details about</item>
+					<item>where shall i get more details on</item>
+					<item>where shall i get more details for</item>
+					<item>where shall we get more details about</item>
+					<item>where shall we get more details on</item>
+					<item>where shall we get more details for</item>
+					<item>where shall you get more details about</item>
+					<item>where shall you get more details on</item>
+					<item>where shall you get more details for</item>
+					
+					<item>where do i get more details about</item>
+					<item>where do i get more details on</item>
+					<item>where do i get more details for</item>
+					<item>where do we get more details about</item>
+					<item>where do we get more details on</item>
+					<item>where do we get more details for</item>
+					<item>where do you get more details about</item>
+					<item>where do you get more details on</item>
+					<item>where do you get more details for</item>
+					
+					<item>where can i get more about</item>
+					<item>where can i get more on</item>
+					<item>where can i get more for</item>
+					<item>where can we get more about</item>
+					<item>where can we get more on</item>
+					<item>where can we get more for</item>
+					<item>where can you get more about</item>
+					<item>where can you get more on</item>
+					<item>where can you get more for</item>
+					
+					<item>where could i get more about</item>
+					<item>where could i get more on</item>
+					<item>where could i get more for</item>
+					<item>where could we get more about</item>
+					<item>where could we get more on</item>
+					<item>where could we get more for</item>
+					<item>where could you get more about</item>
+					<item>where could you get more on</item>
+					<item>where could you get more for</item>
+					
+					<item>where may i get more about</item>
+					<item>where may i get more on</item>
+					<item>where may i get more for</item>
+					<item>where may we get more about</item>
+					<item>where may we get more on</item>
+					<item>where may we get more for</item>
+					<item>where may you get more about</item>
+					<item>where may you get more on</item>
+					<item>where may you get more for</item>
+					
+					<item>where will i get more about</item>
+					<item>where will i get more on</item>
+					<item>where will i get more for</item>
+					<item>where will we get more about</item>
+					<item>where will we get more on</item>
+					<item>where will we get more for</item>
+					<item>where will you get more about</item>
+					<item>where will you get more on</item>
+					<item>where will you get more for</item>
+					
+					<item>where shall i get more about</item>
+					<item>where shall i get more on</item>
+					<item>where shall i get more for</item>
+					<item>where shall we get more about</item>
+					<item>where shall we get more on</item>
+					<item>where shall we get more for</item>
+					<item>where shall you get more about</item>
+					<item>where shall you get more on</item>
+					<item>where shall you get more for</item>
+					
+					<item>where do i get more about</item>
+					<item>where do i get more on</item>
+					<item>where do i get more for</item>
+					<item>where do we get more about</item>
+					<item>where do we get more on</item>
+					<item>where do we get more for</item>
+					<item>where do you get more about</item>
+					<item>where do you get more on</item>
+					<item>where do you get more for</item>
+					
+					<item>where can i get more </item>
+					<item>where can we get more </item>
+					<item>where can you get more </item>
+					
+					<item>where could i get more </item>
+					<item>where could we get more </item>
+					<item>where could you get more </item>
+					
+					<item>where may i get more </item>
+					<item>where may we get more </item>
+					<item>where may you get more </item>
+					
+					<item>where will i get more </item>
+					<item>where will we get more </item>
+					<item>where will you get more </item>
+					
+					<item>where shall i get more </item>
+					<item>where shall we get more </item>
+					<item>where shall you get more </item>
+					
+					<item>where do i get more </item>
+					<item>where do we get more </item>
+					<item>where do you get more </item>
+					
+					<item>where can i get information about</item>
+					<item>where can i get information on</item>
+					<item>where can i get information for</item>
+					<item>where can we get information about</item>
+					<item>where can we get information on</item>
+					<item>where can we get information for</item>
+					<item>where can you get information about</item>
+					<item>where can you get information on</item>
+					<item>where can you get information for</item>
+					
+					<item>where could i get information about</item>
+					<item>where could i get information on</item>
+					<item>where could i get information for</item>
+					<item>where could we get information about</item>
+					<item>where could we get information on</item>
+					<item>where could we get information for</item>
+					<item>where could you get information about</item>
+					<item>where could you get information on</item>
+					<item>where could you get information for</item>
+					
+					<item>where may i get information about</item>
+					<item>where may i get information on</item>
+					<item>where may i get information for</item>
+					<item>where may we get information about</item>
+					<item>where may we get information on</item>
+					<item>where may we get information for</item>
+					<item>where may you get information about</item>
+					<item>where may you get information on</item>
+					<item>where may you get information for</item>
+					
+					<item>where will i get information about</item>
+					<item>where will i get information on</item>
+					<item>where will i get information for</item>
+					<item>where will we get information about</item>
+					<item>where will we get information on</item>
+					<item>where will we get information for</item>
+					<item>where will you get information about</item>
+					<item>where will you get information on</item>
+					<item>where will you get information for</item>
+					
+					<item>where shall i get information about</item>
+					<item>where shall i get information on</item>
+					<item>where shall i get information for</item>
+					<item>where shall we get information about</item>
+					<item>where shall we get information on</item>
+					<item>where shall we get information for</item>
+					<item>where shall you get information about</item>
+					<item>where shall you get information on</item>
+					<item>where shall you get information for</item>
+					
+					<item>where do i get information about</item>
+					<item>where do i get information on</item>
+					<item>where do i get information for</item>
+					<item>where do we get information about</item>
+					<item>where do we get information on</item>
+					<item>where do we get information for</item>
+					<item>where do you get information about</item>
+					<item>where do you get information on</item>
+					<item>where do you get information for</item>
+					
+					
+					<item>where can i get about</item>
+					<item>where can i get on</item>
+					<item>where can i get for</item>
+					<item>where can we get about</item>
+					<item>where can we get on</item>
+					<item>where can we get for</item>
+					<item>where can you get about</item>
+					<item>where can you get on</item>
+					<item>where can you get for</item>
+					
+					<item>where could i get about</item>
+					<item>where could i get on</item>
+					<item>where could i get for</item>
+					<item>where could we get about</item>
+					<item>where could we get on</item>
+					<item>where could we get for</item>
+					<item>where could you get about</item>
+					<item>where could you get on</item>
+					<item>where could you get for</item>
+					
+					<item>where may i get about</item>
+					<item>where may i get on</item>
+					<item>where may i get for</item>
+					<item>where may we get about</item>
+					<item>where may we get on</item>
+					<item>where may we get for</item>
+					<item>where may you get about</item>
+					<item>where may you get on</item>
+					<item>where may you get for</item>
+					
+					<item>where will i get about</item>
+					<item>where will i get on</item>
+					<item>where will i get for</item>
+					<item>where will we get about</item>
+					<item>where will we get on</item>
+					<item>where will we get for</item>
+					<item>where will you get about</item>
+					<item>where will you get on</item>
+					<item>where will you get for</item>
+					
+					<item>where shall i get about</item>
+					<item>where shall i get on</item>
+					<item>where shall i get for</item>
+					<item>where shall we get about</item>
+					<item>where shall we get on</item>
+					<item>where shall we get for</item>
+					<item>where shall you get about</item>
+					<item>where shall you get on</item>
+					<item>where shall you get for</item>
+					
+					<item>where do i get about</item>
+					<item>where do i get on</item>
+					<item>where do i get for</item>
+					<item>where do we get about</item>
+					<item>where do we get on</item>
+					<item>where do we get for</item>
+					<item>where do you get about</item>
+					<item>where do you get on</item>
+					<item>where do you get for</item>
+					
+					<item>where can i get</item>
+					<item>where can we get</item>
+					<item>where can you get</item>
+					
+					<item>where could i get</item>
+					<item>where could we get</item>
+					<item>where could you get</item>
+					
+					<item>where may i get</item>
+					<item>where may we get</item>
+					<item>where may you get</item>
+					
+					<item>where will i get</item>
+					<item>where will we get</item>
+					<item>where will you get</item>
+					
+					<item>where shall i get</item>
+					<item>where shall we get</item>
+					<item>where shall you get</item>
+					
+					<item>where do i get</item>
+					<item>where do we get</item>
+					<item>where do you get</item>
+				
+				</words_list>
+				<possible_types>
+					<item>source</item>
+					<item>label_definition</item>
+				</possible_types>
+				<next_position>2.5</next_position>
+			</condition>
+			<condition id="1.1.6">
+				<words_list>
+					<item>any_words</item>		
+				</words_list>
+				<result>
+					<query_type>label_definition</query_type>
+					<query_type>sub_class</query_type>
+					<input_entity>1.1</input_entity>
+				</result>
+			</condition>
+			<default>
+				<result>unknown</result>
+			</default>
+		</position>
+	</condition_level>
+
+	<condition_level id="2">
+		<position id="2.1">
+			<condition id="2.1.1">
+				<words_list>
+					<item>any_words</item>		
+				</words_list>
+				<result>
+					<query_type>label_definition</query_type>
+					<query_type>sub_class</query_type>
+					<input_entity>2.1</input_entity>
+				</result>
+			</condition>						
+			<default>
+				<result>unknown</result>
+			</default>			
+		</position>
+		<position id="2.2">
+			<condition id="2.2.1">
+				<words_list>
+					<item>measurement methodology of</item>
+					<item>methodology of measurement of</item>	
+					<item>measurement methodologies of</item>
+					<item>methodologies of measurement of</item>
+					<item>measurements methodology of</item>
+					<item>methodology of measurements of</item>	
+					<item>measurements methodologies of</item>
+					<item>methodologies of measurements of</item>					
+					
+					
+					<item>measurement methodology for</item>
+					<item>methodology of measurement for</item>	
+					<item>measurement methodologies for</item>
+					<item>methodologies of measurement for</item>
+					<item>measurements methodology for</item>
+					<item>methodology of measurements for</item>	
+					<item>measurements methodologies for</item>
+					<item>methodologies of measurements for</item>					
+					
+				
+					<item>measurement methodology</item>
+					<item>methodology of measurement</item>	
+					<item>measurement methodologies</item>
+					<item>methodologies of measurement</item>
+					<item>measurements methodology</item>
+					<item>methodology of measurements</item>	
+					<item>measurements methodologies</item>
+					<item>methodologies of measurements</item>
+
+                    <item>measurement for</item>
+					<item>measurements for</item>
+					<item>measurement of</item>
+					<item>measurements of</item>
+					<item>measurement</item>
+					<item>measurements</item>
+					
+					<item>estimation methodology of</item>
+					<item>methodology of estimation of</item>	
+					<item>estimation methodologies of</item>
+					<item>methodologies of estimation of</item>
+					<item>estimations methodology of</item>
+					<item>methodology of estimations of</item>	
+					<item>estimations methodologies of</item>
+					<item>methodologies of estimations of</item>					
+					
+					
+					<item>estimation methodology for</item>
+					<item>methodology of estimation for</item>	
+					<item>estimation methodologies for</item>
+					<item>methodologies of estimation for</item>
+					<item>estimations methodology for</item>
+					<item>methodology of estimations for</item>	
+					<item>estimations methodologies for</item>
+					<item>methodologies of estimations for</item>					
+					
+				
+					<item>estimation methodology</item>
+					<item>methodology of estimation</item>	
+					<item>estimation methodologies</item>
+					<item>methodologies of estimation</item>
+					<item>estimations methodology</item>
+					<item>methodology of estimations</item>	
+					<item>estimations methodologies</item>
+					<item>methodologies of estimations</item>
+
+                    <item>estimation for</item>
+					<item>estimations for</item>
+					<item>estimation of</item>
+					<item>estimations of</item>
+					<item>estimation</item>
+					<item>estimations</item>
+					
+					
+					<item>how to estimate</item>
+					<item>how can we estimate</item>
+					<item>how can i estimate</item>
+					<item>how can you estimate</item>
+					<item>how is to estimate</item>
+					<item>how could we estimate</item>
+					<item>how could i estimate</item>
+					<item>how could you estimate</item>
+					<item>how may we estimate</item>
+					<item>how may i estimate</item>
+					<item>how may you estimate</item>
+					<item>how will we estimate</item>
+					<item>how will i estimate</item>
+					<item>how will you estimate</item>
+					<item>how sall we estimate</item>
+					<item>how sall i estimate</item>
+					<item>how sall you estimate</item>
+					<item>how is it estimated</item>
+					<item>how do they estimate</item>
+					<item>how it can be estimated</item>
+					<item>how it could be estimated</item>
+					<item>how can be estimated</item>
+					<item>how could be estimated</item>
+								
+					
+					<item>how to measure</item>
+					<item>how can we measure</item>
+					<item>how can i measure</item>
+					<item>how can you measure</item>
+					<item>how is to measure</item>
+					<item>how could we measure</item>
+					<item>how could i measure</item>
+					<item>how could you measure</item>
+					<item>how may we measure</item>
+					<item>how may i measure</item>
+					<item>how may you measure</item>
+					<item>how will we measure</item>
+					<item>how will i measure</item>
+					<item>how will you measure</item>
+					<item>how sall we measure</item>
+					<item>how sall i measure</item>
+					<item>how sall you measure</item>
+					<item>how is it measured</item>
+					<item>how do they measure</item>
+					<item>how it can be measured</item>
+					<item>how it could be measured</item>
+					<item>how can be measured</item>
+					<item>how could be measured</item>
+					<item>how it is measured</item>
+					<item>how is measured</item>
+					<item>how it</item>
+					<item>how is</item>
+					<item>how can</item>
+					<item>how could</item>	
+				</words_list>
+				<possible_types>
+					<item>measurement</item>
+					<item>label_definition</item>
+				</possible_types>
+				<next_position>3.1</next_position>
+			</condition>
+			<condition id="2.2.2">
+				<words_list>
+					<item>parts of</item>
+					<item>parts</item>
+					<item>part of</item>
+					<item>part</item>
+					<item>main parts of</item>
+					<item>main parts</item>
+					<item>main part of</item>
+					<item>main part</item>
+					<item>components of</item>
+					<item>components</item>					
+					<item>main components</item>										
+					<item>composition of</item>
+					<item>composition</item>
+					<item>subclasses</item>
+					<item>subclass</item>
+					<item>sub-classes</item>
+					<item>sub-class</item>
+					<item>main chapters</item>
+					<item>chapters</item>
+					<item>items</item>
+					<item>belongs to</item>
+					<item>does belong to</item>
+					<item>belonging to</item>
+					<item>did belong to</item>
+					
+					<item>was belongig</item>
+					<item>does belong</item>
+					<item>belonging</item>
+					<item>did belong </item>
+					<item>may belong </item>
+					<item>might belong </item>
+					<item>belongs</item>
+					<item>belong</item>
+					<item>relarted to</item>
+					<item>relarte to</item>
+					<item>relarted</item>
+					<item>relarte</item>
+				</words_list>
+				<possible_types>
+					<item>sub_class</item>
+					<item>label_definition</item>
+				</possible_types>
+				<next_position>3.2</next_position>
+			</condition>
+			
+			<condition id="2.2.3">
+				<words_list>
+					<item>sources of</item>
+					<item>sources for</item>
+					<item>sources</item>
+					<item>main sources of</item>
+					<item>main sources for</item>
+					<item>main sources</item>
+					
+					<item>references for</item>
+					<item>reference for</item>
+					<item>references of</item>
+					<item>reference of</item>
+					<item>references</item>
+					<item>reference</item>
+					
+					<item>where are sources of information of</item>
+					<item>where are sources of information for</item>
+					<item>where are sources of information on</item>
+					<item>where are sources of information about</item>
+					<item>where are sources of information</item>
+
+					<item>where are information sources of</item>
+					<item>where are information sources for</item>
+					<item>where are information sources on</item>
+					<item>where are information sources about</item>
+					<item>where are information sources</item> 
+					
+					<item>where are sources of</item>
+					<item>where are sources for</item>
+					<item>where are sources on</item>
+					<item>where are sources about</item>
+					<item>where are sources</item> 
+					
+					<item>where is source of information of</item>
+					<item>where is source of information for</item>
+					<item>where is source of information on</item>
+					<item>where is source of information about</item>
+					<item>where is sources of information</item>
+
+					<item>where is information source of</item>
+					<item>where is information source for</item>
+					<item>where is information source on</item>
+					<item>where is information source about</item>
+					<item>where is information source</item> 
+					
+					<item>where is source of</item>
+					<item>where is source for</item>
+					<item>where is source on</item>
+					<item>where is source about</item>
+					<item>where is source</item>
+					
+					<item>where can i find more information about</item>
+					<item>where can i find more information on</item>
+					<item>where can i find more information for</item>
+					<item>where can we find more information about</item>
+					<item>where can we find more information on</item>
+					<item>where can we find more information for</item>
+					<item>where can you find more information about</item>
+					<item>where can you find more information on</item>
+					<item>where can you find more information for</item>
+					
+					<item>where could i find more information about</item>
+					<item>where could i find more information on</item>
+					<item>where could i find more information for</item>
+					<item>where could we find more information about</item>
+					<item>where could we find more information on</item>
+					<item>where could we find more information for</item>
+					<item>where could you find more information about</item>
+					<item>where could you find more information on</item>
+					<item>where could you find more information for</item>
+					
+					<item>where may i find more information about</item>
+					<item>where may i find more information on</item>
+					<item>where may i find more information for</item>
+					<item>where may we find more information about</item>
+					<item>where may we find more information on</item>
+					<item>where may we find more information for</item>
+					<item>where may you find more information about</item>
+					<item>where may you find more information on</item>
+					<item>where may you find more information for</item>
+					
+					<item>where will i find more information about</item>
+					<item>where will i find more information on</item>
+					<item>where will i find more information for</item>
+					<item>where will we find more information about</item>
+					<item>where will we find more information on</item>
+					<item>where will we find more information for</item>
+					<item>where will you find more information about</item>
+					<item>where will you find more information on</item>
+					<item>where will you find more information for</item>
+					
+					<item>where shall i find more information about</item>
+					<item>where shall i find more information on</item>
+					<item>where shall i find more information for</item>
+					<item>where shall we find more information about</item>
+					<item>where shall we find more information on</item>
+					<item>where shall we find more information for</item>
+					<item>where shall you find more information about</item>
+					<item>where shall you find more information on</item>
+					<item>where shall you find more information for</item>
+					
+					<item>where do i find more information about</item>
+					<item>where do i find more information on</item>
+					<item>where do i find more information for</item>
+					<item>where do we find more information about</item>
+					<item>where do we find more information on</item>
+					<item>where do we find more information for</item>
+					<item>where do you find more information about</item>
+					<item>where do you find more information on</item>
+					<item>where do you find more information for</item>
+					
+					
+					<item>where can i find more details about</item>
+					<item>where can i find more details on</item>
+					<item>where can i find more details for</item>
+					<item>where can we find more details about</item>
+					<item>where can we find more details on</item>
+					<item>where can we find more details for</item>
+					<item>where can you find more details about</item>
+					<item>where can you find more details on</item>
+					<item>where can you find more details for</item>
+					
+					<item>where could i find more details about</item>
+					<item>where could i find more details on</item>
+					<item>where could i find more details for</item>
+					<item>where could we find more details about</item>
+					<item>where could we find more details on</item>
+					<item>where could we find more details for</item>
+					<item>where could you find more details about</item>
+					<item>where could you find more details on</item>
+					<item>where could you find more details for</item>
+					
+					<item>where may i find more details about</item>
+					<item>where may i find more details on</item>
+					<item>where may i find more details for</item>
+					<item>where may we find more details about</item>
+					<item>where may we find more details on</item>
+					<item>where may we find more details for</item>
+					<item>where may you find more details about</item>
+					<item>where may you find more details on</item>
+					<item>where may you find more details for</item>
+					
+					<item>where will i find more details about</item>
+					<item>where will i find more details on</item>
+					<item>where will i find more details for</item>
+					<item>where will we find more details about</item>
+					<item>where will we find more details on</item>
+					<item>where will we find more details for</item>
+					<item>where will you find more details about</item>
+					<item>where will you find more details on</item>
+					<item>where will you find more details for</item>
+					
+					<item>where shall i find more details about</item>
+					<item>where shall i find more details on</item>
+					<item>where shall i find more details for</item>
+					<item>where shall we find more details about</item>
+					<item>where shall we find more details on</item>
+					<item>where shall we find more details for</item>
+					<item>where shall you find more details about</item>
+					<item>where shall you find more details on</item>
+					<item>where shall you find more details for</item>
+					
+					<item>where do i find more details about</item>
+					<item>where do i find more details on</item>
+					<item>where do i find more details for</item>
+					<item>where do we find more details about</item>
+					<item>where do we find more details on</item>
+					<item>where do we find more details for</item>
+					<item>where do you find more details about</item>
+					<item>where do you find more details on</item>
+					<item>where do you find more details for</item>
+					
+					<item>where can i find more about</item>
+					<item>where can i find more on</item>
+					<item>where can i find more for</item>
+					<item>where can we find more about</item>
+					<item>where can we find more on</item>
+					<item>where can we find more for</item>
+					<item>where can you find more about</item>
+					<item>where can you find more on</item>
+					<item>where can you find more for</item>
+					
+					<item>where could i find more about</item>
+					<item>where could i find more on</item>
+					<item>where could i find more for</item>
+					<item>where could we find more about</item>
+					<item>where could we find more on</item>
+					<item>where could we find more for</item>
+					<item>where could you find more about</item>
+					<item>where could you find more on</item>
+					<item>where could you find more for</item>
+					
+					<item>where may i find more about</item>
+					<item>where may i find more on</item>
+					<item>where may i find more for</item>
+					<item>where may we find more about</item>
+					<item>where may we find more on</item>
+					<item>where may we find more for</item>
+					<item>where may you find more about</item>
+					<item>where may you find more on</item>
+					<item>where may you find more for</item>
+					
+					<item>where will i find more about</item>
+					<item>where will i find more on</item>
+					<item>where will i find more for</item>
+					<item>where will we find more about</item>
+					<item>where will we find more on</item>
+					<item>where will we find more for</item>
+					<item>where will you find more about</item>
+					<item>where will you find more on</item>
+					<item>where will you find more for</item>
+					
+					<item>where shall i find more about</item>
+					<item>where shall i find more on</item>
+					<item>where shall i find more for</item>
+					<item>where shall we find more about</item>
+					<item>where shall we find more on</item>
+					<item>where shall we find more for</item>
+					<item>where shall you find more about</item>
+					<item>where shall you find more on</item>
+					<item>where shall you find more for</item>
+					
+					<item>where do i find more about</item>
+					<item>where do i find more on</item>
+					<item>where do i find more for</item>
+					<item>where do we find more about</item>
+					<item>where do we find more on</item>
+					<item>where do we find more for</item>
+					<item>where do you find more about</item>
+					<item>where do you find more on</item>
+					<item>where do you find more for</item>
+					
+					<item>where can i find more </item>
+					<item>where can we find more </item>
+					<item>where can you find more </item>
+					
+					<item>where could i find more </item>
+					<item>where could we find more </item>
+					<item>where could you find more </item>
+					
+					<item>where may i find more </item>
+					<item>where may we find more </item>
+					<item>where may you find more </item>
+					
+					<item>where will i find more </item>
+					<item>where will we find more </item>
+					<item>where will you find more </item>
+					
+					<item>where shall i find more </item>
+					<item>where shall we find more </item>
+					<item>where shall you find more </item>
+					
+					<item>where do i find more </item>
+					<item>where do we find more </item>
+					<item>where do you find more </item>
+					
+					<item>where can i find information about</item>
+					<item>where can i find information on</item>
+					<item>where can i find information for</item>
+					<item>where can we find information about</item>
+					<item>where can we find information on</item>
+					<item>where can we find information for</item>
+					<item>where can you find information about</item>
+					<item>where can you find information on</item>
+					<item>where can you find information for</item>
+					
+					<item>where could i find information about</item>
+					<item>where could i find information on</item>
+					<item>where could i find information for</item>
+					<item>where could we find information about</item>
+					<item>where could we find information on</item>
+					<item>where could we find information for</item>
+					<item>where could you find information about</item>
+					<item>where could you find information on</item>
+					<item>where could you find information for</item>
+					
+					<item>where may i find information about</item>
+					<item>where may i find information on</item>
+					<item>where may i find information for</item>
+					<item>where may we find information about</item>
+					<item>where may we find information on</item>
+					<item>where may we find information for</item>
+					<item>where may you find information about</item>
+					<item>where may you find information on</item>
+					<item>where may you find information for</item>
+					
+					<item>where will i find information about</item>
+					<item>where will i find information on</item>
+					<item>where will i find information for</item>
+					<item>where will we find information about</item>
+					<item>where will we find information on</item>
+					<item>where will we find information for</item>
+					<item>where will you find information about</item>
+					<item>where will you find information on</item>
+					<item>where will you find information for</item>
+					
+					<item>where shall i find information about</item>
+					<item>where shall i find information on</item>
+					<item>where shall i find information for</item>
+					<item>where shall we find information about</item>
+					<item>where shall we find information on</item>
+					<item>where shall we find information for</item>
+					<item>where shall you find information about</item>
+					<item>where shall you find information on</item>
+					<item>where shall you find information for</item>
+					
+					<item>where do i find information about</item>
+					<item>where do i find information on</item>
+					<item>where do i find information for</item>
+					<item>where do we find information about</item>
+					<item>where do we find information on</item>
+					<item>where do we find information for</item>
+					<item>where do you find information about</item>
+					<item>where do you find information on</item>
+					<item>where do you find information for</item>
+					
+					
+					<item>where can i find about</item>
+					<item>where can i find on</item>
+					<item>where can i find for</item>
+					<item>where can we find about</item>
+					<item>where can we find on</item>
+					<item>where can we find for</item>
+					<item>where can you find about</item>
+					<item>where can you find on</item>
+					<item>where can you find for</item>
+					
+					<item>where could i find about</item>
+					<item>where could i find on</item>
+					<item>where could i find for</item>
+					<item>where could we find about</item>
+					<item>where could we find on</item>
+					<item>where could we find for</item>
+					<item>where could you find about</item>
+					<item>where could you find on</item>
+					<item>where could you find for</item>
+					
+					<item>where may i find about</item>
+					<item>where may i find on</item>
+					<item>where may i find for</item>
+					<item>where may we find about</item>
+					<item>where may we find on</item>
+					<item>where may we find for</item>
+					<item>where may you find about</item>
+					<item>where may you find on</item>
+					<item>where may you find for</item>
+					
+					<item>where will i find about</item>
+					<item>where will i find on</item>
+					<item>where will i find for</item>
+					<item>where will we find about</item>
+					<item>where will we find on</item>
+					<item>where will we find for</item>
+					<item>where will you find about</item>
+					<item>where will you find on</item>
+					<item>where will you find for</item>
+					
+					<item>where shall i find about</item>
+					<item>where shall i find on</item>
+					<item>where shall i find for</item>
+					<item>where shall we find about</item>
+					<item>where shall we find on</item>
+					<item>where shall we find for</item>
+					<item>where shall you find about</item>
+					<item>where shall you find on</item>
+					<item>where shall you find for</item>
+					
+					<item>where do i find about</item>
+					<item>where do i find on</item>
+					<item>where do i find for</item>
+					<item>where do we find about</item>
+					<item>where do we find on</item>
+					<item>where do we find for</item>
+					<item>where do you find about</item>
+					<item>where do you find on</item>
+					<item>where do you find for</item>
+					
+					<item>where can i find</item>
+					<item>where can we find</item>
+					<item>where can you find</item>
+					
+					<item>where could i find</item>
+					<item>where could we find</item>
+					<item>where could you find</item>
+					
+					<item>where may i find</item>
+					<item>where may we find</item>
+					<item>where may you find</item>
+					
+					<item>where will i find</item>
+					<item>where will we find</item>
+					<item>where will you find</item>
+					
+					<item>where shall i find</item>
+					<item>where shall we find</item>
+					<item>where shall you find</item>
+					
+					<item>where do i find</item>
+					<item>where do we find</item>
+					<item>where do you find</item>
+					
+					<item>from where are sources</item>
+					<item>from where is sources</item>
+					
+					
+					
+					
+					<item>where can i get more information about</item>
+					<item>where can i get more information on</item>
+					<item>where can i get more information for</item>
+					<item>where can we get more information about</item>
+					<item>where can we get more information on</item>
+					<item>where can we get more information for</item>
+					<item>where can you get more information about</item>
+					<item>where can you get more information on</item>
+					<item>where can you get more information for</item>
+					
+					<item>where could i get more information about</item>
+					<item>where could i get more information on</item>
+					<item>where could i get more information for</item>
+					<item>where could we get more information about</item>
+					<item>where could we get more information on</item>
+					<item>where could we get more information for</item>
+					<item>where could you get more information about</item>
+					<item>where could you get more information on</item>
+					<item>where could you get more information for</item>
+					
+					<item>where may i get more information about</item>
+					<item>where may i get more information on</item>
+					<item>where may i get more information for</item>
+					<item>where may we get more information about</item>
+					<item>where may we get more information on</item>
+					<item>where may we get more information for</item>
+					<item>where may you get more information about</item>
+					<item>where may you get more information on</item>
+					<item>where may you get more information for</item>
+					
+					<item>where will i get more information about</item>
+					<item>where will i get more information on</item>
+					<item>where will i get more information for</item>
+					<item>where will we get more information about</item>
+					<item>where will we get more information on</item>
+					<item>where will we get more information for</item>
+					<item>where will you get more information about</item>
+					<item>where will you get more information on</item>
+					<item>where will you get more information for</item>
+					
+					<item>where shall i get more information about</item>
+					<item>where shall i get more information on</item>
+					<item>where shall i get more information for</item>
+					<item>where shall we get more information about</item>
+					<item>where shall we get more information on</item>
+					<item>where shall we get more information for</item>
+					<item>where shall you get more information about</item>
+					<item>where shall you get more information on</item>
+					<item>where shall you get more information for</item>
+					
+					<item>where do i get more information about</item>
+					<item>where do i get more information on</item>
+					<item>where do i get more information for</item>
+					<item>where do we get more information about</item>
+					<item>where do we get more information on</item>
+					<item>where do we get more information for</item>
+					<item>where do you get more information about</item>
+					<item>where do you get more information on</item>
+					<item>where do you get more information for</item>
+					
+					
+					<item>where can i get more details about</item>
+					<item>where can i get more details on</item>
+					<item>where can i get more details for</item>
+					<item>where can we get more details about</item>
+					<item>where can we get more details on</item>
+					<item>where can we get more details for</item>
+					<item>where can you get more details about</item>
+					<item>where can you get more details on</item>
+					<item>where can you get more details for</item>
+					
+					<item>where could i get more details about</item>
+					<item>where could i get more details on</item>
+					<item>where could i get more details for</item>
+					<item>where could we get more details about</item>
+					<item>where could we get more details on</item>
+					<item>where could we get more details for</item>
+					<item>where could you get more details about</item>
+					<item>where could you get more details on</item>
+					<item>where could you get more details for</item>
+					
+					<item>where may i get more details about</item>
+					<item>where may i get more details on</item>
+					<item>where may i get more details for</item>
+					<item>where may we get more details about</item>
+					<item>where may we get more details on</item>
+					<item>where may we get more details for</item>
+					<item>where may you get more details about</item>
+					<item>where may you get more details on</item>
+					<item>where may you get more details for</item>
+					
+					<item>where will i get more details about</item>
+					<item>where will i get more details on</item>
+					<item>where will i get more details for</item>
+					<item>where will we get more details about</item>
+					<item>where will we get more details on</item>
+					<item>where will we get more details for</item>
+					<item>where will you get more details about</item>
+					<item>where will you get more details on</item>
+					<item>where will you get more details for</item>
+					
+					<item>where shall i get more details about</item>
+					<item>where shall i get more details on</item>
+					<item>where shall i get more details for</item>
+					<item>where shall we get more details about</item>
+					<item>where shall we get more details on</item>
+					<item>where shall we get more details for</item>
+					<item>where shall you get more details about</item>
+					<item>where shall you get more details on</item>
+					<item>where shall you get more details for</item>
+					
+					<item>where do i get more details about</item>
+					<item>where do i get more details on</item>
+					<item>where do i get more details for</item>
+					<item>where do we get more details about</item>
+					<item>where do we get more details on</item>
+					<item>where do we get more details for</item>
+					<item>where do you get more details about</item>
+					<item>where do you get more details on</item>
+					<item>where do you get more details for</item>
+					
+					<item>where can i get more about</item>
+					<item>where can i get more on</item>
+					<item>where can i get more for</item>
+					<item>where can we get more about</item>
+					<item>where can we get more on</item>
+					<item>where can we get more for</item>
+					<item>where can you get more about</item>
+					<item>where can you get more on</item>
+					<item>where can you get more for</item>
+					
+					<item>where could i get more about</item>
+					<item>where could i get more on</item>
+					<item>where could i get more for</item>
+					<item>where could we get more about</item>
+					<item>where could we get more on</item>
+					<item>where could we get more for</item>
+					<item>where could you get more about</item>
+					<item>where could you get more on</item>
+					<item>where could you get more for</item>
+					
+					<item>where may i get more about</item>
+					<item>where may i get more on</item>
+					<item>where may i get more for</item>
+					<item>where may we get more about</item>
+					<item>where may we get more on</item>
+					<item>where may we get more for</item>
+					<item>where may you get more about</item>
+					<item>where may you get more on</item>
+					<item>where may you get more for</item>
+					
+					<item>where will i get more about</item>
+					<item>where will i get more on</item>
+					<item>where will i get more for</item>
+					<item>where will we get more about</item>
+					<item>where will we get more on</item>
+					<item>where will we get more for</item>
+					<item>where will you get more about</item>
+					<item>where will you get more on</item>
+					<item>where will you get more for</item>
+					
+					<item>where shall i get more about</item>
+					<item>where shall i get more on</item>
+					<item>where shall i get more for</item>
+					<item>where shall we get more about</item>
+					<item>where shall we get more on</item>
+					<item>where shall we get more for</item>
+					<item>where shall you get more about</item>
+					<item>where shall you get more on</item>
+					<item>where shall you get more for</item>
+					
+					<item>where do i get more about</item>
+					<item>where do i get more on</item>
+					<item>where do i get more for</item>
+					<item>where do we get more about</item>
+					<item>where do we get more on</item>
+					<item>where do we get more for</item>
+					<item>where do you get more about</item>
+					<item>where do you get more on</item>
+					<item>where do you get more for</item>
+					
+					<item>where can i get more </item>
+					<item>where can we get more </item>
+					<item>where can you get more </item>
+					
+					<item>where could i get more </item>
+					<item>where could we get more </item>
+					<item>where could you get more </item>
+					
+					<item>where may i get more </item>
+					<item>where may we get more </item>
+					<item>where may you get more </item>
+					
+					<item>where will i get more </item>
+					<item>where will we get more </item>
+					<item>where will you get more </item>
+					
+					<item>where shall i get more </item>
+					<item>where shall we get more </item>
+					<item>where shall you get more </item>
+					
+					<item>where do i get more </item>
+					<item>where do we get more </item>
+					<item>where do you get more </item>
+					
+					<item>where can i get information about</item>
+					<item>where can i get information on</item>
+					<item>where can i get information for</item>
+					<item>where can we get information about</item>
+					<item>where can we get information on</item>
+					<item>where can we get information for</item>
+					<item>where can you get information about</item>
+					<item>where can you get information on</item>
+					<item>where can you get information for</item>
+					
+					<item>where could i get information about</item>
+					<item>where could i get information on</item>
+					<item>where could i get information for</item>
+					<item>where could we get information about</item>
+					<item>where could we get information on</item>
+					<item>where could we get information for</item>
+					<item>where could you get information about</item>
+					<item>where could you get information on</item>
+					<item>where could you get information for</item>
+					
+					<item>where may i get information about</item>
+					<item>where may i get information on</item>
+					<item>where may i get information for</item>
+					<item>where may we get information about</item>
+					<item>where may we get information on</item>
+					<item>where may we get information for</item>
+					<item>where may you get information about</item>
+					<item>where may you get information on</item>
+					<item>where may you get information for</item>
+					
+					<item>where will i get information about</item>
+					<item>where will i get information on</item>
+					<item>where will i get information for</item>
+					<item>where will we get information about</item>
+					<item>where will we get information on</item>
+					<item>where will we get information for</item>
+					<item>where will you get information about</item>
+					<item>where will you get information on</item>
+					<item>where will you get information for</item>
+					
+					<item>where shall i get information about</item>
+					<item>where shall i get information on</item>
+					<item>where shall i get information for</item>
+					<item>where shall we get information about</item>
+					<item>where shall we get information on</item>
+					<item>where shall we get information for</item>
+					<item>where shall you get information about</item>
+					<item>where shall you get information on</item>
+					<item>where shall you get information for</item>
+					
+					<item>where do i get information about</item>
+					<item>where do i get information on</item>
+					<item>where do i get information for</item>
+					<item>where do we get information about</item>
+					<item>where do we get information on</item>
+					<item>where do we get information for</item>
+					<item>where do you get information about</item>
+					<item>where do you get information on</item>
+					<item>where do you get information for</item>
+					
+					
+					<item>where can i get about</item>
+					<item>where can i get on</item>
+					<item>where can i get for</item>
+					<item>where can we get about</item>
+					<item>where can we get on</item>
+					<item>where can we get for</item>
+					<item>where can you get about</item>
+					<item>where can you get on</item>
+					<item>where can you get for</item>
+					
+					<item>where could i get about</item>
+					<item>where could i get on</item>
+					<item>where could i get for</item>
+					<item>where could we get about</item>
+					<item>where could we get on</item>
+					<item>where could we get for</item>
+					<item>where could you get about</item>
+					<item>where could you get on</item>
+					<item>where could you get for</item>
+					
+					<item>where may i get about</item>
+					<item>where may i get on</item>
+					<item>where may i get for</item>
+					<item>where may we get about</item>
+					<item>where may we get on</item>
+					<item>where may we get for</item>
+					<item>where may you get about</item>
+					<item>where may you get on</item>
+					<item>where may you get for</item>
+					
+					<item>where will i get about</item>
+					<item>where will i get on</item>
+					<item>where will i get for</item>
+					<item>where will we get about</item>
+					<item>where will we get on</item>
+					<item>where will we get for</item>
+					<item>where will you get about</item>
+					<item>where will you get on</item>
+					<item>where will you get for</item>
+					
+					<item>where shall i get about</item>
+					<item>where shall i get on</item>
+					<item>where shall i get for</item>
+					<item>where shall we get about</item>
+					<item>where shall we get on</item>
+					<item>where shall we get for</item>
+					<item>where shall you get about</item>
+					<item>where shall you get on</item>
+					<item>where shall you get for</item>
+					
+					<item>where do i get about</item>
+					<item>where do i get on</item>
+					<item>where do i get for</item>
+					<item>where do we get about</item>
+					<item>where do we get on</item>
+					<item>where do we get for</item>
+					<item>where do you get about</item>
+					<item>where do you get on</item>
+					<item>where do you get for</item>
+					
+					<item>where can i get</item>
+					<item>where can we get</item>
+					<item>where can you get</item>
+					
+					<item>where could i get</item>
+					<item>where could we get</item>
+					<item>where could you get</item>
+					
+					<item>where may i get</item>
+					<item>where may we get</item>
+					<item>where may you get</item>
+					
+					<item>where will i get</item>
+					<item>where will we get</item>
+					<item>where will you get</item>
+					
+					<item>where shall i get</item>
+					<item>where shall we get</item>
+					<item>where shall you get</item>
+					
+					<item>where do i get</item>
+					<item>where do we get</item>
+					<item>where do you get</item>
+				</words_list>
+				<possible_types>
+					<item>source</item>
+					<item>label_definition</item>
+				</possible_types>
+				<next_position>3.3</next_position>
+			</condition>
+			
+			<condition id="2.2.4">
+				<words_list>
+					<item>any_words</item>		
+				</words_list>
+				<result>
+					<query_type>label_definition</query_type>
+					<query_type>sub_class</query_type>
+					<query_type>super_class</query_type>
+					<input_entity>2.2</input_entity>
+				</result>
+			</condition>
+			<default>
+				<result>unknown</result>
+			</default>
+		</position>
+		
+		<position id="2.3">
+			<condition id="2.3.1">
+				<words_list>
+					<item>any_words</item>		
+				</words_list>
+				<result>
+					<query_type>sub_class</query_type>
+					<query_type>label_definition</query_type>					
+					<input_entity>2.3</input_entity>
+				</result>
+			</condition>
+			<default>
+				<result>unknown</result>
+			</default>
+		</position>
+		
+		<position id="2.4">
+			<condition id="2.4.1">
+				<words_list>
+					<item>any_words</item>
+				</words_list>
+				<result>
+					<query_type>measurement</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.4</input_entity>
+				</result>
+			</condition>
+			<default>
+				<result>unknown</result>
+			</default>
+		</position>	
+		
+		<position id="2.5">
+			<condition id="2.5.1">
+				<words_list>
+					<item>any_words</item>
+				</words_list>
+				<result>
+					<query_type>source</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.5</input_entity>
+				</result>
+			</condition>
+			<default>
+				<result>unknown</result>
+			</default>
+		</position>
+		
+    </condition_level>
+		
+	
+	<condition_level id="3">
+		<position id="3.1">
+			<condition id="3.1.1">
+				<words_list>
+					<item>any_words</item>
+				</words_list>
+				<result>
+					<query_type>measurement</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>3.1</input_entity>
+				</result>
+			</condition>
+			<default>
+				<result>unknown</result>
+			</default>
+		</position>
+        <position id="3.2">
+			<condition id="3.2.1">
+				<words_list>
+					<item>any_words</item>
+				</words_list>
+				<result>
+					<query_type>sub_class</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>3.2</input_entity>
+				</result>
+			</condition>
+			<default>
+				<result>unknown</result>
+			</default>
+		</position>
+		
+		<position id="3.3">
+			<condition id="3.3.1">
+				<words_list>
+					<item>any_words</item>
+				</words_list>
+				<result>
+					<query_type>source</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>3.3</input_entity>
+				</result>
+			</condition>
+			<default>
+				<result>unknown</result>
+			</default>
+		</position>
+    </condition_level>
+	
+</tree>
+
+</data>
+
+
+
+
+
+
+
+

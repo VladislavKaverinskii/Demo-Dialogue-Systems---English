@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<api_config>
+	<main_host>test.ulif.org.ua:51080</main_host>
+	<api_address>/ken/api/en/</api_address>
+	<allterms_address>allterms</allterms_address>
+	<parce_address>parcexml</parce_address>
+	<headers>
+		<Content-Type>multipart/form-data</Content-Type>
+		<content_type>multipart/form-data</content_type>
+	</headers>
+
+</api_config>

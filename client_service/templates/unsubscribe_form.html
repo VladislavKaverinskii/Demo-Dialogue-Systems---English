@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+
+
+{% block chat_form %}
+	<p class="form_label"><b>Чи отримали Ви відповіді на свої запитання?</b></p>
+	<form action="" method="post">
+	  {% csrf_token %}
+	  {{ form.as_p }}
+	  <div class="">
+		<div class="">
+		  <div class="">
+
+			<input hidden="true" type="text" name="result" value="True" />
+			<p class="button_area">
+				<span>
+					<button type="submit" class="btn btn-primary btn-md"><strong>Так, я задоволений.</strong></button>
+				</span>
+				
+			</p>
+		  </div>
+		</div>
+	  </div>
+	</form>
+	
+	<form action="" method="post">
+	  {% csrf_token %}
+	  {{ form.as_p }}
+		<div class="">
+			<div class="">
+			  <div class="">
+			  <input hidden="true" type="text" name="result" value="False" />
+			  <p class="button_area">
+				<span>
+					<button type="submit" class="btn btn-primary btn-md"><strong>Ні, відповіді мене не влаштовують.</strong></button>
+				</span>
+				
+			</p>
+		  </div>
+		</div>
+	  </div>
+	</form>
+				
+	
+	
+{% endblock %}
+
+{% block main_answer %}
+
+
+{% endblock %}

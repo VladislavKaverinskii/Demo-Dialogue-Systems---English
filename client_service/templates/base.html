@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	{% load static %}
+	<title>Довыдкова система - Олесь Гончар</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Тестовий український чат-бот">
+	<meta name="author" content="kaverinsky">
+	<link href="{% static 'css/style.css' %}" rel="stylesheet">
+	<script src="https://code.jquery.com/jquery-latest.min.js"></script>
+	
+	<script type="text/javascript">
+	
+	    jQuery.browser = {};
+		jQuery.browser.mozilla=/mozilla/.test(navigator.userAgent.toLowerCase())&&!/webkit/.test(navigator.userAgent.toLowerCase());
+		jQuery.browser.webkit=/webkit/.test(navigator.userAgent.toLowerCase());
+		jQuery.browser.opera=/opera/.test(navigator.userAgent.toLowerCase());
+		jQuery.browser.msie=/msie/.test(navigator.userAgent.toLowerCase());
+
+		$(document).ready(function(){
+	
+			scroll_to_end ();	
+			
+			function scroll_to_end () {
+					
+			}
+			
+			if ($.browser.safari) {
+				$('body').animate({
+				scrollTop: $("#last_message").offset().top}, 250);
+			} else {
+				$('html').animate({
+				scrollTop: $("#last_message").offset().top}, 100);
+			}
+			return false;
+				
+			});
+
+	</script>
+	
+</head>
+<body>
+	<div class="header">{% include "header.html" %}</div>	
+	{% block main_answer %}{% endblock %}
+	<div class="form_area">{% block chat_form %}{% endblock %}</div>
+	{% block unsubscribe %}{% endblock %}
+	<div class="footer" >{% include "footer.html" %}</div>
+</body>
+</html>

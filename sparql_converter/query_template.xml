@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='utf8'?>
+<templates>
+	<template>
+		<language>english</language>
+		<type>label_definition</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>title</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [title] [result] </query_base>
+		<conditions>
+			<condition>[inputEntity] rdfs:label [result]. </condition>
+			<condition>[inputEntity] rdfs:label [title]. </condition>
+			<condition>filter ([title] != [result]). </condition>
+			<condition>filter (!regex(replace(replace(str([inputEntity]), "__", "-"), "_", " "), str([result]))). </condition>
+			<condition>filter (strlen(str([result])) > 0). </condition>
+			<condition>filter (strlen(str([result])) >= strlen(str([title]))). </condition>
+		</conditions>	
+	</template>
+	<template>
+		<language>english</language>
+		<type>sub_class</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>title</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [title] [result] </query_base>
+		<conditions>
+			<condition>[variableEntity_1] rdfs:subClassOf [inputEntity]. </condition>
+			<condition>[variableEntity_1] rdfs:label [result]. </condition>
+			<condition>[variableEntity_1] rdfs:label [title]. </condition>
+			<condition>filter (strlen(str([result])) > 0). </condition>
+			<condition>filter (!regex(replace(replace(str([variableEntity_1]), "__", "-"), "_", " "), str([result]))). </condition>
+			<condition>filter ([title] != [result]). </condition>
+		</conditions>	
+	</template>
+	<template>
+		<language>english</language>
+		<type>super_class</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>title</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [title] [result] </query_base>
+		<conditions>
+			<condition>[inputEntity] rdfs:subClassOf [variableEntity_1]. </condition>
+			<condition>[variableEntity_1] rdfs:label [result]. </condition>
+			<condition>[variableEntity_1] rdfs:label [title]. </condition>
+			<condition>filter (strlen(str([result])) > 0). </condition>
+			<condition>filter (!regex(replace(replace(str([variableEntity_1]), "__", "-"), "_", " "), str([result]))). </condition>
+			<condition>filter ([title] != [result]). </condition>
+		</conditions>	
+	</template>
+	
+	
+	<template>
+		<language>english</language>
+		<type>measurement</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>title</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [title] [result] </query_base>
+		<conditions>
+			<condition>:Measurement_methodology rdfs[inputEntity] [result]. </condition>
+			<condition>:Measurement_methodology rdfs:subClassOf [variableEntity_1]. </condition>
+			<condition>[variableEntity_1] rdfs:label [title].</condition>
+			<condition>filter (strlen(str([result])) > 0). </condition>
+			<condition>filter ([variableEntity_1] = [inputEntity]). </condition>
+			<condition>filter (regex(replace(replace(str([inputEntity]), "__", "-"), "_", " "), str([title]))). </condition>
+		</conditions>	
+	</template>
+	<template>
+		<language>ukrainian</language>
+		<type>source</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>title</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [title] [result] </query_base>
+		<conditions>
+			<condition>:Potential_sources_of_information rdfs[inputEntity] [result]. </condition>
+			<condition>:Potential_sources_of_information rdfs:subClassOf [variableEntity_1]. </condition>
+			<condition>[variableEntity_1] rdfs:label [title].</condition>
+			<condition>filter (strlen(str([result])) > 0). </condition>
+			<condition>filter ([variableEntity_1] = [inputEntity]). </condition>
+			<condition>filter (regex(replace(replace(str([inputEntity]), "__", "-"), "_", " "), str([title]))). </condition>
+		</conditions>	
+	</template>
+	
+	
+	
+	
+</templates>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

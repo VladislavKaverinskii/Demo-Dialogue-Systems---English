@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<mongo_config>
+	<admin>insamhlaithe</admin>
+	<password>insamhlaithe</password>
+	<db_url>kaverinsky-t57jb.azure.mongodb.net/</db_url>
+	<base>mongodb+srv</base>
+	<db_name>SDG</db_name>
+	<collection_name>ConverterIDStore</collection_name>
+</mongo_config>

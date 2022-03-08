@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<config>
+	<ontologies>
+		<item>ontology</item>
+		<item>ontology_ep</item>
+		<item>aliyev</item>
+	</ontologies>
+	<default_ontology>ontology</default_ontology>
+</config>
