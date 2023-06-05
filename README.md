@@ -16,5 +16,11 @@ For the system to work, you should create a database on MongoDB that contains th
     ontology: the OWL ontology itself;
     keywords: a list of concepts included in this ontology
 
+You should also create a database under PostgreSQL, to which the user and the password. These parameters are to set in the settings.py file in the client_service.
 
+There is a mongo_client_config_answers.xml configuration file with the AnswersCache target collection. This collection is used to temporarily store received responses.
+The chatbot_config.xml file has a sparql_converter_url_common parameter. The chatbot_config.xml file has a cache_clean_time parameter, the value of which specifies the storage period of responses for repeated accelerated issuance (bypassing formal queries to the ontology). The time is given in seconds.
 
+The application has a keywords_generators directory, which contains software modules that automatically generate keywords.json, ontology_entities.json, and tree_entities.json files, which are used in procedures to bring entities selected from a user to those contained in the values of vertices and/or predicates ontological graph, as well as for the screening of concepts unknown to the system. 
+The tree.xml file contains the decision tree that is used in the semantic analysis of the user's phrase.
+The links_dict.json file contain links to the images files needed for the responses.
