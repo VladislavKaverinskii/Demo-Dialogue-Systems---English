@@ -3,4 +3,5 @@ This is a demo example of an ontology driven dialogues system, which uses set of
 
 The system has three main components: 
     client_service includes Django application for the user web interface representation
+    ontology_service is a Flask application which operates as a micro-service and dealing with ontologies
     
