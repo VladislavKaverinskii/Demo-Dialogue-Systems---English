@@ -9,6 +9,12 @@ ontology_service is a Flask application which operates as a micro-service and de
     
 sparql_converter is a Flask application also a micro-service responsible for formation of SPARQL queries according to the input users' phrases. 
     
+For the system to work, you should create a database on MongoDB that contains the following collections: AdditionalData, AnswersCache, ConverterIDStore, ConverterResults, Ontologies, OntologyIDStore, OntologyResults. The Ontologies collection contains OWL ontologies and must be pre-populated. The Ontologies collection contains the ontologies available in the system, their names and keywords in the format: 
+
+    id: identifier assigned automatically by MongoDB;
+    name: ontology name;
+    ontology: the OWL ontology itself;
+    keywords: a list of concepts included in this ontology
 
 
 
