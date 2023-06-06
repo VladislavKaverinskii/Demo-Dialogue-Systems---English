@@ -25,11 +25,17 @@ You should also create a database under PostgreSQL, to which the user and the pa
 There is a mongo_client_config_answers.xml configuration file with the AnswersCache target collection. This collection is used to temporarily store received responses.
 The chatbot_config.xml file has a sparql_converter_url_common parameter. The chatbot_config.xml file has a cache_clean_time parameter, the value of which specifies the storage period of responses for repeated accelerated issuance (bypassing formal queries to the ontology). The time is given in seconds.
 
-It is assumed that entities stored in the ontology nodes are verbose. So it is quite unlikely for them to appear in a user's phrase in the direction close shape. So a procedure is needed to substitute the extracted terms with the closest present in the ontology or/and in the desition tree. In this case, both extension and shrinking of the context may occur. To simplify such a procedure performance the following files are included: keywords.json (name may vary from the ontology name because there could be several of such files each of them relates to the certain ontology), ontology_entities.json, and tree_entities.json files, which are used in procedures to bring entities selected from a user to those contained in the values of vertices and/or predicates ontological graph, as well as for the screening of concepts unknown to the system.  
+It is assumed that entities stored in the ontology nodes are verbose. So it is quite unlikely for them to appear in a user's phrase in the direction close shape. So a procedure is needed to substitute the extracted terms with the closest present in the ontology or/and in the desition tree. In this case, both extension and shrinking of the context may occur. To simplify such a procedure performance the keywords.json files are included (name may vary from the ontology name because there could be several of such files each of them relates to the certain ontology), which are used in procedures to bring entities selected from a user to those contained in the values of vertices and predicates of ontological graphs, as well as for the screening of concepts unknown to the system.  
 
 The tree.xml file contains the decision tree that is used in the semantic analysis of the user's phrase.
 
 The links_dict.json file contains links to the image files needed for the responses. 
+
+## Description and usage of the components
+
+### client_service
+It is a main shell that not only implements the users web interface but also preprocessing and postprocessing of the data.
+
 
 
 
