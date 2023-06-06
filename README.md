@@ -42,7 +42,24 @@ Because it is a Django application it has the appropriate known structure. SDG d
     turn off/on the DEBUG in the settings.py file
     
 The main files of the application business logic are in the directory SDGbot. Among them the most important is views.py. The only two models are CommunicationAct and UserDialogPosition. CommunicationAct model is responsible for interaction between services and user storage. UserDialogPosition is needed for the dialogues histories store and restore after the page reloading. UserDialogPosition notes are normally automatically periodically deleted from the database when expire.
+
 In the *static* directory among other things, pdf files are stored to be displayed in the dialogue system interface. They represent the sources the ontologies are based on.
+
+To deal with each of the ontology and with the subject area in belongs to there are three sub-urls. Here thy are: 
+
+    path('', csrf_exempt(views.StartConversation.as_view()), name="index"),
+    path('european_parlament/', csrf_exempt(views.StartConversationEP.as_view()), name="index_2"),
+    path('aliyev/', csrf_exempt(views.StartConversationAliyev.as_view()), name="index_3")
+
+The entry point of the application in file *manage.py* in the root directory of the application. Its behaviour obey the general rules of the Django applications. 
+
+Files keywords.json and keywords_aliyev.json represent named entities from the different ontologies used in the system. These files are created automaticaly from the OWL ontologies and have the following structure:
+
+
+
+
+
+
 
 
 
