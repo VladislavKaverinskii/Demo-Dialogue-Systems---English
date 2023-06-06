@@ -93,6 +93,31 @@ Most of the application settings are gathered in the file chatbot_config.xml. It
     <dialog_answers> - responses for typical standard situations not related to the subject area of the system. They are provided according to the related <markers> in the user’s message.
     <goodbye_phrases> - phrases for verbose closing of a dialogue with the system
 
+### sparql_converter
+
+The entry point of this application is text_to_sparql.py 
+	
+The scripts corresponds to the business logic of the service are gathered in the *converter* directory.
+
+The main settings are given in the agent_config.xml file. It has the following staitments:
+
+    <name> - the name of the service
+    <queue_timout> - max time (in seconds) to keep a task in queue
+    <ttl> - time to keep in the queue completed tasks
+    <result_ttl> - time to store the results in queue
+    <failure_ttl> - time to store the failure messages in queue
+    <check_ids_interval> - periodicity to check the expired ID’s
+    <limitation> - max time to store the results in the data base
+    <garbage_deleting> - time (in seconds) how long the temporary data are to be kept
+    <host> - the host the service works on
+    <port> - the port the service works on
+    <responding_url> - URL to send the obtained results
+    <ansver_attempts> - number of the attempts to obtain the response
+
+File ontologies_list.xml contains the list of the ontologies names used in the system
+
+File tree.xml is an XML representation of the decision tree used for the appropriate SPARQL query template selection basing on the words from the input user’s phrase.
+
 
 
 
