@@ -53,7 +53,15 @@ To deal with each of the ontology and with the subject area in belongs to there 
 
 The entry point of the application in file *manage.py* in the root directory of the application. Its behaviour obey the general rules of the Django applications. 
 
-Files keywords.json and keywords_aliyev.json represent named entities from the different ontologies used in the system. These files are created automaticaly from the OWL ontologies and have the following structure:
+Files keywords.json and keywords_aliyev.json represent named entities from the different ontologies used in the system. These files are created automaticaly from the OWL ontologies and have the following structure. It is a cictionary with the next high level keys:
+
+    "class_names_dict" - entities relate to the OWL classes
+    "individual_names_dict" - entities relate to the OWL individuals
+    "pradicates" - entities relate to the named specific predicates from the ontology
+    "defined_classes" - names of the classes that are linked with specific predicates
+    
+  Such a classification simplifies the futher entities substitution to SPARQL queries.
+  
 
 
 
