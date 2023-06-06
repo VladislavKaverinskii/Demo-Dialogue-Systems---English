@@ -92,7 +92,7 @@ Most of the application settings are gathered in the file chatbot_config.xml. It
     <standard_answers>, <explanations>      - explanations for failures
     <dialog_answers> - responses for typical standard situations not related to the subject area of the system. They are provided according to the related <markers> in the user’s message.
     <goodbye_phrases> - phrases for verbose closing of a dialogue with the system
-
+    
 ### sparql_converter
 
 The entry point of this application is text_to_sparql.py 
@@ -117,6 +117,23 @@ The main settings are given in the agent_config.xml file. It has the following s
 File ontologies_list.xml contains the list of the ontologies names used in the system
 
 File tree.xml is an XML representation of the decision tree used for the appropriate SPARQL query template selection basing on the words from the input user’s phrase.
+
+The query_template.xml file contains the XML representation of the SPAEQL queries templates.
+
+Files *mongo_id_store_config.xml* and *mongo_results_config.xml* serve as configuration of Mongo DB connection. The first represent the collection of tempropy conversation ID’s storage and the second – the results storage.
+
+The file *mongo_client_config_ontology.xml* contains settins of connection to a Mongo DB collecrion where OWL ontologies are stored. The collection should be made in advance.
+
+### ontology_service
+This is a service that deals with ontologies, SPARQL queries execution and their results primary processing.
+
+The business logic of the application are in the scripts included in the *query_execution* directory.
+
+The entry point is file *ontology_agent.py*.
+
+The main configuration settings are presented in the file *agent_config.xml*. It has the following statements close to ones of the *sparql_converter* service.
+
+Files *mongo_id_store_config.xml* and *mongo_results_config.xml* serve as configuration of Mongo DB connection. The first represent the collection of tempropy conversation ID’s storage and the second – the results storage.
 
 
 
