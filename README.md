@@ -62,9 +62,11 @@ Files keywords.json and keywords_aliyev.json represent named entities from the d
     
 Such a classification simplifies the further entities substitution to SPARQL queries.
 
-The "class_names_dict" has keys which represent the entities of OWL classes as they are given in the ontology. To them corresponds dictionaries with a single key “words”. It includes the list of lemmatized words (“text” key) and the parts of speech (“POS” key) for each word from the corresponding named entity. Parts of speech are marked as it assumed in the NLTK.
+The "class_names_dict" has keys which represent the entities of OWL classes as they are given in the ontology. To them corresponds dictionaries with a single key "words". It includes the list of lemmatized words ("text" key) and the parts of speech ("POS" key) for each word from the corresponding named entity. Parts of speech are marked as it assumed in the NLTK.
 
-  
+The items of the "pradicates" section except the similar “words” part have also a key in "in_class" that represents the list of classes this named predicate belongs to. The same is done for the "individual_names_dict" items. 
+
+
   
 
 
