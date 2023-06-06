@@ -72,7 +72,28 @@ links_dict.json file and the similar relate to the different ontologies includes
     2 – name of the link to be displayed (if null merely the URL will de shown)
     3 – the OWL class name in relates to
 
-  
+Most of the application settings are gathered in the file chatbot_config.xml. It has the following container items:
+
+    <name> - the name of the application
+    <sparql_converter_name> - the name of the SPARQL converter used in the system
+    <sparql_converter_url> - the entry point of the SPARQL converter service API
+    <sparql_converter_password> the password of the SPARQL converter service API
+    <ontology_agent_name> - the name of the ontology agent (service) used in the system
+    <ontology_agent_url> - the entry point of the ontology agent API
+    <ontology_agent_password> - the password of the ontology agent API
+    <conversation_limitation> - the time (in seconds) how long a current dialogue with a certain user could be kept idle (without new messages), i.e. the session duration
+    <garbage_deleting> - time (in seconds) how long the temporary data are to be kept
+    <wait_time> - periodicity (in seconds) to check expired data
+    <db_clean_time> - periodicity (in seconds) to cleat the database of temporary data
+
+    <answers_comments> - additional comments provided to the responses according to certainty of their relevance. There are the six levels: <sure_answer>, <broad_question>, <unsure>, <probably>, <related_info>, and <additional_info>
+
+    <greeting_phrases> - standard phrases to greet the user or supplement the response
+    <standard_answers>, <explanations>      - explanations for failures
+    <dialog_answers> - responses for typical standard situations not related to the subject area of the system. They are provided according to the related <markers> in the user’s message.
+    <goodbye_phrases> - phrases for verbose closing of a dialogue with the system
+
+
 
 
 
