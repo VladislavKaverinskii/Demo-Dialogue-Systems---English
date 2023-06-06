@@ -66,6 +66,11 @@ The "class_names_dict" has keys which represent the entities of OWL classes as t
 
 The items of the "pradicates" section except the similar “words” part have also a key in "in_class" that represents the list of classes this named predicate belongs to. The same is done for the "individual_names_dict" items. 
 
+links_dict.json file and the similar relate to the different ontologies includes keys which correspond to the phrases in the responses tests that require an outer recourse link. To each of the key corresponds a list of three items which are:
+
+    1 – the link itself (URI);
+    2 – name of the link to be displayed (if null merely the URL will de shown)
+    3 – the OWL class name in relates to
 
   
 
