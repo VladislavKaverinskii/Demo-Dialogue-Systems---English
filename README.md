@@ -42,6 +42,9 @@ Because it is a Django application it has the appropriate known structure. SDG d
     turn off/on the DEBUG in the settings.py file
     
 The main files of the application business logic are in the directory SDGbot. Among them the most important is views.py. The only two models are CommunicationAct and UserDialogPosition. CommunicationAct model is responsible for interaction between services and user storage. UserDialogPosition is needed for the dialogues histories store and restore after the page reloading. UserDialogPosition notes are normally automatically periodically deleted from the database when expire.
+In the *static* directory among other things, pdf files are stored to be displayed in the dialogue system interface. They represent the sources the ontologies are based on.
+
+
 
 
 
