@@ -79,10 +79,10 @@ WSGI_APPLICATION = 'SDG.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3', # 'django.db.backends.postgresql_psycopg2',    # 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'), # 'sdg',   # os.path.join(BASE_DIR, 'db.sqlite3'),
-        'PASSWORD': 'f5se7qqk2xewa',
-        'USER': 'insamhlaithe',
+        'ENGINE': 'django.db.backends.sqlite3', # 'django.db.backends.postgresql_psycopg2',',
+        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'), # 'sdg',
+        'PASSWORD': '',
+        'USER': '',
         'HOST': 'localhost',
         'PORT': '',
     }
@@ -122,12 +122,7 @@ USE_L10N = True
 USE_TZ = True
 
 
-# Static files (CSS, JavaScript, Images)
-# https://docs.djangoproject.com/en/3.2/howto/static-files/
-
-
 # Default primary key field type
-# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
